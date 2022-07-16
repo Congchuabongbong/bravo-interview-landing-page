@@ -1,0 +1,34 @@
+<!-- ===Header=== -->
+<header>
+    <!-- ===Container=== -->
+    <div class="container mx-auto px-4">
+        <nav class="flex justify-between items-center py-5">
+            <!-- ===logo=== -->
+            <div class="w-32 md:w-full z-20">
+                <a routerLink="{{routes.home}}" routerLinkActive="active" ariaCurrentWhenActive="page"
+                    class="w-fit inline-block"><img src="../assets/img/logo.png" alt="website logo" /></a>
+            </div>
+            <!-- ===link=== -->
+            <ul id="menu" class="invisible md:visible c-menu" (click)=(toggleMenuMobile())>
+                <li class="m-12 md:m-0"><a routerLink="{{routes.home}}" routerLinkActive="active"
+                        ariaCurrentWhenActive="page" class="c-link">Home</a>
+                </li>
+                <li class="m-12 md:m-0"><a routerLink="{{routes.article}}" routerLinkActive="active"
+                        ariaCurrentWhenActive="page" class="c-link">Article</a>
+                </li>
+                <li class="m-12 md:m-0"><a href="#" class="c-link">FAQ</a>
+                </li>
+                <li class="m-12 md:m-0"><a routerLink="/{{routes.contact}}" routerLinkActive="active"
+                        ariaCurrentWhenActive="page" class="c-link">Contact</a>
+                </li>
+            </ul>
+            <!-- ===menu button===    -->
+            <div id="menu-button" class="z-20 md:hidden cursor-pointer" (click)=(toggleMenuMobile())>
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24"
+                    stroke="currentColor" stroke-width="2">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16" />
+                </svg>
+            </div>
+        </nav>
+    </div>
+</header>

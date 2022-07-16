@@ -1,0 +1,138 @@
+<section class=" md:my-[40px]">
+    <!-- container -->
+    <div class="container mx-auto px-4 ">
+        <div class="content-container flex justify-center items-center lg:items-stretch w-full">
+            <div
+                class="block rounded-lg lg:rounded-none shadow-lg bg-[#e8edf0] w-full md:w-fit lg:w-[50%] p-[24px] md:p-[36px]">
+                <form [formGroup]="contactForm" (ngSubmit)="onSubmit()">
+                    <h2 class="text-[32px] font-[500] mb-[24px]">Contact Us</h2>
+                    <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 sm:gap-6">
+                        <div class="form-group  mb-6">
+                            <label for="name" class="uppercase mb-2 text-[12px] font-semibold">Full Name</label>
+                            <input type="text" class="form-control
+                        block
+                        w-full
+                        px-3
+                        py-1.5
+                        text-base
+                        font-normal
+                        text-gray-700
+                        bg-white bg-clip-padding
+                        border
+                        rounded
+                        transition
+                        ease-in-out
+                        m-0
+                        focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none" id='name'
+                                placeholder="Name..." formControlName="name"
+                                [ngClass]="{ 'is-invalid': submitted && contactF['name'].errors }">
+                            <div *ngIf="submitted && contactF['name'].errors" class="invalid-feedback">
+                                <small *ngIf="contactF['name'].errors['required']"
+                                    class="block mt-1 text-xs text-red-500">Name is required</small>
+                            </div>
+                        </div>
+                        <div class="form-group mb-6">
+                            <label for="email" class="uppercase mb-2 text-[12px] font-semibold">Email Address</label>
+                            <input type="email" class="form-control
+                        block
+                        w-full
+                        px-3
+                        py-1.5
+                        text-base
+                        font-normal
+                        text-gray-700
+                        bg-white bg-clip-padding
+                        border border-solid border-gray-300
+                        rounded
+                        transition
+                        ease-in-out
+                        m-0
+                        focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none" id="email"
+                                placeholder="Email..." formControlName="email"
+                                [ngClass]="{ 'is-invalid': submitted && contactF['email'].errors }">
+                            <div *ngIf="submitted && contactF['email'].errors" class="invalid-feedback">
+                                <span *ngIf="contactF['email'].errors['required']"
+                                    class="block mt-1 text-xs text-red-500">Email is required</span>
+                                <span *ngIf="contactF['email'].errors['email']"
+                                    class="block mt-1 text-xs text-red-500">Email is invalid</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group mb-6">
+                        <label for="subject" class="uppercase mb-2 text-[12px] font-semibold">Subject</label>
+                        <input type="text" class="form-control block
+                        w-full
+                        px-3
+                        py-1.5
+                        text-base
+                        font-normal
+                        text-gray-700
+                        bg-white bg-clip-padding
+                        border border-solid border-gray-300
+                        rounded
+                        transition
+                        ease-in-out
+                        m-0
+                        focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none" id="subject"
+                            placeholder="Subject..." formControlName="subject"
+                            [ngClass]="{ 'is-invalid': submitted && contactF['subject'].errors }">
+                        <div *ngIf="submitted && contactF['subject'].errors" class="invalid-feedback">
+                            <span *ngIf="contactF['subject'].errors['required']"
+                                class="block mt-1 text-xs text-red-500">Subject is required</span>
+                        </div>
+                    </div>
+                    <div class="form-group mb-6">
+                        <label for="message" class="uppercase mb-2 text-[12px] font-semibold">Message</label>
+                        <textarea class="
+                            form-control
+                            block
+                            w-full
+                            px-3
+                            py-1.5
+                            text-base
+                            font-normal
+                            text-gray-700
+                            bg-white bg-clip-padding
+                            border border-solid border-gray-300
+                            rounded
+                            transition
+                            ease-in-out
+                            m-0
+                            focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none
+                        " rows="3" placeholder="Message..." id="message" formControlName="desc"
+                            [ngClass]="{ 'is-invalid': submitted && contactF['desc'].errors }"></textarea>
+                        <div *ngIf="submitted && contactF['desc'].errors" class="invalid-feedback">
+                            <span *ngIf="contactF['desc'].errors['required']"
+                                class="block mt-1 text-xs text-red-500">Message is required</span>
+                            <span *ngIf="contactF['desc'].errors['maxlength']"
+                                class="block mt-1 text-xs text-red-500">Message must not exceed 250 characters</span>
+                        </div>
+                    </div>
+                    <button type="submit" class="
+                    
+                    px-6
+                    py-2.5
+                    bg-blue-600
+                    text-white
+                    font-medium
+                    text-xs
+                    leading-tight
+                    uppercase
+                    rounded
+                    shadow-md
+                    hover:bg-blue-700 hover:shadow-lg
+                    focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0
+                    active:bg-blue-800 active:shadow-lg
+                    transition
+                    duration-150
+                    ease-in-out">Submit</button>
+
+                </form>
+            </div>
+            <div class="grow hidden lg:block">
+                <img src="https://images.pexels.com/photos/1416530/pexels-photo-1416530.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    alt="" class="w-full h-full object-cover">
+            </div>
+        </div>
+    </div>
+</section>
