@@ -1,7 +1,32 @@
-<section class="">
-    <div class="container mx-auto px-4 ">
-        <div class="article__container">
-            <h1>Hello World!</h1>
+<section class="mb-[40px] md:mb-[60px]">
+    <div class="container mx-auto px-4">
+        <div
+            class="content-container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-[60px] md:gap-y-[40px]">
+            <div *ngFor="let article of articleList">
+                <a href="{{article.link}}" class="block mb-[10px]" target="_blank">
+                    <img src="assets/img/news.jpeg" alt="image post"
+                        class="post-image w-full h-[310px] rounded-[12px] object-cover" />
+                </a>
+                <a href="#" before=""
+                    class="inline-block py-[5px] px-[10px] relative rounded-[10px] text-xs text-red-500 mb-[10px] before:content-[attr(before)] before:absolute before:top-0 before:left-0 before:w-full before:h-full before:rounded-[10px] before:bg-current before:opacity-[0.15]">News</a>
+                <h1 class="overflow-hidden mb-5">
+                    <a href="{{article.link}}"
+                        class="block font-bold text-[18px] text-[black] mb-[10px] capitalize overflow-hidden w-full max-w-full post-title">{{article.title}}</a>
+                </h1>
+                <a href="{{article.source.link}}" class="flex items-center" target="_blank">
+                    <img src="assets/img/avatar-branch-2.png" alt="logo branch"
+                        class="w-[50px] h-[50px] rounded-[10px] object-cover flex-shrink-0 mr-[10px]">
+                    <div>
+                        <h4 class="font-semibold text-[14px] mb-[5px] leading-[1] text-[black] inline-block w-fit"><a
+                                class="inline-block w-fit" href="{{article.source.link}}"
+                                target="_blank">{{article.source.title}}</a></h4>
+                        <time class="text-[12px] text-[#999] font-light block">{{article.pubDate | date
+                            :
+                            'short'}}</time>
+                    </div>
+                </a>
+            </div>
         </div>
     </div>
+
 </section>

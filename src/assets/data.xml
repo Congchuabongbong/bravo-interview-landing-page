@@ -1,709 +1,1124 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <generator>NFE/5.0</generator>
-        <title>Tin bài hàng đầu - Google Tin tức</title>
-        <link>https://news.google.com/?hl=vi&gl=VN&ceid=VN:vi</link>
-        <language>vi</language>
+        <title>Top stories - Google News</title>
+        <link>https://news.google.com/?cf=all&hl=en-IN&pz=1&gl=IN&ceid=IN:en</link>
+        <language>en-IN</language>
         <webMaster>news-webmaster@google.com</webMaster>
         <copyright>2022 Google Inc.</copyright>
-        <lastBuildDate>Tue, 12 Jul 2022 14:13:55 GMT</lastBuildDate>
-        <description>Google Tin tức</description>
+        <lastBuildDate>Sat, 16 Jul 2022 05:11:10 GMT</lastBuildDate>
+        <description>Google News</description>
         <item>
-            <title>Ông Nguyễn Đức Chung được đề nghị giảm án sau khi nộp 85 bằng khen - VnExpress </title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vdm5leHByZXNzLm5ldC9vbmctbmd1eWVuLWR1Yy1jaHVuZy1kdW9jLWRlLW5naGktZ2lhbS1hbi1zYXUta2hpLW5vcC04NS1iYW5nLWtoZW4tNDQ4NjgwNy5odG1s0gEA?oc=5</link>
-            <guid isPermaLink="false">1491593109</guid>
-            <pubDate>Tue, 12 Jul 2022 08:44:49 GMT</pubDate>
+            <title>PM Modi to unveil Bundelkhand Expressway: 10 things to know about 296-km road - Hindustan Times</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMiiwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9wbS1tb2RpLXRvLXVudmVpbC1idW5kZWxraGFuZC1leHByZXNzd2F5LTEwLXRoaW5ncy10by1rbm93LWFib3V0LTI5Ni1rbS1yb2FkLTEwMTY1NzkzODA3MDMxNy5odG1s0gEA?oc=5</link>
+            <guid isPermaLink="false">1492031024</guid>
+            <pubDate>Sat, 16 Jul 2022 04:07:46 GMT</pubDate>
             <description>
                 <ol>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vdm5leHByZXNzLm5ldC9vbmctbmd1eWVuLWR1Yy1jaHVuZy1kdW9jLWRlLW5naGktZ2lhbS1hbi1zYXUta2hpLW5vcC04NS1iYW5nLWtoZW4tNDQ4NjgwNy5odG1s0gEA?oc=5" target="_blank">Ông Nguyễn Đức Chung được đề nghị giảm án sau khi nộp 85 bằng khen</a>&nbsp;&nbsp;<font color="#6f6f6f">VnExpress </font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiiwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9wbS1tb2RpLXRvLXVudmVpbC1idW5kZWxraGFuZC1leHByZXNzd2F5LTEwLXRoaW5ncy10by1rbm93LWFib3V0LTI5Ni1rbS1yb2FkLTEwMTY1NzkzODA3MDMxNy5odG1s0gEA?oc=5" target="_blank">PM Modi to unveil Bundelkhand Expressway: 10 things to know about 296-km road</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vdGhhbmhuaWVuLnZuL2RlLW5naGktZ2lhbS1hbi1jaG8tY3V1LWNodS10aWNoLXVibmQtdHAtaGEtbm9pLW5ndXllbi1kdWMtY2h1bmctcG9zdDE0Nzc0NzMuaHRtbNIBAA?oc=5" target="_blank">Đề nghị giảm án cho cựu Chủ tịch UBND TP.Hà Nội Nguyễn Đức Chung</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Thanh Niên</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9aWJ6NFZ1dl9WYknSAQA?oc=5" target="_blank">Modi News | Bundelkhand Expressway | Travel From Delhi To Chitrakoot In Just Six Hours |English News</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN-News18</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LnZpZXRuYW1wbHVzLnZuL3BodWMtdGhhbS12dS1uaGF0LWN1b25nLWJpLWNhby1uZ3V5ZW4tZHVjLWNodW5nLWR1b2MtZGUtbmdoaS1naWFtLWFuLzgwNTMzMS52bnDSAWpodHRwczovL3d3dy52aWV0bmFtcGx1cy52bi9waHVjLXRoYW0tdnUtbmhhdC1jdW9uZy1iaS1jYW8tbmd1eWVuLWR1Yy1jaHVuZy1kdW9jLWRlLW5naGktZ2lhbS1hbi84MDUzMzEuYW1w?oc=5" target="_blank">Phúc thẩm vụ Nhật Cường: Bị cáo Nguyễn Đức Chung được đề nghị giảm án</a>&nbsp;&nbsp;<font color="#6f6f6f">Vietnam Plus</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMifmh0dHBzOi8vemVlbmV3cy5pbmRpYS5jb20vYXV0by9wbS1uYXJlbmRyYS1tb2RpLXRvLWluYXVndXJhdGUtYnVuZGVsa2hhbmQtZXhwcmVzc3dheS10b2RheS1mYWN0cy15b3UtbmVlZC10by1rbm93LTI0ODU5MDMuaHRtbNIBAA?oc=5" target="_blank">PM Narendra Modi to inaugurate Bundelkhand Expressway today: Facts you need to know</a>&nbsp;&nbsp;<font color="#6f6f6f">Zee News</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vdm5leHByZXNzLm5ldC9vbmctbmd1eWVuLWR1Yy1jaHVuZy1uaGF0LWN1b25nLWtob25nLXRoZS1jaGktZGFvLWR1b2MtY2h1LXRpY2gtdGhhbmgtcGhvLTQ0ODY3MTUuaHRtbNIBAA?oc=5" target="_blank">Ông Nguyễn Đức Chung: 'Nhật Cường không thể chỉ đạo được Chủ tịch thành phố'</a>&nbsp;&nbsp;<font color="#6f6f6f">VnExpress </font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMisAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L2x1Y2tub3cvYnVuZGVsa2hhbmQtZXhwcmVzc3dheS1pbmF1Z3VyYXRpb24tc3RhZ2Utc2V0LXRvLXdlbGNvbWUtcG0tbmFyZW5kcmEtbW9kaS1pbi10cmFkaXRpb25hbC1idW5kZWxpLXN0eWxlL2FydGljbGVzaG93LzkyOTEwMzk3LmNtc9IBqwFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9jaXR5L2x1Y2tub3cvYnVuZGVsa2hhbmQtZXhwcmVzc3dheS1pbmF1Z3VyYXRpb24tc3RhZ2Utc2V0LXRvLXdlbGNvbWUtcG0tbmFyZW5kcmEtbW9kaS1pbi10cmFkaXRpb25hbC1idW5kZWxpLXN0eWxlL2FtcF9hcnRpY2xlc2hvdy85MjkxMDM5Ny5jbXM?oc=5" target="_blank">Bundelkhand Expressway inauguration: Stage set to welcome PM Narendra Modi in traditional Bundeli style</a>&nbsp;&nbsp;<font color="#6f6f6f">Times of India</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vdHVvaXRyZS52bi9vbmctbmd1eWVuLWR1Yy1jaHVuZy1iYXQtbmdvLWNodXllbi10dS1rZXUtb2FuLXNhbmcteGluLWdpYW0tbmhlLWhpbmgtcGhhdC0yMDIyMDcxMjE3MDMwNzIyNi5odG3SAQA?oc=5" target="_blank">Ông Nguyễn Đức Chung bất ngờ chuyển từ kêu oan sang xin giảm nhẹ hình phạt</a>&nbsp;&nbsp;<font color="#6f6f6f">Tuổi Trẻ Online</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMikAFodHRwczovL3d3dy5uZXdzMTguY29tL25ld3MvaW5kaWEvYnVuZGVsa2hhbmQtZXhwcmVzc3dheS11cC1wcmVwcy10by13ZWxjb21lLXBtLW9uLWxhdW5jaC1vZi1wcm9qZWN0LWFpbWVkLWF0LWJvb3N0aW5nLWNvbm5lY3Rpdml0eS01NTY1MTIxLmh0bWzSAQA?oc=5" target="_blank">Bundelkhand Expressway: UP Preps to Welcome PM on Launch of Project Aimed at 'Boosting Connectivity'</a>&nbsp;&nbsp;<font color="#6f6f6f">News18</font>
                     </li>
                     <li>
                         <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lWejVfSEJSRTNGTHRnY0x3bi1TZ0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l3ckxySEJSRVRpcl9RdE04Ty1pZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
                         </strong>
                     </li>
                 </ol>
             </description>
-            <source url="https://vnexpress.net">VnExpress </source>
+            <source url="https://www.hindustantimes.com">Hindustan Times</source>
         </item>
         <item>
-            <title>Cựu đại tá chối nhận 6,2 tỉ đồng, 560.000 USD từ trùm buôn lậu xăng dầu - Báo Thanh Niên</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vdGhhbmhuaWVuLnZuL2N1dS1kYWktdGEtY2hvaS1uaGFuLTYtMi10aS1kb25nLTU2MC0wMDAtdXNkLXR1LXRydW0tYnVvbi1sYXUteGFuZy1kYXUtcG9zdDE0Nzc0NDguaHRtbNIBAA?oc=5</link>
-            <guid isPermaLink="false">1494190517</guid>
-            <pubDate>Tue, 12 Jul 2022 08:53:53 GMT</pubDate>
+            <title>After ‘unparliamentary’ words, a ban on pamphlets, placards & leaflets in House - Hindustan Times</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMioAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9wYXJsaWFtZW50LW1vbnNvb24tc2Vzc2lvbi1wYW1waGxldHMtcGxhY2FyZHMtbGVhZmxldHMtYmFubmVkLWFmdGVyLWxpc3Qtb2YtdW5wYXJsaWFtZW50YXJ5LXdvcmRzLTEwMTY1NzkzNjQwNTI5OC5odG1s0gGkAWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9pbmRpYS1uZXdzL3BhcmxpYW1lbnQtbW9uc29vbi1zZXNzaW9uLXBhbXBobGV0cy1wbGFjYXJkcy1sZWFmbGV0cy1iYW5uZWQtYWZ0ZXItbGlzdC1vZi11bnBhcmxpYW1lbnRhcnktd29yZHMtMTAxNjU3OTM2NDA1Mjk4LWFtcC5odG1s?oc=5</link>
+            <guid isPermaLink="false">1500862493</guid>
+            <pubDate>Sat, 16 Jul 2022 02:36:51 GMT</pubDate>
             <description>
                 <ol>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vdGhhbmhuaWVuLnZuL2N1dS1kYWktdGEtY2hvaS1uaGFuLTYtMi10aS1kb25nLTU2MC0wMDAtdXNkLXR1LXRydW0tYnVvbi1sYXUteGFuZy1kYXUtcG9zdDE0Nzc0NDguaHRtbNIBAA?oc=5" target="_blank">Cựu đại tá chối nhận 6,2 tỉ đồng, 560.000 USD từ trùm buôn lậu xăng dầu</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Thanh Niên</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMioAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9wYXJsaWFtZW50LW1vbnNvb24tc2Vzc2lvbi1wYW1waGxldHMtcGxhY2FyZHMtbGVhZmxldHMtYmFubmVkLWFmdGVyLWxpc3Qtb2YtdW5wYXJsaWFtZW50YXJ5LXdvcmRzLTEwMTY1NzkzNjQwNTI5OC5odG1s0gGkAWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9pbmRpYS1uZXdzL3BhcmxpYW1lbnQtbW9uc29vbi1zZXNzaW9uLXBhbXBobGV0cy1wbGFjYXJkcy1sZWFmbGV0cy1iYW5uZWQtYWZ0ZXItbGlzdC1vZi11bnBhcmxpYW1lbnRhcnktd29yZHMtMTAxNjU3OTM2NDA1Mjk4LWFtcC5odG1s?oc=5" target="_blank">After ‘unparliamentary’ words, a ban on pamphlets, placards & leaflets in House</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vdm5leHByZXNzLm5ldC90dW9uZy1jYW5oLXNhdC1iaWVuLW5oYW4tcXVhLTYtOS10eS1kb25nLWN1YS10cnVtLWJ1b24tbGF1LTQ0ODY3OTIuaHRtbNIBAA?oc=5" target="_blank">Tướng cảnh sát biển 'nhận quà' 6,9 tỷ đồng của trùm buôn lậu</a>&nbsp;&nbsp;<font color="#6f6f6f">VnExpress </font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vd3d3Lm5kdHYuY29tL2luZGlhLW5ld3MvdHJpbmFtb29sLW1wcy1kaWctb3Zlci11bnBhcmxpYW1lbnRhcnktd29yZHMtc3dhcC1leWV3YXNoLXdpdGgtMzE2MDA1ONIBAA?oc=5" target="_blank">Swap "Eyewash" With... : Trinamool MP's Dig Over "Unparliamentary" Words</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vdmlldG5hbW5ldC52bi9waHUtbmhhbi12YS1haS1udS1jdWEtY3V1LXN5LXF1YW4tcXVhbi1kb2ktbmhhbi10aWVuLWhvaS1sby0yMDM5MDEzLmh0bWzSAQA?oc=5" target="_blank">Phu nhân và ái nữ của cựu sỹ quan quân đội nhận tiền hối lộ</a>&nbsp;&nbsp;<font color="#6f6f6f">VietNamNet</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dW15ek9OcG5SZmPSAQA?oc=5" target="_blank">Unparliamentary Words | Centre Cites 'Procedure', Opposition Cries Censorship | English News</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN-News18</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiggFodHRwczovL3R1b2l0cmUudm4vY3V1LWRhaS10YS1iaWVuLXBob25nLWtob25nLXF1ZW4ta2hvbmctbmhhbi10aWVuLXRydW0tYnVvbi1sYXUteGFuZy1xdWVuLXR1LWxhdS1jby1ob2ktbG8tMjAyMjA3MTIxOTA0MDc2OTEuaHRt0gEA?oc=5" target="_blank">Cựu đại tá biên phòng: Không quen, không nhận tiền; 'trùm' buôn lậu xăng: Quen từ lâu, có hối lộ</a>&nbsp;&nbsp;<font color="#6f6f6f">Tuổi Trẻ Online</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9lZGl0b3JpYWxzL2EtdHJ1c3QtZGVmaWNpdC1pbi1wYXJsaWFtZW50LTEwMTY1Nzg5ODc2NTg3My5odG1s0gEA?oc=5" target="_blank">A trust deficit in Parliament</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vdm5leHByZXNzLm5ldC9oYWktdHVvbmctY2FuaC1zYXQtYmllbi1oYXUtdG9hLXRyb25nLWRhaS1hbi1idW9uLWxhdS14YW5nLWdpYS00NDg2Mjg0Lmh0bWzSAQA?oc=5" target="_blank">Hai tướng cảnh sát biển hầu tòa trong đại án buôn lậu xăng giả</a>&nbsp;&nbsp;<font color="#6f6f6f">VnExpress </font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9vcGluaW9uL2NvbHVtbnMvd2hhdHMtcGFybGlhbWVudGFyeS1hbmQtdW5wYXJsaWFtZW50YXJ5LWxhbmd1YWdlLTgwMjk4MTAv0gEA?oc=5" target="_blank">What's parliamentary and unparliamentary language?</a>&nbsp;&nbsp;<font color="#6f6f6f">The Indian Express</font>
                     </li>
                     <li>
                         <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kxazc3SUJSRWYtQUlQamw5ZC1DZ0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lkc05YTEJSRlZvTENaOW1ZWG15Z0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
                         </strong>
                     </li>
                 </ol>
             </description>
-            <source url="https://thanhnien.vn">Báo Thanh Niên</source>
+            <source url="https://www.hindustantimes.com">Hindustan Times</source>
         </item>
         <item>
-            <title>Tổng thống Sri Lanka lỡ 4 chuyến bay rời khỏi đất nước - VietNamNet</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vdmlldG5hbW5ldC52bi90b25nLXRob25nLXNyaS1sYW5rYS1sby00LWNodXllbi1iYXktcm9pLWtob2ktZGF0LW51b2MtMjAzOTIxNC5odG1s0gEA?oc=5</link>
-            <guid isPermaLink="false">1496566196</guid>
-            <pubDate>Tue, 12 Jul 2022 09:42:00 GMT</pubDate>
+            <title>Crowd gathers outside Lucknow's Lulu Mall to recite Sundar Kand, 4 arrested - India Today</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMijgFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2luZGlhL3N0b3J5L2x1Y2tub3ctbmV3cy1sdWx1LW1hbGwtbmFtYXotcm93LWFraGlsLWJoYXJhdGl5YS1oaW5kdS1tYWhhc2FiaGEtc3VuZGFyLWthbmQtcG9zdHBvbmUtMTk3NjEwNy0yMDIyLTA3LTE10gEA?oc=5</link>
+            <guid isPermaLink="false">1497281780</guid>
+            <pubDate>Fri, 15 Jul 2022 19:49:27 GMT</pubDate>
             <description>
                 <ol>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vdmlldG5hbW5ldC52bi90b25nLXRob25nLXNyaS1sYW5rYS1sby00LWNodXllbi1iYXktcm9pLWtob2ktZGF0LW51b2MtMjAzOTIxNC5odG1s0gEA?oc=5" target="_blank">Tổng thống Sri Lanka lỡ 4 chuyến bay rời khỏi đất nước</a>&nbsp;&nbsp;<font color="#6f6f6f">VietNamNet</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMijgFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2luZGlhL3N0b3J5L2x1Y2tub3ctbmV3cy1sdWx1LW1hbGwtbmFtYXotcm93LWFraGlsLWJoYXJhdGl5YS1oaW5kdS1tYWhhc2FiaGEtc3VuZGFyLWthbmQtcG9zdHBvbmUtMTk3NjEwNy0yMDIyLTA3LTE10gEA?oc=5" target="_blank">Crowd gathers outside Lucknow's Lulu Mall to recite Sundar Kand, 4 arrested</a>&nbsp;&nbsp;<font color="#6f6f6f">India Today</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiU2h0dHBzOi8vdm5leHByZXNzLm5ldC90b25nLXRob25nLXNyaS1sYW5rYS1iaS1uZ2FuLXh1YXQtY2FuaC1vLXNhbi1iYXktNDQ4NjcwMS5odG1s0gEA?oc=5" target="_blank">Tổng thống Sri Lanka bị ngăn xuất cảnh ở sân bay</a>&nbsp;&nbsp;<font color="#6f6f6f">VnExpress </font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMipwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9hbWlkLW5hbWF6LXJvdy1sdWNrbm93LWx1bHUtbWFsbC1wdXRzLXVwLW5ldy1ub3RpY2UtMy1kZXRhaW5lZC1mb3ItYXR0ZW1wdGluZy10by1yZWFkLXN1bmRhcmthbmQtb3V0c2lkZS0xMDE2NTc5MzA0NzA3MTYuaHRtbNIBAA?oc=5" target="_blank">Amid Namaz row, Lucknow LuLu Mall puts up new notice boards</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vd3d3LnZpZXRuYW1wbHVzLnZuL3NyaS1sYW5rYS1kYW5nLWRvaS1sYXAtY2hpbmgtZGUtY3Utb25nLXByZW1hZGFzYS1sYW0tdG9uZy10aG9uZy84MDUzMTAudm5w0gFlaHR0cHM6Ly93d3cudmlldG5hbXBsdXMudm4vc3JpLWxhbmthLWRhbmctZG9pLWxhcC1jaGluaC1kZS1jdS1vbmctcHJlbWFkYXNhLWxhbS10b25nLXRob25nLzgwNTMxMC5hbXA?oc=5" target="_blank">Sri Lanka: Đảng đối lập chính đề cử ông Premadasa làm tổng thống</a>&nbsp;&nbsp;<font color="#6f6f6f">Vietnam Plus</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMihQFodHRwczovL3plZW5ld3MuaW5kaWEuY29tL2luZGlhL2x1bHUtbWFsbC1uYW1hei1yb3ctbWFsbC1hdXRob3JpdGllcy1wdXQtdXAtbmV3LW5vdGljZS1zYXlzLXdlLXJlc3BlY3QtYWxsLXJlbGlnaW9ucy1idXQtMjQ4NTg2OC5odG1s0gEA?oc=5" target="_blank">Lulu Mall Namaz Row: Mall authorities put up new notice, says `we respect all religions, but…`</a>&nbsp;&nbsp;<font color="#6f6f6f">Zee News</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vbmxkLmNvbS52bi90aG9pLXN1LXF1b2MtdGUvbG8tNC1jaHV5ZW4tYmF5LXZvLWNob25nLXRvbmctdGhvbmctc3JpLWxhbmthLWJpLW1hYy1rZXQtMjAyMjA3MTIxNDA0MjcyOTcuaHRt0gEA?oc=5" target="_blank">Lỡ 4 chuyến bay, vợ chồng Tổng thống Sri Lanka bị mắc kẹt</a>&nbsp;&nbsp;<font color="#6f6f6f">Người Lao Động</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMifmh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkvbHVja25vdy8zLWRldGFpbmVkLWZvci1iaWQtdG8tcmVjaXRlc3VuZGFyLWthbmQtYXQtY2l0eS1tYWxsL2FydGljbGVzaG93LzkyOTA5NTk5LmNtc9IBAA?oc=5" target="_blank">3 detained for bid to recite‘Sundar Kand’ at Lucknow mall</a>&nbsp;&nbsp;<font color="#6f6f6f">Times of India</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vdm5leHByZXNzLm5ldC9naWEtdG9jLWJpLWNhby1idW9jLWRheS1zcmktbGFua2EtZGVuLWJvLXZ1Yy00NDg2MDc3Lmh0bWzSAQA?oc=5" target="_blank">Gia tộc bị cáo buộc đẩy Sri Lanka đến bờ vực hỗn loạn</a>&nbsp;&nbsp;<font color="#6f6f6f">VnExpress </font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Vjd5dkJYSzVkMkHSAQA?oc=5" target="_blank">FIR Registered Against Namaz Video In Lucknow; 'No Religious Prayers Allowed Inside The Mall'</a>&nbsp;&nbsp;<font color="#6f6f6f">TIMES NOW</font>
                     </li>
                     <li>
                         <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kwazhfSkJSRnhad0hzWGh3RzJDZ0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2owNmZySkJSR2plNnBlSllSTE5pZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
                         </strong>
                     </li>
                 </ol>
             </description>
-            <source url="https://vietnamnet.vn">VietNamNet</source>
+            <source url="https://www.indiatoday.in">India Today</source>
         </item>
         <item>
-...
-        </item>
-        <item>
-            <title>Đề nghị truy tố hacker Nhâm Hoàng Khang - Người Lao Động</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vbmxkLmNvbS52bi9waGFwLWx1YXQvZGUtbmdoaS10cnV5LXRvLWhhY2tlci1uaGFtLWhvYW5nLWtoYW5nLTIwMjIwNzEyMTcxNTAzNzA3Lmh0bdIBAA?oc=5</link>
-            <guid isPermaLink="false">CBMiWmh0dHBzOi8vbmxkLmNvbS52bi9waGFwLWx1YXQvZGUtbmdoaS10cnV5LXRvLWhhY2tlci1uaGFtLWhvYW5nLWtoYW5nLTIwMjIwNzEyMTcxNTAzNzA3Lmh0bdIBAA</guid>
-            <pubDate>Tue, 12 Jul 2022 10:33:00 GMT</pubDate>
+            <title>Gujarat Riots: Ahmed Patel Plotted Against Narendra Modi, Says Probe Team - NDTV</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMihwFodHRwczovL3d3dy5uZHR2LmNvbS9pbmRpYS1uZXdzL2xhdGUtY29uZ3Jlc3MtdmV0ZXJhbi1haG1lZC1wYXRlbC1jb25zcGlyZWQtYWdhaW5zdC1uYXJlbmRyYS1tb2RpLW92ZXItZ3VqYXJhdC1yaW90cy1jb3VydC10b2xkLTMxNjI0NTLSAQA?oc=5</link>
+            <guid isPermaLink="false">CAIiENfld7Jzumjf7IZ0U_TS8LcqGQgEKhAIACoHCAowj8n_CjDIrfkCMILSxQY</guid>
+            <pubDate>Sat, 16 Jul 2022 04:20:48 GMT</pubDate>
             <description>
-                <a href="https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vbmxkLmNvbS52bi9waGFwLWx1YXQvZGUtbmdoaS10cnV5LXRvLWhhY2tlci1uaGFtLWhvYW5nLWtoYW5nLTIwMjIwNzEyMTcxNTAzNzA3Lmh0bdIBAA?oc=5" target="_blank">Đề nghị truy tố hacker Nhâm Hoàng Khang</a>&nbsp;&nbsp;<font color="#6f6f6f">Người Lao Động</font>
+                <a href="https://news.google.com/__i/rss/rd/articles/CBMihwFodHRwczovL3d3dy5uZHR2LmNvbS9pbmRpYS1uZXdzL2xhdGUtY29uZ3Jlc3MtdmV0ZXJhbi1haG1lZC1wYXRlbC1jb25zcGlyZWQtYWdhaW5zdC1uYXJlbmRyYS1tb2RpLW92ZXItZ3VqYXJhdC1yaW90cy1jb3VydC10b2xkLTMxNjI0NTLSAQA?oc=5" target="_blank">Gujarat Riots: Ahmed Patel Plotted Against Narendra Modi, Says Probe Team</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font>
                 <strong>
-                    <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pwa2ZQS0JSRjJBdkZ5SXM3VTZpZ0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
+                    <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lCX3JySUJSSGpxclR4WFR0YWp5Z0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
                 </strong>
             </description>
-            <source url="https://nld.com.vn">Người Lao Động</source>
+            <source url="https://www.ndtv.com">NDTV</source>
         </item>
         <item>
-            <title>Tiễn biệt cố Thủ tướng Abe Shinzo - Người Lao Động</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vbmxkLmNvbS52bi90aG9pLXN1LXF1b2MtdGUvdGllbi1iaWV0LWNvLXRodS10dW9uZy1hYmUtc2hpbnpvLTIwMjIwNzEyMTU0ODQ4OTguaHRt0gEA?oc=5</link>
-            <guid isPermaLink="false">1498105808</guid>
-            <pubDate>Tue, 12 Jul 2022 09:03:00 GMT</pubDate>
+            <title>IIT Madras tops engineering category; IIT Delhi follows: NIRF Rankings 2022 - The Indian Express</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMigQFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZWR1Y2F0aW9uL2lpdC1tYWRyYXMtdG9wcy1lbmdpbmVlcmluZy1jYXRlZ29yeS1vZi1uaXJmLXJhbmtpbmdzLTIwMjItaWl0LWRlbGhpLWZvbGxvd3MtODAyOTk4MC_SAQA?oc=5</link>
+            <guid isPermaLink="false">1499565280</guid>
+            <pubDate>Sat, 16 Jul 2022 03:12:10 GMT</pubDate>
             <description>
                 <ol>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vbmxkLmNvbS52bi90aG9pLXN1LXF1b2MtdGUvdGllbi1iaWV0LWNvLXRodS10dW9uZy1hYmUtc2hpbnpvLTIwMjIwNzEyMTU0ODQ4OTguaHRt0gEA?oc=5" target="_blank">Tiễn biệt cố Thủ tướng Abe Shinzo</a>&nbsp;&nbsp;<font color="#6f6f6f">Người Lao Động</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMigQFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZWR1Y2F0aW9uL2lpdC1tYWRyYXMtdG9wcy1lbmdpbmVlcmluZy1jYXRlZ29yeS1vZi1uaXJmLXJhbmtpbmdzLTIwMjItaWl0LWRlbGhpLWZvbGxvd3MtODAyOTk4MC_SAQA?oc=5" target="_blank">IIT Madras tops engineering category; IIT Delhi follows: NIRF Rankings 2022</a>&nbsp;&nbsp;<font color="#6f6f6f">The Indian Express</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vdmlldG5hbW5ldC52bi9uZ3VvaS1uaGF0LWJhbi10aWVuLWR1YS1jdXUtdGh1LXR1b25nLWFiZS1zaGluem8tbmhpZXUtbnVvYy10cmVvLWNvLXJ1LTIwMzkxMTEuaHRtbNIBAA?oc=5" target="_blank">Hình ảnh người Nhật Bản tiễn đưa cựu Thủ tướng Abe Shinzo, nhiều nước treo cờ rủ</a>&nbsp;&nbsp;<font color="#6f6f6f">VietNamNet</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMikQFodHRwczovL3d3dy5uZXdzMTguY29tL25ld3MvZWR1Y2F0aW9uLWNhcmVlci9uaXJmLXJhbmtpbmctMjAyMi1paXNjLWJhbmdhbG9yZS1iZXN0LXJlc2VhcmNoLWluc3RpdHV0ZS1paXQtbWFkcmFzLXNlY29uZC1jaGVjay10b3AtMjUtNTU2MDk2OS5odG1s0gEA?oc=5" target="_blank">NIRF Ranking 2022: IISc Bangalore Best Research Institute, IIT Madras Second, Check Top 25</a>&nbsp;&nbsp;<font color="#6f6f6f">News18</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vdHVvaXRyZS52bi90cnVuZy1xdW9jLXBoYW4tZG9pLWNodXllbi10aGFtLW5oYXQtdmllbmctb25nLWFiZS1jdWEtcGhvLWxhbmgtZGFvLWRhaS1sb2FuLTIwMjIwNzEyMTYwMTA3MTE3Lmh0bdIBAA?oc=5" target="_blank">Trung Quốc phản đối 'chuyến thăm Nhật viếng ông Abe' của phó lãnh đạo Đài Loan</a>&nbsp;&nbsp;<font color="#6f6f6f">Tuổi Trẻ Online</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiW2h0dHBzOi8vd3d3LmdyZWF0ZXJrYXNobWlyLmNvbS9zcmluYWdhci9uaXQtc3JpbmFnYXItZ2V0cy02NnRoLXJhbmstaW4tZW5naW5lZXJpbmctY2F0ZWdvcnnSAWVodHRwczovL3d3dy5ncmVhdGVya2FzaG1pci5jb20vYW1wL3N0b3J5L3NyaW5hZ2FyL25pdC1zcmluYWdhci1nZXRzLTY2dGgtcmFuay1pbi1lbmdpbmVlcmluZy1jYXRlZ29yeQ?oc=5" target="_blank">NIT Srinagar gets 66th rank in engineering category</a>&nbsp;&nbsp;<font color="#6f6f6f">Greater Kashmir</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vdm5leHByZXNzLm5ldC9uZ3VvaS1uaGF0LXRvaS1jaHVhLWRhbmctaG9hLXR1b25nLW5pZW0tb25nLWFiZS00NDg2NjgzLmh0bWzSAQA?oc=5" target="_blank">Người Nhật tiễn biệt ông Abe</a>&nbsp;&nbsp;<font color="#6f6f6f">VnExpress </font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMipAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L2NoZW5uYWkvcmVjb2duaXRpb24tb2Ytb3VyLWRyYXZpZGlhbi1tb2RlbHMtZXhjZWxsZW5jZS1pbi1oaWdoZXItZWR1Y2F0aW9uLXRhbWlsLW5hZHUtY20tbWstc3RhbGluL2FydGljbGVzaG93LzkyOTA5ODQ5LmNtc9IBAA?oc=5" target="_blank">Recognition of our Dravidian model's excellence in higher education: Tamil Nadu CM MK Stalin</a>&nbsp;&nbsp;<font color="#6f6f6f">Times of India</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vdmlldG5hbW5ldC52bi9saW5oLWN1dS1vbmctYWJlLWRpLXF1YS12YW4tcGhvbmctbGFuLWN1b2ktY2h1YW4tYmktZHVvYy1ob2EtdGFuZy0yMDM5MTQ4Lmh0bWzSAQA?oc=5" target="_blank">Linh cữu ông Abe đi qua văn phòng lần cuối, trước khi được hỏa táng</a>&nbsp;&nbsp;<font color="#6f6f6f">VietNamNet</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMioQFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZWR1Y2F0aW9uL25pcmYtcmFua2luZy0yMDIyLWxpdmUtdXBkYXRlcy1lZHVjYXRpb24tbWluaXN0cnktcmVsZWFzZS1jb2xsZWdlLXJhbmtpbmdzLWlpc2MtaWl0LWpudS1kdS1paW0tbmlyZmluZGlhLW9yZy04MDI5OTY3L9IBAA?oc=5" target="_blank">NIRF Rankings 2022 Updates: Check list of top 10 educational institutes in India</a>&nbsp;&nbsp;<font color="#6f6f6f">The Indian Express</font>
                     </li>
                     <li>
                         <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pRajYzS0JSRXlBWHVnODlWWUh5Z0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pnbVliTEJSR0xLNVVhNk9YdzFTZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
                         </strong>
                     </li>
                 </ol>
             </description>
-            <source url="https://nld.com.vn">Người Lao Động</source>
+            <source url="https://indianexpress.com">The Indian Express</source>
         </item>
         <item>
-            <title>Mẹ tài xế Mercedes gây tai nạn không đồng ý chuyển quyền sở hữu căn hộ lại cho con - Tuổi Trẻ Online</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vdHVvaXRyZS52bi9tZS10YWkteGUtbWVyY2VkZXMtZ2F5LXRhaS1uYW4ta2hvbmctZG9uZy15LWNodXllbi1xdXllbi1zby1odXUtY2FuLWhvLWxhaS1jaG8tY29uLTIwMjIwNzEyMTUwMzE3ODE1Lmh0bdIBAA?oc=5</link>
-            <guid isPermaLink="false">1497945702</guid>
-            <pubDate>Tue, 12 Jul 2022 08:24:00 GMT</pubDate>
+            <title>CUET UG 2022 Day 1 Updates: First day concludes; no retest for students who missed exams - The Indian Express</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMiuQFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZWR1Y2F0aW9uL2N1ZXQtdWctZXhhbS1hbmFseXNpcy0yMDIyLWxpdmUtdXBkYXRlcy1jb21tb24tZW50cmFuY2UtdGVzdC1iZWdpbnMtY2hlY2stZmlyc3QtZGF5LWd1aWRlbGluZXMtc2NoZWR1bGUtY3VldC1zYW1hcnRoLWFjLWluLW50YS1hYy1pbi04MDI4NDQzL9IBAA?oc=5</link>
+            <guid isPermaLink="false">1489659623</guid>
+            <pubDate>Sat, 16 Jul 2022 03:38:25 GMT</pubDate>
             <description>
                 <ol>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vdHVvaXRyZS52bi9tZS10YWkteGUtbWVyY2VkZXMtZ2F5LXRhaS1uYW4ta2hvbmctZG9uZy15LWNodXllbi1xdXllbi1zby1odXUtY2FuLWhvLWxhaS1jaG8tY29uLTIwMjIwNzEyMTUwMzE3ODE1Lmh0bdIBAA?oc=5" target="_blank">Mẹ tài xế Mercedes gây tai nạn không đồng ý chuyển quyền sở hữu căn hộ lại cho con</a>&nbsp;&nbsp;<font color="#6f6f6f">Tuổi Trẻ Online</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiuQFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZWR1Y2F0aW9uL2N1ZXQtdWctZXhhbS1hbmFseXNpcy0yMDIyLWxpdmUtdXBkYXRlcy1jb21tb24tZW50cmFuY2UtdGVzdC1iZWdpbnMtY2hlY2stZmlyc3QtZGF5LWd1aWRlbGluZXMtc2NoZWR1bGUtY3VldC1zYW1hcnRoLWFjLWluLW50YS1hYy1pbi04MDI4NDQzL9IBAA?oc=5" target="_blank">CUET UG 2022 Day 1 Updates: First day concludes; no retest for students who missed exams</a>&nbsp;&nbsp;<font color="#6f6f6f">The Indian Express</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bG1SeWM4Yy1yczTSAQA?oc=5" target="_blank">Xét Xử Sơ Thẩm Lần 2 Vụ Tài Xế Mercedes Tông Nữ Tiếp Viên Hàng Không | Tin Tức 24h | ANTV</a>&nbsp;&nbsp;<font color="#6f6f6f">ANTV - Truyền hình Công an Nhân dân</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3Lm5kdHYuY29tL2luZGlhLW5ld3Mvbm8tcmV0ZXN0LWZvci1jdWV0LXVuaXZlcnNpdHktcGFuZWwtY2hpZWYtb24tc3R1ZGVudHMtbWlzc2luZy1lbnRyYW5jZS1leGFtLTMxNjIzMjDSAQA?oc=5" target="_blank">"No Retest For CUET": University Panel Chief On Students Missing Entrance Exam</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9b0d2UUtmYm8ydzDSAQA?oc=5" target="_blank">Xét xử tài xế Mercedes tông nữ tiếp viên hàng không | VTC Now</a>&nbsp;&nbsp;<font color="#6f6f6f">VTC NOW</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMirwFodHRwczovL3d3dy5pbmRpYS5jb20vZWR1Y2F0aW9uL2JzZXItcmVldC0yMDIyLWV4YW0tY2VudHJlLWxpbmstZm9yLXJhamFzdGhhbi1lbGlnaWJpbGl0eS1leGFtaW5hdGlvbi1mb3ItdGVhY2hlcnMtcmVsZWFzZWQtYWRtaXQtY2FyZHMtZXhwZWN0ZWQtc29vbi1jaGVjay1kZWV0cy1oZXJlLTU1MTUxOTQv0gEA?oc=5" target="_blank">BSER REET 2022 Exam Centre Link For Rajasthan Eligibility Examination For Teachers Released Admit Cards Expected Soon Check Deets Here</a>&nbsp;&nbsp;<font color="#6f6f6f">India.com</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vemluZ25ld3Mudm4vbWUtdGFpLXhlLW1lcmNlZGVzLWJhdC1raG9jLWtob25nLWRvbmcteS1rZS1iaWVuLWNhbi1oby1wb3N0MTMzNDkwOC5odG1s0gEA?oc=5" target="_blank">Mẹ tài xế Mercedes bật khóc, không đồng ý kê biên căn hộ</a>&nbsp;&nbsp;<font color="#6f6f6f">Zing News</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9jaXRpZXMvZGVsaGkvY3VldC1kYXktMS1zbW9vdGgtc2FpbGluZy1leGNlcHQtZm9yLW9uZS1oaWNjdXAtODAzMjI0OS_SAQA?oc=5" target="_blank">CUET Day 1: Smooth sailing, except for one hiccup</a>&nbsp;&nbsp;<font color="#6f6f6f">The Indian Express</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9M0lSWS1uRnctd1HSAQA?oc=5" target="_blank">Tài xế lái Mercedes tông nữ tiếp viên hàng không tiếp tục ra tòa</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Thanh Niên</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Q29xVGtfVUswbjTSAQA?oc=5" target="_blank">"No Retest For CUET": University Panel Chief On Students Missing Chance</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font>
                     </li>
                     <li>
                         <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ptcktQS0JSR0FxUEkwaHBTc1RpZ0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2puemFuR0JSRUNqOU9SdnVTT21pZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
                         </strong>
                     </li>
                 </ol>
             </description>
-            <source url="https://tuoitre.vn">Tuổi Trẻ Online</source>
+            <source url="https://indianexpress.com">The Indian Express</source>
         </item>
         <item>
-            <title>Bị răng rắn hổ mang chúa găm vào tay, 1 người ở Đồng Nai tử vong sau 2 ngày - Người Lao Động</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiemh0dHA6Ly9ubGQuY29tLnZuL3Rob2ktc3UvYmktcmFuZy1yYW4taG8tbWFuZy1jaHVhLWdhbS12YW8tdGF5LTEtbmd1b2ktby1kb25nLW5haS10dS12b25nLXNhdS0yLW5nYXktMjAyMjA3MTIxNDI4NDYyNDQuaHRt0gEA?oc=5</link>
-            <guid isPermaLink="false">CBMiemh0dHA6Ly9ubGQuY29tLnZuL3Rob2ktc3UvYmktcmFuZy1yYW4taG8tbWFuZy1jaHVhLWdhbS12YW8tdGF5LTEtbmd1b2ktby1kb25nLW5haS10dS12b25nLXNhdS0yLW5nYXktMjAyMjA3MTIxNDI4NDYyNDQuaHRt0gEA</guid>
-            <pubDate>Tue, 12 Jul 2022 08:24:00 GMT</pubDate>
+            <title>Arunachal, Assam step forward to settle boundary dispute, sign Namsai Declaration - The Arunachal Times</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMif2h0dHBzOi8vYXJ1bmFjaGFsdGltZXMuaW4vaW5kZXgucGhwLzIwMjIvMDcvMTYvYXJ1bmFjaGFsLWFzc2FtLXN0ZXAtZm9yd2FyZC10by1zZXR0bGUtYm91bmRhcnktZGlzcHV0ZS1zaWduLW5hbXNhaS1kZWNsYXJhdGlvbi_SAYMBaHR0cHM6Ly9hcnVuYWNoYWx0aW1lcy5pbi9pbmRleC5waHAvMjAyMi8wNy8xNi9hcnVuYWNoYWwtYXNzYW0tc3RlcC1mb3J3YXJkLXRvLXNldHRsZS1ib3VuZGFyeS1kaXNwdXRlLXNpZ24tbmFtc2FpLWRlY2xhcmF0aW9uLz9hbXA?oc=5</link>
+            <guid isPermaLink="false">1502532611</guid>
+            <pubDate>Fri, 15 Jul 2022 21:10:47 GMT</pubDate>
             <description>
-                <a href="https://news.google.com/__i/rss/rd/articles/CBMiemh0dHA6Ly9ubGQuY29tLnZuL3Rob2ktc3UvYmktcmFuZy1yYW4taG8tbWFuZy1jaHVhLWdhbS12YW8tdGF5LTEtbmd1b2ktby1kb25nLW5haS10dS12b25nLXNhdS0yLW5nYXktMjAyMjA3MTIxNDI4NDYyNDQuaHRt0gEA?oc=5" target="_blank">Bị răng rắn hổ mang chúa găm vào tay, 1 người ở Đồng Nai tử vong sau 2 ngày</a>&nbsp;&nbsp;<font color="#6f6f6f">Người Lao Động</font>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMif2h0dHBzOi8vYXJ1bmFjaGFsdGltZXMuaW4vaW5kZXgucGhwLzIwMjIvMDcvMTYvYXJ1bmFjaGFsLWFzc2FtLXN0ZXAtZm9yd2FyZC10by1zZXR0bGUtYm91bmRhcnktZGlzcHV0ZS1zaWduLW5hbXNhaS1kZWNsYXJhdGlvbi_SAYMBaHR0cHM6Ly9hcnVuYWNoYWx0aW1lcy5pbi9pbmRleC5waHAvMjAyMi8wNy8xNi9hcnVuYWNoYWwtYXNzYW0tc3RlcC1mb3J3YXJkLXRvLXNldHRsZS1ib3VuZGFyeS1kaXNwdXRlLXNpZ24tbmFtc2FpLWRlY2xhcmF0aW9uLz9hbXA?oc=5" target="_blank">Arunachal, Assam step forward to settle boundary dispute, sign Namsai Declaration</a>&nbsp;&nbsp;<font color="#6f6f6f">The Arunachal Times</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMifmh0dHBzOi8vd3d3Lm5kdHYuY29tL2luZGlhLW5ld3MvbmFtc2FpLWRlY2xhcmF0aW9uLWFzc2FtLWFydW5hY2hhbC1wcmFkZXNoLWFncmVlLXRvLXJlc29sdmUtZGVjYWRlcy1vbGQtYm9yZGVyLWRpc3B1dGUtMzE2MzAyNdIBAA?oc=5" target="_blank">Assam, Arunachal Pradesh Agree To Resolve Decades-Old Border Dispute</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiemh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9pbmRpYS1uZXdzL2FydW5hY2hhbC1wcmFkZXNoLWFzc2FtLXNpZ24tcGFjdC10by1yZXNvbHZlLWJvcmRlci1kaXNwdXRlLTEwMTY1NzkxMTI0NTMxNi5odG1s0gEA?oc=5" target="_blank">Arunachal Pradesh, Assam sign pact to resolve border dispute</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMipAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9pbmRpYS9uYW1zYWktZGVjbGFyYXRpb24tc2lnbmVkLWJldHdlZW4tYXNzYW0tYW5kLWFydW5hY2hhbC1lZmZvcnQtb24tdG8tcmVzb2x2ZS1ib3JkZXItZGlzcHV0ZS1ieS0yMDIyL2FydGljbGVzaG93LzkyOTAyMjY2LmNtc9IBnwFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9pbmRpYS9uYW1zYWktZGVjbGFyYXRpb24tc2lnbmVkLWJldHdlZW4tYXNzYW0tYW5kLWFydW5hY2hhbC1lZmZvcnQtb24tdG8tcmVzb2x2ZS1ib3JkZXItZGlzcHV0ZS1ieS0yMDIyL2FtcF9hcnRpY2xlc2hvdy85MjkwMjI2Ni5jbXM?oc=5" target="_blank">Namsai Declaration signed between Assam and Arunachal; effort on to resolve border dispute by 2022</a>&nbsp;&nbsp;<font color="#6f6f6f">Times of India</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMikwFodHRwczovL3d3dy5uZXdzMTguY29tL25ld3MvcG9saXRpY3MvYXNzYW0tYXJ1bmFjaGFsLWJvcmRlci1jbXMtc2FybWEtcGVtYS1raGFuZHUtc2lnbi1oaXN0b3JpYy1uYW1zYWktcGFjdC1pbi1zdGVwLXRvLXJlc29sdmUtZGlzcHV0ZS01NTY0NDU1Lmh0bWzSAQA?oc=5" target="_blank">Assam-Arunachal Border: CMs Sarma, Pema Khandu Sign ‘Historic’ Namsai Pact in Step to Resolve Dispute</a>&nbsp;&nbsp;<font color="#6f6f6f">News18</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lEcUx2TUJSRTJ4cHJFWHRfZTVpZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://arunachaltimes.in">The Arunachal Times</source>
+        </item>
+        <item>
+            <title>CBSE Result 2022 Live Updates: Latest update on CBSE class 10th and 12th results - Hindustan Times</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMimQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZWR1Y2F0aW9uL2JvYXJkLWV4YW1zL2Nic2UtcmVzdWx0LTIwMjItbGl2ZS11cGRhdGVzLWxhdGVzdC11cGRhdGUtb24tY2JzZS1jbGFzcy0xMHRoLWFuZC0xMnRoLXJlc3VsdHMtMTAxNjU3ODkxMjM2MzU2Lmh0bWzSAQA?oc=5</link>
+            <guid isPermaLink="false">1497621596</guid>
+            <pubDate>Sat, 16 Jul 2022 04:58:29 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMimQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZWR1Y2F0aW9uL2JvYXJkLWV4YW1zL2Nic2UtcmVzdWx0LTIwMjItbGl2ZS11cGRhdGVzLWxhdGVzdC11cGRhdGUtb24tY2JzZS1jbGFzcy0xMHRoLWFuZC0xMnRoLXJlc3VsdHMtMTAxNjU3ODkxMjM2MzU2Lmh0bWzSAQA?oc=5" target="_blank">CBSE Result 2022 Live Updates: Latest update on CBSE class 10th and 12th results</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMilwFodHRwczovL3d3dy50aW1lc25vd25ld3MuY29tL2VkdWNhdGlvbi9jYnNlLXJlc3VsdHMtMjAyMi1ib2FyZC1yZWxlYXNlcy1pbXBvcnRhbnQtbm90aWNlLXJlZ2FyZGluZy1jYnNlLTEwdGgtMTJ0aC1yZXN1bHQtb24tZGlnaWxvY2tlci1hcnRpY2xlLTkyOTA0NzUz0gEA?oc=5" target="_blank">CBSE Results 2022: Board releases important notice regarding CBSE 10th 12th result on Digilocker</a>&nbsp;&nbsp;<font color="#6f6f6f">Times Now</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMifWh0dHBzOi8vemVlbmV3cy5pbmRpYS5jb20vaW5kaWEvY2JzZS10by1icmluZy1tYWpvci1jaGFuZ2VzLWluLWFzc2Vzc21lbnQtY3JpdGVyaWEtZm9sbG93aW5nLW5lcC0yMDIwLWtleS1wb2ludHMtMjQ4NTY5OS5odG1s0gEA?oc=5" target="_blank">CBSE to bring major changes in assessment criteria following NEP 2020- Key points</a>&nbsp;&nbsp;<font color="#6f6f6f">Zee News</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMilAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZWR1Y2F0aW9uL2JvYXJkLWV4YW1zL2Nic2UtYm9hcmQtcmVzdWx0cy0yMDIyLWltcC1ub3RpY2UtdG8tYWNjZXNzLXJlc3VsdC1vbi1kaWdpbG9ja2VyLXJlbGVhc2VkLTEwMTY1Nzg3OTA0MTIyNy5odG1s0gEA?oc=5" target="_blank">CBSE Board Results 2022: Imp notice to access result on Digilocker released</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMioAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9ob21lL2VkdWNhdGlvbi9uZXdzL2ljc2UtY2xhc3MtMTB0aC1yZXN1bHQtMjAyMi10by1iZS1kZWNsYXJlZC1zb29uLWF0LWNpc2NlLW9yZy1jaGVjay1kZXRhaWxzLWhlcmUvYXJ0aWNsZXNob3cvOTI4OTUyNzAuY21z0gEA?oc=5" target="_blank">ICSE Class 10th Result 2022 to be declared soon at cisce.org, check details here</a>&nbsp;&nbsp;<font color="#6f6f6f">Times of India</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pjeUlfS0JSR2Z4aFpHNGQtN0dTZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://www.hindustantimes.com">Hindustan Times</source>
+        </item>
+        <item>
+            <title>Pakistan ‘journo-spy’: BJP steps up attack, Hamid Ansari reiterates denial - Times of India</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMiiQFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9pbmRpYS9wYWtpc3Rhbi1qb3Vybm8tc3B5LWJqcC1zdGVwcy11cC1hdHRhY2staGFtaWQtYW5zYXJpLXJlaXRlcmF0ZXMtZGVuaWFsL2FydGljbGVzaG93LzkyOTA5NzMxLmNtc9IBAA?oc=5</link>
+            <guid isPermaLink="false">1497978618</guid>
+            <pubDate>Fri, 15 Jul 2022 22:46:00 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiiQFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9pbmRpYS9wYWtpc3Rhbi1qb3Vybm8tc3B5LWJqcC1zdGVwcy11cC1hdHRhY2staGFtaWQtYW5zYXJpLXJlaXRlcmF0ZXMtZGVuaWFsL2FydGljbGVzaG93LzkyOTA5NzMxLmNtc9IBAA?oc=5" target="_blank">Pakistan ‘journo-spy’: BJP steps up attack, Hamid Ansari reiterates denial</a>&nbsp;&nbsp;<font color="#6f6f6f">Times of India</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMigwFodHRwczovL3d3dy5uZHR2LmNvbS9pbmRpYS1uZXdzL2FzLWZvcm1lci12aWNlLXByZXNpZGVudC1oYW1pZC1hbnNhcmktZGVuaWVzLXBhay1qb3VybmFsaXN0LWxpbmstYmpwLWJhY2tzLWNsYWltLXdpdGgtcGhvdG8tMzE2MDM2MdIBAA?oc=5" target="_blank">As Hamid Ansari Denies Pak Journalist Link, BJP Backs Claim With Photo</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VXJHX0lCV3ZUXzTSAQA?oc=5" target="_blank">Biggest National Security Scam: Pakistan 'Spy' with Hamid Ansari At Event; Full Frame Picture</a>&nbsp;&nbsp;<font color="#6f6f6f">Republic World</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiRGh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9vcGluaW9uL2VkaXRvcmlhbHMvc3Rvb3BpbmctbG93LTIv0gEA?oc=5" target="_blank">Allegations on Hamid Ansari cast unflattering light on BJP</a>&nbsp;&nbsp;<font color="#6f6f6f">The Indian Express</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMilAFodHRwczovL3d3dy5uZXdzMTguY29tL25ld3MvcG9saXRpY3MvZGVjaXNpb24tdG8tcmVuYW1lLWF1cmFuZ2FiYWQtaW4tbGFzdC1jYWJpbmV0LW1lZXRpbmctd2FzLWlsbGVnYWwtd2lsbC1hcHByb3ZlLWl0LWFmcmVzaC1jbS1zaGluZGUtNTU2MTA0Ny5odG1s0gEA?oc=5" target="_blank">BJP Uses Photo to Back Its Claim of Ansari's Connection with Pak Journalist Spying for ISI</a>&nbsp;&nbsp;<font color="#6f6f6f">News18</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o2cmFYS0JSRVE0eHJNNWlqc1dTZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://timesofindia.indiatimes.com">Times of India</source>
+        </item>
+        <item>
+            <title>BJP meet tomorrow to pick VP nominee, party will reach out to others - Times of India</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMihgFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9pbmRpYS9ianAtbWVldC10b21vcnJvdy10by1waWNrLXZwLW5vbWluZWUtcGFydHktd2lsbC1yZWFjaC1vdXQtdG8tb3RoZXJzL2FydGljbGVzaG93LzkyODg1Mzc3LmNtc9IBgQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9pbmRpYS9ianAtbWVldC10b21vcnJvdy10by1waWNrLXZwLW5vbWluZWUtcGFydHktd2lsbC1yZWFjaC1vdXQtdG8tb3RoZXJzL2FtcF9hcnRpY2xlc2hvdy85Mjg4NTM3Ny5jbXM?oc=5</link>
+            <guid isPermaLink="false">1487772376</guid>
+            <pubDate>Thu, 14 Jul 2022 20:34:00 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMihgFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9pbmRpYS9ianAtbWVldC10b21vcnJvdy10by1waWNrLXZwLW5vbWluZWUtcGFydHktd2lsbC1yZWFjaC1vdXQtdG8tb3RoZXJzL2FydGljbGVzaG93LzkyODg1Mzc3LmNtc9IBgQFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9pbmRpYS9ianAtbWVldC10b21vcnJvdy10by1waWNrLXZwLW5vbWluZWUtcGFydHktd2lsbC1yZWFjaC1vdXQtdG8tb3RoZXJzL2FtcF9hcnRpY2xlc2hvdy85Mjg4NTM3Ny5jbXM?oc=5" target="_blank">BJP meet tomorrow to pick VP nominee, party will reach out to others</a>&nbsp;&nbsp;<font color="#6f6f6f">Times of India</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9OWZwMWZlVmJSMjjSAQA?oc=5" target="_blank">Who After Venkaiah Naidu? NDA To Announce Its Vice Presidential Candidate Tomorrow | English News</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN-News18</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vd3d3LmRlY2NhbmhlcmFsZC5jb20vbmF0aW9uYWwvYmpwLWxpa2VseS10by1hbm5vdW5jZS1pdHMtdmljZS1wcmVzaWRlbnQtY2FuZGlkYXRlLW9uLWp1bHktMTYtMTEyNzEzNS5odG1s0gEA?oc=5" target="_blank">BJP likely to announce its Vice President candidate on July 16</a>&nbsp;&nbsp;<font color="#6f6f6f">Deccan Herald</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vd3d3Lm5kdHYuY29tL2luZGlhLW5ld3MvYmpwLXBhcmxpYW1lbnRhcnktYm9hcmQtbWVldGluZy10by1waWNrLXZwLWNhbmRpZGF0ZS0zMTYyOTc50gEA?oc=5" target="_blank">BJP Meet To Pick Its Vice President Candidate Today, PM Modi To Attend</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMinQFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbmV3cy9wb2xpdGljcy1hbmQtbmF0aW9uL2JqcC1wYXJsaWFtZW50LWJvYXJkLWdlYXJzLXVwLWZvci1tZWV0aW5ncy1vbi12cC1ub21pbmF0aW9uLXByZXotcG9sbHMvYXJ0aWNsZXNob3cvOTI5MDc5NjAuY21z0gEA?oc=5" target="_blank">BJP Parliament Board Gears up for Meetings on VP Nomination, Prez Polls</a>&nbsp;&nbsp;<font color="#6f6f6f">Economic Times</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pZdGJiRkJSRzAyNHd1U2x3MENpZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://timesofindia.indiatimes.com">Times of India</source>
+        </item>
+        <item>
+            <title>Watch: Saudi prince's reaction to 'Will you apologise to Khashoggi's family' - Hindustan Times</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMimgFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9zYXVkaS1wcmluY2Utcy1yZWFjdGlvbi10by13aWxsLXlvdS1hcG9sb2dpc2UtdG8tamFtYWwta2hhc2hvZ2dpLXMtZmFtaWx5LXdhdGNoLXZpcmFsLXZpZGVvLTEwMTY1Nzk0MTc5MjQ2NS5odG1s0gEA?oc=5</link>
+            <guid isPermaLink="false">1491588704</guid>
+            <pubDate>Sat, 16 Jul 2022 03:33:55 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMimgFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9zYXVkaS1wcmluY2Utcy1yZWFjdGlvbi10by13aWxsLXlvdS1hcG9sb2dpc2UtdG8tamFtYWwta2hhc2hvZ2dpLXMtZmFtaWx5LXdhdGNoLXZpcmFsLXZpZGVvLTEwMTY1Nzk0MTc5MjQ2NS5odG1s0gEA?oc=5" target="_blank">Watch: Saudi prince's reaction to 'Will you apologise to Khashoggi's family'</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMigQFodHRwczovL3d3dy5uZHR2LmNvbS93b3JsZC1uZXdzL2JpZGVuLXNheXMtaGUtaG9sZHMtc2F1ZGktY3Jvd24tcHJpbmNlLXJlc3BvbnNpYmxlLWZvci1qb3VybmFsaXN0LWphbWFsLWtoYXNob2dnaXMtbXVyZGVyLTMxNjI5MzDSAQA?oc=5" target="_blank">Biden Says He Holds Saudi Crown Prince Responsible For Khashoggi's Murder</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMi2gFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS93b3JsZC91cy91cy1zYXVkaS1hcmFiaWEtYWdyZWUtb24tc3RvcHBpbmctaXJhbi1nZXR0aW5nLW51Y2xlYXItd2VhcG9ucy1qb2ludC1zdGF0ZW1lbnQvYXJ0aWNsZXNob3cvOTI5MTEyNzAuY21zP1VUTV9Tb3VyY2U9R29vZ2xlX05ld3NzdGFuZCZVVE1fQ2FtcGFpZ249UlNTX0ZlZWQmVVRNX01lZGl1bT1SZWZlcnJhbNIBAA?oc=5" target="_blank">US, Saudi Arabia agree on stopping Iran getting nuclear weapons -joint statement</a>&nbsp;&nbsp;<font color="#6f6f6f">Times of India</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMihwFodHRwczovL3d3dy5uZXdzMTguY29tL25ld3Mvb3Bpbmlvbi90b3VyLWRlLXNhdWRpLWFyYWJpYS1qb2UtYmlkZW4tY29uY2VkZXMtZGVmZWF0LWJlZm9yZS1jcm93bi1wcmluY2UtbW9oYW1tZWQtYmluLXNhbG1hbi01NTYxMTEzLmh0bWzSAQA?oc=5" target="_blank">Tour de Saudi Arabia: Joe Biden Concedes Defeat Before Crown Prince Mohammed Bin Salman</a>&nbsp;&nbsp;<font color="#6f6f6f">News18</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMidGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L2JpZGVuLWZpc3QtYnVtcHMtc2F1ZGktY3Jvd24tcHJpbmNlLXRyaXAtdGhhdC1zZWVrcy1yZXNldC10aWVzLTIwMjItMDctMTUv0gEA?oc=5" target="_blank">Biden fist bumps Saudi crown prince on trip that seeks to reset ties</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters.com</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pnckpfSEJSR28zcDVUSUFhYWVpZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://www.hindustantimes.com">Hindustan Times</source>
+        </item>
+        <item>
+            <title>Rajapaksa Told to Leave Singapore After 15 Days, India Refuses to Let Him Stay Here: Sources | Exclusive - News18</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMinAFodHRwczovL3d3dy5uZXdzMTguY29tL25ld3MvaW5kaWEvZ290YWJheWEtcmFqYXBha3NhLXRvbGQtdG8tbGVhdmUtc2luZ2Fwb3JlLWFmdGVyLTE1LWRheXMtaW5kaWEtcmVmdXNlcy10by1sZXQtaGltLXN0YXktaGVyZS1zb3VyY2VzLWV4Y2x1c2l2ZS01NTY0MzIzLmh0bWzSAQA?oc=5</link>
+            <guid isPermaLink="false">1485373155</guid>
+            <pubDate>Fri, 15 Jul 2022 15:55:00 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMinAFodHRwczovL3d3dy5uZXdzMTguY29tL25ld3MvaW5kaWEvZ290YWJheWEtcmFqYXBha3NhLXRvbGQtdG8tbGVhdmUtc2luZ2Fwb3JlLWFmdGVyLTE1LWRheXMtaW5kaWEtcmVmdXNlcy10by1sZXQtaGltLXN0YXktaGVyZS1zb3VyY2VzLWV4Y2x1c2l2ZS01NTY0MzIzLmh0bWzSAQA?oc=5" target="_blank">Rajapaksa Told to Leave Singapore After 15 Days, India Refuses to Let Him Stay Here: Sources | Exclusive</a>&nbsp;&nbsp;<font color="#6f6f6f">News18</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WHFuVy1nZjRnQzTSAQA?oc=5" target="_blank">Ranil Wickremesinghe Named Sri Lanka's Acting President</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiyQFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL3dvcmxkL3NyaS1sYW5rYS1jcmlzaXMvc3Rvcnkvc3JpLWxhbmthbi1wYXJsaWFtZW50LWNvbnZlbmUtdG9kYXktZWxlY3QtcHJlc2lkZW50LXdoYXQtaGFwcGVuZWQtc28tZmFyLWdvdGFiYXlhLXJhamFwYWtzYS1yYW5pbC13aWNrcmVtZXNpbmdoZS0xOTc2MjE4LTIwMjItMDctMTY_dXRtX3NvdXJjZT1yc3PSAQA?oc=5" target="_blank">Sri Lankan parliament to convene today, elect president on July 20 in historic first | What's happened so far</a>&nbsp;&nbsp;<font color="#6f6f6f">India Today</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMihAFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvb3Bpbmlvbi9lZGl0b3JpYWxzL3BvbGl0ZS1wcm90ZXN0ZXItc3JpLWxhbmthcy1wZW9wbGUtaW5hdWd1cmF0ZS1hLW5ldy1raW5kLW9mLXJldm9sdXRpb24tODAzMjEyMS_SAQA?oc=5" target="_blank">The polite protester</a>&nbsp;&nbsp;<font color="#6f6f6f">The Indian Express</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMijQFodHRwczovL3d3dy5uZHR2LmNvbS93b3JsZC1uZXdzL3NyaS1sYW5rYW4tc3BlYWtlci1zYXlzLW5ldy1wcmVzaWRlbnQtd2l0aGluLTctZGF5cy1hZnRlci1nb3RhYmF5YS1yYWphcGFrc2FzLXJlc2lnbmF0aW9uLWlzLWFjY2VwdGVkLTMxNTk3MTnSAZMBaHR0cHM6Ly93d3cubmR0di5jb20vd29ybGQtbmV3cy9zcmktbGFua2FuLXNwZWFrZXItc2F5cy1uZXctcHJlc2lkZW50LXdpdGhpbi03LWRheXMtYWZ0ZXItZ290YWJheWEtcmFqYXBha3Nhcy1yZXNpZ25hdGlvbi1pcy1hY2NlcHRlZC0zMTU5NzE5L2FtcC8x?oc=5" target="_blank">New Lanka President Next Week, Over To R Wickremesinghe For Now: 10 Facts</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pqX2FQRUJSRWMzZ0wyU1N2MFhDZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://www.news18.com">News18</source>
+        </item>
+        <item>
+            <title>5 Remaining Contenders In UK PM Race Clash Over Tax In 1st TV Debate - NDTV</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvNS1yZW1haW5pbmctY29udGVuZGVycy1pbi11ay1wbS1yYWNlLWNsYXNoLW92ZXItdGF4LWluLTFzdC10di1kZWJhdGUtMzE2MjkwONIBAA?oc=5</link>
+            <guid isPermaLink="false">1503524662</guid>
+            <pubDate>Sat, 16 Jul 2022 02:14:18 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvNS1yZW1haW5pbmctY29udGVuZGVycy1pbi11ay1wbS1yYWNlLWNsYXNoLW92ZXItdGF4LWluLTFzdC10di1kZWJhdGUtMzE2MjkwONIBAA?oc=5" target="_blank">5 Remaining Contenders In UK PM Race Clash Over Tax In 1st TV Debate</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMinQFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3dvcmxkLW5ld3MvdWtzLXJpc2hpLXN1bmFrLWFuZC1saXotdHJ1c3MtY2xhc2gtb3Zlci10YXgtaW4tbGVhZGVyc2hpcC1kZWJhdGUvYXJ0aWNsZXNob3cvOTI5MTA5OTkuY21z0gEA?oc=5" target="_blank">UK's Rishi Sunak and Liz Truss clash over tax in leadership debate</a>&nbsp;&nbsp;<font color="#6f6f6f">Economic Times</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vd3d3Lm5ld3MxOC5jb20vbmV3cy93b3JsZC91ay10b3J5LWxlYWRlcnNoaXAtaG93LXRoZS1yYWNlLXdpbGwtdW5mb2xkLTU1NTc1MzcuaHRtbNIBXmh0dHBzOi8vd3d3Lm5ld3MxOC5jb20vYW1wL25ld3Mvd29ybGQvdWstdG9yeS1sZWFkZXJzaGlwLWhvdy10aGUtcmFjZS13aWxsLXVuZm9sZC01NTU3NTM3Lmh0bWw?oc=5" target="_blank">UK Tory Leadership: How The Race Will Unfold</a>&nbsp;&nbsp;<font color="#6f6f6f">News18</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMifmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9jb21tZW50aXNmcmVlLzIwMjIvanVsLzE1L3RoZS1maXJzdC10b3J5LWxlYWRlcnNoaXAtZGViYXRlLWNvdWxkLXNpZ25pZmljYW50bHktcmVzaGFwZS10aGUtY29udGVzdNIBAA?oc=5" target="_blank">The first Tory leadership debate could significantly reshape the contest</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9STFESzhBOVBlMjjSAQA?oc=5" target="_blank">5 Contenders To Be Next UK Prime Minister To Face Off In TV Debate</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kyN3ZmTUJSRUswU3doZHEyM2l5Z0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://www.ndtv.com">NDTV</source>
+        </item>
+        <item>
+            <title>Boris Johnson's 'anyone but Rishi Sunak' posturing as UK PM race heats up - India Today</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2luZGlhL3N0b3J5L2JvcmlzLWpvaG5zb24tcy1hbnlvbmUtYnV0LXJpc2hpLXN1bmFrLXBvc3R1cmluZy1hcy11ay1wbS1yYWNlLWhlYXRzLXVwLTE5NzYxNzctMjAyMi0wNy0xNdIBhAFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2FtcC9pbmRpYS9zdG9yeS9ib3Jpcy1qb2huc29uLXMtYW55b25lLWJ1dC1yaXNoaS1zdW5hay1wb3N0dXJpbmctYXMtdWstcG0tcmFjZS1oZWF0cy11cC0xOTc2MTc3LTIwMjItMDctMTU?oc=5</link>
+            <guid isPermaLink="false">1494214054</guid>
+            <pubDate>Fri, 15 Jul 2022 18:09:16 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2luZGlhL3N0b3J5L2JvcmlzLWpvaG5zb24tcy1hbnlvbmUtYnV0LXJpc2hpLXN1bmFrLXBvc3R1cmluZy1hcy11ay1wbS1yYWNlLWhlYXRzLXVwLTE5NzYxNzctMjAyMi0wNy0xNdIBhAFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2FtcC9pbmRpYS9zdG9yeS9ib3Jpcy1qb2huc29uLXMtYW55b25lLWJ1dC1yaXNoaS1zdW5hay1wb3N0dXJpbmctYXMtdWstcG0tcmFjZS1oZWF0cy11cC0xOTc2MTc3LTIwMjItMDctMTU?oc=5" target="_blank">Boris Johnson's 'anyone but Rishi Sunak' posturing as UK PM race heats up</a>&nbsp;&nbsp;<font color="#6f6f6f">India Today</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvYmFjay1hbnlvbmUtYnV0LXJpc2hpLXN1bmFrLWJvcmlzLWpvaG5zb24tdGVsbHMtYWxsaWVzLXJlcG9ydC0zMTYyMjk30gEA?oc=5" target="_blank">"Back Anyone But Rishi Sunak," Boris Johnson Tells Allies: Report</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS93b3JsZC91ay9ib3Jpcy1qb2huc29uLXdhbnRzLWFueW9uZS1idXQtcmlzaGktdG8tcmVwbGFjZS1oaW0tcmVwb3J0L2FydGljbGVzaG93LzkyOTA4MDk0LmNtc9IBAA?oc=5" target="_blank">Boris Johnson wants ‘anyone but Rishi Sunak’ to replace him As UK PM: Report</a>&nbsp;&nbsp;<font color="#6f6f6f">Times of India</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiSmh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS93b3JsZC9iYWNrLXN1bmFrLWpvaG5zb24tYWxsaWVzLTgwMzIwMzgv0gEA?oc=5" target="_blank">'Back anyone, but Rishi Sunak': UK PM Boris Johnson tells allies</a>&nbsp;&nbsp;<font color="#6f6f6f">The Indian Express</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMigQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9ib3Jpcy1qb2huc29uLXRvLWFsbGllcy1iYWNrLWFueW9uZS1idXQtcmlzaGktc3VuYWstZm9yLWJyaXRhaW4tcG0tMTAxNjU3OTAzODMxMjUyLmh0bWzSAQA?oc=5" target="_blank">Boris Johnson to allies: 'Back anyone, but Rishi Sunak for Britain PM'</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lteTdfSUJSRW5NWlBXYkl0QlZDZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://www.indiatoday.in">India Today</source>
+        </item>
+        <item>
+            <title>RBI dive in forex markets keeps rupee from sinking below 80 - Economic Times</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMijQFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbmV3cy9lY29ub215L3BvbGljeS9yYmktZGl2ZS1pbi1mb3JleC1tYXJrZXRzLWtlZXBzLXJ1cGVlLWZyb20tc2lua2luZy1iZWxvdy04MC9hcnRpY2xlc2hvdy85MjkxMDQ2OS5jbXPSAYgBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL25ld3MvZWNvbm9teS9wb2xpY3kvcmJpLWRpdmUtaW4tZm9yZXgtbWFya2V0cy1rZWVwcy1ydXBlZS1mcm9tLXNpbmtpbmctYmVsb3ctODAvYW1wX2FydGljbGVzaG93LzkyOTEwNDY5LmNtcw?oc=5</link>
+            <guid isPermaLink="false">1500140592</guid>
+            <pubDate>Sat, 16 Jul 2022 01:09:00 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMijQFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbmV3cy9lY29ub215L3BvbGljeS9yYmktZGl2ZS1pbi1mb3JleC1tYXJrZXRzLWtlZXBzLXJ1cGVlLWZyb20tc2lua2luZy1iZWxvdy04MC9hcnRpY2xlc2hvdy85MjkxMDQ2OS5jbXPSAYgBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL25ld3MvZWNvbm9teS9wb2xpY3kvcmJpLWRpdmUtaW4tZm9yZXgtbWFya2V0cy1rZWVwcy1ydXBlZS1mcm9tLXNpbmtpbmctYmVsb3ctODAvYW1wX2FydGljbGVzaG93LzkyOTEwNDY5LmNtcw?oc=5" target="_blank">RBI dive in forex markets keeps rupee from sinking below 80</a>&nbsp;&nbsp;<font color="#6f6f6f">Economic Times</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMikAFodHRwczovL3d3dy5uZXdzMTguY29tL25ld3MvYnVzaW5lc3MvcnVwZWUtYXQtcmVjb3JkLWxvdy13aWxsLWl0LWltcGFjdC15b3VyLWZvcmVpZ24tdHJpcC1jb3N0LXdoYXQteW91LXNob3VsZC1kby10by1jdXNoaW9uLWltcGFjdC01NTYxNDE5Lmh0bWzSAQA?oc=5" target="_blank">Rupee At Record Low: Will It Impact Your Foreign Trip Cost? What You Should Do To Cushion Impact</a>&nbsp;&nbsp;<font color="#6f6f6f">News18</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMirQFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbWFya2V0cy9leHBlcnQtdmlldy9ydXBlZS1kZXByZWNpYXRpbmctYWdhaW5zdC11cy1kb2xsYXItYnV0LWFwcHJlY2lhdGluZy1hZ2FpbnN0LWV1cm8tcG91bmQteWVuLXNhbmplZXYtc2FueWFsL2FydGljbGVzaG93LzkyOTAxMzUwLmNtc9IBAA?oc=5" target="_blank">Rupee depreciating against US dollar but appreciating against Euro, Pound & Yen on a weighted basis: Sanje</a>&nbsp;&nbsp;<font color="#6f6f6f">Economic Times</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS9vcGluaW9uL29ubGluZS12aWV3cy93aGF0LXRvLWV4cGVjdC13aGVuLXJ1cGVlLXNsaWRlcy1wYXN0LTgwLTExNjU3ODc1MTU2MTU1Lmh0bWzSAQA?oc=5" target="_blank">The reasons why the rupee will keep sliding | Mint</a>&nbsp;&nbsp;<font color="#6f6f6f">Mint</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiemh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy9vcGluaW9uL2FzLXRoZS1ydXBlZS1jb250aW51ZXMtdHVtYmxpbmctd2hhdC1kb2VzLWl0LW1lYW4tZm9yLXN0b2NrLW1hcmtldHMtODgzMjI1MS5odG1s0gF-aHR0cHM6Ly93d3cubW9uZXljb250cm9sLmNvbS9uZXdzL29waW5pb24vYXMtdGhlLXJ1cGVlLWNvbnRpbnVlcy10dW1ibGluZy13aGF0LWRvZXMtaXQtbWVhbi1mb3Itc3RvY2stbWFya2V0cy04ODMyMjUxLmh0bWwvYW1w?oc=5" target="_blank">As the rupee continues tumbling, what does it mean for stock markets?</a>&nbsp;&nbsp;<font color="#6f6f6f">Moneycontrol</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l3cUtuTEJSR3poMWtVSlh0UE9TZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://economictimes.indiatimes.com">Economic Times</source>
+        </item>
+        <item>
+            <title>Anand Mahindra On Elon Musk vs Twitter: "Waste Of Time, Energy And Money" - NDTV</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3Lm5kdHYuY29tL29mZmJlYXQvYW5hbmQtbWFoaW5kcmEtb24tZWxvbi1tdXNrLXZzLXR3aXR0ZXItd2FzdGUtb2YtdGltZS1lbmVyZ3ktYW5kLW1vbmV5LTMxNjA3NjbSAQA?oc=5</link>
+            <guid isPermaLink="false">1488750043</guid>
+            <pubDate>Fri, 15 Jul 2022 10:05:37 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3Lm5kdHYuY29tL29mZmJlYXQvYW5hbmQtbWFoaW5kcmEtb24tZWxvbi1tdXNrLXZzLXR3aXR0ZXItd2FzdGUtb2YtdGltZS1lbmVyZ3ktYW5kLW1vbmV5LTMxNjA3NjbSAQA?oc=5" target="_blank">Anand Mahindra On Elon Musk vs Twitter: "Waste Of Time, Energy And Money"</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMimQFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL3RlY2hub2xvZ3kvbmV3cy9zdG9yeS9lbG9uLW11c2stc2VudC13YXJuaW5nLW1lc3NhZ2UtdG8tdHdpdHRlci1jZW8tcGFyYWctYWdyYXdhbC1zYWlkLXN0b3AtY3JlYXRpbmctdHJvdWJsZS0xOTc1OTM5LTIwMjItMDctMTXSAZ0BaHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9hbXAvdGVjaG5vbG9neS9uZXdzL3N0b3J5L2Vsb24tbXVzay1zZW50LXdhcm5pbmctbWVzc2FnZS10by10d2l0dGVyLWNlby1wYXJhZy1hZ3Jhd2FsLXNhaWQtc3RvcC1jcmVhdGluZy10cm91YmxlLTE5NzU5MzktMjAyMi0wNy0xNQ?oc=5" target="_blank">Elon Musk sent warning message to Twitter CEO Parag Agrawal, said stop creating trouble</a>&nbsp;&nbsp;<font color="#6f6f6f">India Today</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS90ZWNobm9sb2d5L3NvY2lhbC9lbG9uLW11c2stc2Vla3MtdG8tYmxvY2stdHdpdHRlci1yZXF1ZXN0LWZvci1leHBlZGl0ZWQtdHJpYWwtODAzMjU1OC_SAQA?oc=5" target="_blank">Elon Musk seeks to block Twitter request for expedited trial</a>&nbsp;&nbsp;<font color="#6f6f6f">The Indian Express</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTA3LTE1L21hdHQtbGV2aW5lLW9uLXdoYXQtdG8td2F0Y2gtaW4tdHdpdHRlci12cy1lbG9uLW11c2vSAQA?oc=5" target="_blank">Matt Levine On What to Watch In Twitter vs. Elon Musk</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2piaV9MRkJSR2hRSlRFbWdfVXZ5Z0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://www.ndtv.com">NDTV</source>
+        </item>
+        <item>
+            <title>Yes Bank selects JC Flowers to acquire $6 bn bad loans | Mint - Mint</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS9jb21wYW5pZXMvbmV3cy95ZXMtYmFuay1zZWxlY3RzLWpjLWZsb3dlcnMtdG8tYWNxdWlyZS02LWJuLWJhZC1sb2Fucy0xMTY1Nzg2NTUwOTMxNS5odG1s0gEA?oc=5</link>
+            <guid isPermaLink="false">1499865310</guid>
+            <pubDate>Fri, 15 Jul 2022 17:02:25 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS9jb21wYW5pZXMvbmV3cy95ZXMtYmFuay1zZWxlY3RzLWpjLWZsb3dlcnMtdG8tYWNxdWlyZS02LWJuLWJhZC1sb2Fucy0xMTY1Nzg2NTUwOTMxNS5odG1s0gEA?oc=5" target="_blank">Yes Bank selects JC Flowers to acquire $6 bn bad loans | Mint</a>&nbsp;&nbsp;<font color="#6f6f6f">Mint</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9YlVRUHNxckQ0NFXSAQA?oc=5" target="_blank">Yes Bank Selects JC Flowers ARC As Partner For Sale Of ₹48000 Crore Worth Stressed Loan Portfolio</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC-TV18</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiuAFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vaW5kdXN0cnkvYmFua2luZy9maW5hbmNlL2JhbmtpbmcveWVzLWJhbmstcGlja3MtamMtZmxvd2Vycy1hcmMtYXMtanYtcGFydG5lci10by1vZmZsb2FkLWRpc3RyZXNzZWQtbG9hbnMtd29ydGgtcnMtNDgwMDAtY3IvYXJ0aWNsZXNob3cvOTI4OTEyNzQuY21z0gEA?oc=5" target="_blank">Yes Bank picks JC Flowers ARC as JV partner to offload distressed loans worth Rs 48,000 cr</a>&nbsp;&nbsp;<font color="#6f6f6f">Economic Times</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMioQFodHRwczovL3d3dy5saXZlbWludC5jb20vbmV3cy9pbmRpYS95ZXMtYmFuay1zZWxlY3RzLWpjLWZsb3dlcnMtYXJjLWFzLWl0cy1wYXJ0bmVyLWZvci1zYWxlLW9mLWJhbmstcy1zdHJlc3NlZC1sb2FuLXBvcnRmb2xpby13b3J0aC00OC0wMDAtY3ItMTE2NTc4NjE1Njg3NjguaHRtbNIBAA?oc=5" target="_blank">Yes Bank selects JC Flowers ARC as partner for sale of ₹48,000 crore worth stressed loan portfolio | Mint</a>&nbsp;&nbsp;<font color="#6f6f6f">Mint</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMilAFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYXJ0aWNsZS9jdXJyZW50LWFmZmFpcnMvdG9wLWhlYWRsaW5lcy15ZXMtYmFuay1wb3J0Zm9saW8tc2FsZS1uaXJmLXJhbmtpbmdzLW1vbmtleXBveC1hbmQtbW9yZS0xMjIwNzE1MDA5NzVfMS5odG1s0gEA?oc=5" target="_blank">Top headlines: YES Bank portfolio sale, NIRF rankings, monkeypox and more</a>&nbsp;&nbsp;<font color="#6f6f6f">Business Standard</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pld1pqTEJSRmZwbURUTXhyaHNDZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://www.livemint.com">Mint</source>
+        </item>
+        <item>
+            <title>Gold rate falls by Rs 160 for 24 carat and 22 carat in India - Kalinga TV</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8va2FsaW5nYXR2LmNvbS9idXNpbmVzcy9nb2xkLXJhdGUtaW4taW5kaWEtZmFsbHMtYnktcnMtMTYwLWZvci0yNC1jYXJhdC1hbmQtMjItY2FyYXQtdG9kYXkv0gEA?oc=5</link>
+            <guid isPermaLink="false">1498886095</guid>
+            <pubDate>Sat, 16 Jul 2022 01:41:35 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8va2FsaW5nYXR2LmNvbS9idXNpbmVzcy9nb2xkLXJhdGUtaW4taW5kaWEtZmFsbHMtYnktcnMtMTYwLWZvci0yNC1jYXJhdC1hbmQtMjItY2FyYXQtdG9kYXkv0gEA?oc=5" target="_blank">Gold rate falls by Rs 160 for 24 carat and 22 carat in India</a>&nbsp;&nbsp;<font color="#6f6f6f">Kalinga TV</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMigwFodHRwczovL3d3dy5saXZlbWludC5jb20vbWFya2V0L2NvbW1vZGl0aWVzL2dvbGQtcHJpY2VzLXRvZGF5LWZhbGwtYmVsb3ctcnMtNTAtMDAwLWRvd24tYXQtMi1tb250aC1sb3ctaW4taW5kaWEtMTE2NTc4NjM5NDc5MDAuaHRtbNIBAA?oc=5" target="_blank">Gold prices today fall below ₹50,000, down at 2-month low in India | Mint</a>&nbsp;&nbsp;<font color="#6f6f6f">Mint</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiiAFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvamV3ZWxsZXJzLWhlYXJ0ZW5lZC1ieS1kcm9wLWluLWdvbGQtcHJpY2Utcmlzay1saWVzLWluLXBvc3NpYmxlLWdsb2JhbC1yZWNlc3Npb24tODgzNDgyMS5odG1s0gEA?oc=5" target="_blank">Jewellers heartened by drop in gold price, risk lies in possible global recession</a>&nbsp;&nbsp;<font color="#6f6f6f">Moneycontrol</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3Lmdvb2RyZXR1cm5zLmluL25ld3MvZ29sZC1yYXRlLWRlbGhpLWJpZy1mYWxsLWluLWdvbGQtc2lsdmVyLXByaWNlcy10b2RheS0xMjU1NzA5Lmh0bWzSAWlodHRwczovL3d3dy5nb29kcmV0dXJucy5pbi9hbXBodG1sL25ld3MvZ29sZC1yYXRlLWRlbGhpLWJpZy1mYWxsLWluLWdvbGQtc2lsdmVyLXByaWNlcy10b2RheS0xMjU1NzA5Lmh0bWw?oc=5" target="_blank">Gold Rate Delhi: Big Fall In Gold, Silver Prices Today</a>&nbsp;&nbsp;<font color="#6f6f6f">Goodreturns</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vd3d3LnRoZWhhbnNpbmRpYS5jb20vYnVzaW5lc3MvZ29sZC1yYXRlcy10b2RheS1pbi1oeWRlcmFiYWQtYmFuZ2Fsb3JlLWtlcmFsYS12aXNha2hhcGF0bmFtLTE1LWp1bHktMjAyMi03NTM1MjbSAQA?oc=5" target="_blank">Gold rates today in Hyderabad, Bangalore, Kerala, Visakhapatnam - 15 July 2022</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hans India</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pQMzl6S0JSSDZOdWlrekdra1B5Z0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://kalingatv.com">Kalinga TV</source>
+        </item>
+        <item>
+            <title>Garena Free Fire Redeem Codes For Today 16 July 2022 : Check Website, Steps to Redeem Codes - Northeast Now</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMiVGh0dHBzOi8vbmVub3cuaW4vZnJlZS1maXJlL2dhcmVuYS1mcmVlLWZpcmUtcmVkZWVtLWNvZGVzLWZvci10b2RheS0xNi1qdWx5LTIwMjIuaHRtbNIBAA?oc=5</link>
+            <guid isPermaLink="false">1498860877</guid>
+            <pubDate>Fri, 15 Jul 2022 17:59:25 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiVGh0dHBzOi8vbmVub3cuaW4vZnJlZS1maXJlL2dhcmVuYS1mcmVlLWZpcmUtcmVkZWVtLWNvZGVzLWZvci10b2RheS0xNi1qdWx5LTIwMjIuaHRtbNIBAA?oc=5" target="_blank">Garena Free Fire Redeem Codes For Today 16 July 2022 : Check Website, Steps to Redeem Codes</a>&nbsp;&nbsp;<font color="#6f6f6f">Northeast Now</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMikAFodHRwczovL3RlY2guaGluZHVzdGFudGltZXMuY29tL2hvdy10by9nYXJlbmEtZnJlZS1maXJlLW1heC1yZWRlZW0tY29kZXMtZm9yLWp1bHktMTYtbXVsdGlwbGUtcHJlbWl1bS1idW5kbGVzLW9uLW9mZmVyLXRvZGF5LTcxNjU3OTM3Mzc1NzU4Lmh0bWzSAQA?oc=5" target="_blank">Garena Free Fire MAX Redeem Codes for July 16: Multiple premium bundles on offer today</a>&nbsp;&nbsp;<font color="#6f6f6f">HT Tech</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3LnNwb3J0c2tlZWRhLmNvbS9mcmVlLWZpcmUvbmV3cy1nYXJlbmEtZnJlZS1maXJlLW1heC1yZWRlZW0tY29kZXMtMTUtanVseS0yMDIyLWNsYWltLWZyZWUtZGlhbW9uZHMtc2tpbnPSAQA?oc=5" target="_blank">Garena Free Fire MAX redeem codes for 15 July 2022: Claim free diamonds, skins, and more</a>&nbsp;&nbsp;<font color="#6f6f6f">Sportskeeda</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3Lmluc2lkZXNwb3J0LmluL2ZyZWUtZmlyZS1yZWRlZW0tY29kZXMtbGF0ZXN0LWFjdGl2ZS1jb2Rlcy1vZi1qdWx5LTE2LXJldmVhbGVkLWVzcG9ydHMtbmV3cy_SAQA?oc=5" target="_blank">Free Fire Redeem Codes: Latest active codes of July 16</a>&nbsp;&nbsp;<font color="#6f6f6f">InsideSport</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMihwFodHRwczovL3RlY2guaGluZHVzdGFudGltZXMuY29tL2hvdy10by9nYXJlbmEtZnJlZS1maXJlLXJlZGVlbS1jb2Rlcy1mb3ItanVseS0xNi0yMDIyLWNvbGxlY3QtdGhlc2UtbXlzdGVyeS1yZXdhcmRzLTcxNjU3OTM0ODg4MDE2Lmh0bWzSAQA?oc=5" target="_blank">Garena Free Fire Redeem codes for July 16, 2022: Collect these mystery rewards</a>&nbsp;&nbsp;<font color="#6f6f6f">HT Tech</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pObXR2S0JSSDdkd0RFVEplY2dTZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://nenow.in">Northeast Now</source>
+        </item>
+        <item>
+            <title>Amazon Prime Day 2022 sale to start from July 23: Check top deals on OnePlus, iPhones and more - Zee News</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMijgFodHRwczovL3plZW5ld3MuaW5kaWEuY29tL3RlY2hub2xvZ3kvYW1hem9uLXByaW1lLWRheS0yMDIyLXNhbGUtdG8tc3RhcnQtZnJvbS1qdWx5LTIzLWNoZWNrLXRvcC1kZWFscy1vbi1vbmVwbHVzLWlwaG9uZXMtYW5kLW1vcmUtMjQ4NTkyNS5odG1s0gEA?oc=5</link>
+            <guid isPermaLink="false">1492199880</guid>
+            <pubDate>Sat, 16 Jul 2022 04:26:20 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMijgFodHRwczovL3plZW5ld3MuaW5kaWEuY29tL3RlY2hub2xvZ3kvYW1hem9uLXByaW1lLWRheS0yMDIyLXNhbGUtdG8tc3RhcnQtZnJvbS1qdWx5LTIzLWNoZWNrLXRvcC1kZWFscy1vbi1vbmVwbHVzLWlwaG9uZXMtYW5kLW1vcmUtMjQ4NTkyNS5odG1s0gEA?oc=5" target="_blank">Amazon Prime Day 2022 sale to start from July 23: Check top deals on OnePlus, iPhones and more</a>&nbsp;&nbsp;<font color="#6f6f6f">Zee News</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMijAFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvdGVjaG5vbG9neS90ZWNob29rL2FtYXpvbi1wcmltZS1kYXktMjAyMi1zYWxlLWJlc3QtZGVhbHMtb2ZmZXJzLWFwcGxlLW9uZXBsdXMtc2Ftc3VuZy1zbWFydHBob25lcy04MDMxNzk5L9IBAA?oc=5" target="_blank">Amazon Prime Day 2022 sale: Best offers on Apple, OnePlus and other smartphones</a>&nbsp;&nbsp;<font color="#6f6f6f">The Indian Express</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiQGh0dHBzOi8vOXRvNXRveXMuY29tLzIwMjIvMDcvMTUvYW5kcm9pZC1hcHAtZGVhbHMtaHlkcm8tY29hY2gtNS_SAQA?oc=5" target="_blank">Android app deals of the day: Hydro Coach PRO, GPS Speed Pro, Star Link 2, more</a>&nbsp;&nbsp;<font color="#6f6f6f">9to5Toys</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiNGh0dHBzOi8vcG9ja2V0bm93LmNvbS9nZXQtbmV3LW9uZXBsdXMtOS1wcm8tanVzdC03MDDSAQA?oc=5" target="_blank">Get a new OnePlus 9 Pro for just $700</a>&nbsp;&nbsp;<font color="#6f6f6f">Pocketnow</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vbm9raWFtb2IubmV0LzIwMjIvMDcvMTMvYW1hem9uLXByaW1lLWRheS1icmluZ3MtbG93ZXItcHJpY2VzLWZvci1zb21lLW5va2lhLWRldmljZXMtaW4tdGhlLXVrL9IBAA?oc=5" target="_blank">Amazon Prime Day brings lower prices for some Nokia devices in the UK</a>&nbsp;&nbsp;<font color="#6f6f6f">Nokiamob</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pJMDhUSEJSRzBKNTdsdWJKY0FTZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://zeenews.india.com">Zee News</source>
+        </item>
+        <item>
+            <title>Wordle 392 Answer, July 16: Check Out Hints And Clues To Solve Today's Wordle Puzzle - ABP Live</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vbmV3cy5hYnBsaXZlLmNvbS9nYW1pbmcvd29yZGxlLTM5Mi1hbnN3ZXItdG9kYXktanVseS0xNi13b3JkbGUtc29sdXRpb24tcHV6emxlLWhpbnRzLTE1NDI1OTPSAWhodHRwczovL25ld3MuYWJwbGl2ZS5jb20vZ2FtaW5nL3dvcmRsZS0zOTItYW5zd2VyLXRvZGF5LWp1bHktMTYtd29yZGxlLXNvbHV0aW9uLXB1enpsZS1oaW50cy0xNTQyNTkzL2FtcA?oc=5</link>
+            <guid isPermaLink="false">1502215127</guid>
+            <pubDate>Fri, 15 Jul 2022 18:48:05 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vbmV3cy5hYnBsaXZlLmNvbS9nYW1pbmcvd29yZGxlLTM5Mi1hbnN3ZXItdG9kYXktanVseS0xNi13b3JkbGUtc29sdXRpb24tcHV6emxlLWhpbnRzLTE1NDI1OTPSAWhodHRwczovL25ld3MuYWJwbGl2ZS5jb20vZ2FtaW5nL3dvcmRsZS0zOTItYW5zd2VyLXRvZGF5LWp1bHktMTYtd29yZGxlLXNvbHV0aW9uLXB1enpsZS1oaW50cy0xNTQyNTkzL2FtcA?oc=5" target="_blank">Wordle 392 Answer, July 16: Check Out Hints And Clues To Solve Today's Wordle Puzzle</a>&nbsp;&nbsp;<font color="#6f6f6f">ABP Live</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vbmVub3cuaW4vd29yZGxlL3dvcmRsZS10b2RheS1qdWx5LTE2LTIwMjItZ2V0LXRoZS1hbnN3ZXItc29sdXRpb24tMzkyLmh0bWzSAQA?oc=5" target="_blank">Wordle Today, July 16 2022 : Get The Answer & Solution #392</a>&nbsp;&nbsp;<font color="#6f6f6f">Northeast Now</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMikgFodHRwczovL3RlY2guaGluZHVzdGFudGltZXMuY29tL2hvdy10by93b3JkbGUtMzkyLWFuc3dlci1mb3ItanVseS0xNi1tYWtlLWEtc21hcnRlci1wbGF5LWNoZWNrLXdvcmRsZS1oaW50cy1jbHVlcy1hbmQtc29sdXRpb24tNzE2NTc5MzMwMzUxMTcuaHRtbNIBAA?oc=5" target="_blank">Wordle 392 answer for July 16: Make a smarter play! Check Wordle hints, clues and solution</a>&nbsp;&nbsp;<font color="#6f6f6f">HT Tech</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vd3d3LmluZGlhdG9kYXkuaW4vdHJlbmRpbmctbmV3cy9zdG9yeS93b3JkbGUtMzkxLWZvci1qdWx5LTE0LWl0LXJoeW1lcy13aXRoLXRoZS13b3JkLWhlZGdlLTE5NzU4OTAtMjAyMi0wNy0xNdIBAA?oc=5" target="_blank">Wordle 391 for July 14: It rhymes with the word hedge</a>&nbsp;&nbsp;<font color="#6f6f6f">India Today</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pYOTZmTUJSRlh5M09HNlhVUW15Z0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://news.abplive.com">ABP Live</source>
+        </item>
+        <item>
+            <title>Vergecast: MacBook Air M2 review, Elon vs. Twitter, and Apple beta season - The Verge</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMzIyMDAwMS9tYWNib29rLWFpci1tMi1yZXZpZXctZWxvbi10d2l0dGVyLWFwcGxlLWJldGEtaW9zLTE2LXZlcmdlY2FzdNIBAA?oc=5</link>
+            <guid isPermaLink="false">1503003917</guid>
+            <pubDate>Fri, 15 Jul 2022 14:23:52 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMzIyMDAwMS9tYWNib29rLWFpci1tMi1yZXZpZXctZWxvbi10d2l0dGVyLWFwcGxlLWJldGEtaW9zLTE2LXZlcmdlY2FzdNIBAA?oc=5" target="_blank">Vergecast: MacBook Air M2 review, Elon vs. Twitter, and Apple beta season</a>&nbsp;&nbsp;<font color="#6f6f6f">The Verge</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMijQFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL3RlY2hub2xvZ3kvbmV3cy9zdG9yeS9tYWNib29rLWFpci1tMi10by1nby1vbi1zYWxlLWluLWluZGlhLXRvZGF5LXByaWNlLW9mZmVycy1zaG91bGQteW91LWJ1eS1pdC0xOTc1OTE3LTIwMjItMDctMTXSAQA?oc=5" target="_blank">MacBook Air M2 to go on sale in India today</a>&nbsp;&nbsp;<font color="#6f6f6f">India Today</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMilQFodHRwczovL3d3dy5ub3RlYm9va2NoZWNrLm5ldC9UaGUtbmV3LUFwcGxlLU1hY0Jvb2stQWlyLU0yLWhhcy1hcnJpdmVkLUluaXRpYWwtaW1wcmVzc2lvbnMtYW5kLWJlbmNobWFyay1yZXN1bHRzLW9mLXRoZS1lbnRyeS1sZXZlbC1TS1UuNjM1MDYyLjAuaHRtbNIBAA?oc=5" target="_blank">The new Apple MacBook Air M2 has arrived - Initial impressions and benchmark results of the entry-level SKU</a>&nbsp;&nbsp;<font color="#6f6f6f">Notebookcheck.net</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vd3d3Lm1hY3dvcmxkLmNvbS9hcnRpY2xlLzgxMTE3Mi93ZWJjYW0tbTItbWFjYm9vay1haXItY29udGludWl0eS1jYW1lcmEtdmVudHVyYS5odG1s0gEA?oc=5" target="_blank">Apple’s solution for bad Mac webcams shouldn’t be the iPhone</a>&nbsp;&nbsp;<font color="#6f6f6f">Macworld</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3Lmdpem1vY2hpbmEuY29tLzIwMjIvMDcvMTUvYXBwbGUtbWFjYm9vay1haXItbTItYXZhaWxhYmxlLWluLWluZGlhLXByaWNlcy1yZXZlYWxlZC_SAWRodHRwczovL3d3dy5naXptb2NoaW5hLmNvbS8yMDIyLzA3LzE1L2FwcGxlLW1hY2Jvb2stYWlyLW0yLWF2YWlsYWJsZS1pbi1pbmRpYS1wcmljZXMtcmV2ZWFsZWQvP2FtcD0x?oc=5" target="_blank">Apple MacBook Air M2 available in India, prices revealed</a>&nbsp;&nbsp;<font color="#6f6f6f">gizmochina</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lOaXRqTUJSRkktaWNTLV9fb0hTZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://www.theverge.com">The Verge</source>
+        </item>
+        <item>
+            <title>Disha Patani to Shehnaaz Gill, here's who wore what at HT India's Most Stylish - Hindustan Times</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMiywFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vbGlmZXN0eWxlL2Zhc2hpb24vZGlzaGEtcGF0YW5pLXRvLXZhYW5pLWthcG9vci1yYXNobWlrYS1tYW5kYW5uYS1zaGlscGEtc2hldHR5LWFuZC1zaGVobmFhei1naWxsLWhlcmUtcy13aG8td29yZS13aGF0LWF0LWh0LWluZGlhLXMtbW9zdC1zdHlsaXNoLWF3YXJkcy0xMDE2NTc5MDc2NTI0OTEuaHRtbNIBAA?oc=5</link>
+            <guid isPermaLink="false">1500575806</guid>
+            <pubDate>Fri, 15 Jul 2022 18:51:58 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiywFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vbGlmZXN0eWxlL2Zhc2hpb24vZGlzaGEtcGF0YW5pLXRvLXZhYW5pLWthcG9vci1yYXNobWlrYS1tYW5kYW5uYS1zaGlscGEtc2hldHR5LWFuZC1zaGVobmFhei1naWxsLWhlcmUtcy13aG8td29yZS13aGF0LWF0LWh0LWluZGlhLXMtbW9zdC1zdHlsaXNoLWF3YXJkcy0xMDE2NTc5MDc2NTI0OTEuaHRtbNIBAA?oc=5" target="_blank">Disha Patani to Shehnaaz Gill, here's who wore what at HT India's Most Stylish</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMikAFodHRwczovL3d3dy5uZXdzMTguY29tL25ld3MvbW92aWVzL2FyanVuLWthcG9vci1tYWxhaWthLWFyb3JhLXNldC1jb3VwbGUtZ29hbHMtYXMtdGhleS1ob2xkLWhhbmRzLWluLW1hdGNoaW5nLWVuc2VtYmxlcy13YXRjaC12aWRlby01NTY1MTgxLmh0bWzSAQA?oc=5" target="_blank">Arjun Kapoor, Malaika Arora Set Couple Goals as They Hold Hands in Matching Ensembles; Watch Video</a>&nbsp;&nbsp;<font color="#6f6f6f">News18</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMimQFodHRwczovL3d3dy5kbmFpbmRpYS5jb20vYm9sbHl3b29kL3Bob3RvLWdhbGxlcnktaW4tcGljcy1yYW5iaXIta2Fwb29yLXNpZGhhcnRoLW1hbGhvdHJhLXJhc2htaWthLW1hbmRhbm5hLXNoZWhuYWF6LWdpbGwtZ3JhY2Utc3R5bGUtYXdhcmRzLWV2ZW50LTI5NjkwMTnSAQA?oc=5" target="_blank">In pics: Ranbir Kapoor, Sidharth Malhotra, Rashmika Mandanna, Shehnaaz Gill grace style awards event</a>&nbsp;&nbsp;<font color="#6f6f6f">DNA India</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bEVaajk1Z1lyQjDSAQA?oc=5" target="_blank">Rashami Desai leaves little for imagination, slays red carpet I HT India's Most Stylish Awards 2022</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiqAFodHRwczovL3d3dy5kZXNpbWFydGluaS5jb20vZXZlbnRzL25ld3MvaHQtaW5kaWFzLW1vc3Qtc3R5bGlzaC1hd2FyZHMtMjAyMi1mYW5zLWNhbGwtc2hlaG5hYXotYS1kb2xsLXRlamFzc3dpLWthcmFuLWxvb2stZHJlYW15LWFzLXRoZXktd2Fsay1oYW5kLWluLWhhbmQvZjdiYjljZDhjNDgwMy_SAQA?oc=5" target="_blank">HT India's Most Stylish Awards 2022: Fans call Shehnaaz a doll; Tejasswi-Karan look dreamy as they walk han...</a>&nbsp;&nbsp;<font color="#6f6f6f">DESIMARTINI - Bollywood News & Reviews</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ktOE1QTEJSSHM4bUVFNy1fV1BpZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://www.hindustantimes.com">Hindustan Times</source>
+        </item>
+        <item>
+            <title>Ranbir Kapoor says Sanjay Dutt shouted at him for doing Barfi - Hindustan Times</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMiiQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC9ib2xseXdvb2QvcmFuYmlyLWthcG9vci1zYXlzLXNhbmpheS1kdXR0LXNob3V0ZWQtYXQtaGltLWZvci1kb2luZy1iYXJmaS0xMDE2NTc5MzQwNDczNjguaHRtbNIBAA?oc=5</link>
+            <guid isPermaLink="false">1493477561</guid>
+            <pubDate>Sat, 16 Jul 2022 01:27:17 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiiQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC9ib2xseXdvb2QvcmFuYmlyLWthcG9vci1zYXlzLXNhbmpheS1kdXR0LXNob3V0ZWQtYXQtaGltLWZvci1kb2luZy1iYXJmaS0xMDE2NTc5MzQwNDczNjguaHRtbNIBAA?oc=5" target="_blank">Ranbir Kapoor says Sanjay Dutt shouted at him for doing Barfi</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RU5VZ1kyOUlTWjTSAQA?oc=5" target="_blank">Ranbir Kapoor on Alia Bhatt, his marriage, having a baby, being called a casanova, bond with Vaani</a>&nbsp;&nbsp;<font color="#6f6f6f">Bollywood Bubble</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMikQFodHRwczovL3d3dy5uZXdzMTguY29tL25ld3MvbW92aWVzL3JhbmJpci1rYXBvb3ItcmV2ZWFscy1zYW5qYXktZHV0dC1zaG91dGVkLWF0LWhpbS1mb3ItZG9pbmctYmFkLWZpbG1zLW1vY2tlZC1oaW0tZm9yLXNpZ25pbmctYmFyZmktNTU2NTM2MS5odG1s0gEA?oc=5" target="_blank">Ranbir Kapoor Reveals Sanjay Dutt Shouted At Him For Doing 'Bad Films', Mocked Him For Signing Barfi</a>&nbsp;&nbsp;<font color="#6f6f6f">News18</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMilQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC9ib2xseXdvb2QvcmFuYmlyLWthcG9vci1yZWNhbGxzLWhlLWJlY2FtZS10aGUtcG9zdGVyLWJveS1vZi1hLWNhc2Fub3ZhLW9mLWEtY2hlYXRlci0xMDE2NTc4NzY1Njc2NTguaHRtbNIBAA?oc=5" target="_blank">Ranbir Kapoor recalls he became the ‘poster boy of a casanova, of a cheater’</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMifmh0dHBzOi8vd3d3Lm5kdHYuY29tL2VudGVydGFpbm1lbnQvcmFuYmlyLWthcG9vci10by1uZHR2LW9uLXBhcGFyYXp6aS13aXNoLWktY291bGQtaG9sZC1vbi10by1wZXJzb25hbC1saWZlLWJ1dC1pdHMtb2stMzE1OTk0NNIBAA?oc=5" target="_blank">Ranbir Kapoor To NDTV On Paparazzi: "Wish I Could Hold On To Personal Life But It's OK"</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV Movies</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k1MFpMSUJSRnkwWVgzbDBXQVVpZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://www.hindustantimes.com">Hindustan Times</source>
+        </item>
+        <item>
+            <title>Rakhi Sawant reacts to Sushmita Sen-Lalit Modi's affair; says, 'Waah Lalit ji kya haant maara hai' - Times of India</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMiqAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS90di9uZXdzL2hpbmRpL3Jha2hpLXNhd2FudC1yZWFjdHMtdG8tc3VzaG1pdGEtc2VuLWxhbGl0LW1vZGlzLWFmZmFpci1zYXlzLXdhYWgtbGFsaXQtamkta3lhLWhhYW50LW1hYXJhLWhhaS9hcnRpY2xlc2hvdy85MjkwNzE0My5jbXPSAQA?oc=5</link>
+            <guid isPermaLink="false">1502070238</guid>
+            <pubDate>Fri, 15 Jul 2022 17:31:00 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiqAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS90di9uZXdzL2hpbmRpL3Jha2hpLXNhd2FudC1yZWFjdHMtdG8tc3VzaG1pdGEtc2VuLWxhbGl0LW1vZGlzLWFmZmFpci1zYXlzLXdhYWgtbGFsaXQtamkta3lhLWhhYW50LW1hYXJhLWhhaS9hcnRpY2xlc2hvdy85MjkwNzE0My5jbXPSAQA?oc=5" target="_blank">Rakhi Sawant reacts to Sushmita Sen-Lalit Modi's affair; says, 'Waah Lalit ji kya haant maara hai'</a>&nbsp;&nbsp;<font color="#6f6f6f">Times of India</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMijQFodHRwczovL3d3dy5uZHR2LmNvbS9lbnRlcnRhaW5tZW50L2xldHMtYmUtaGFwcHktZm9yLXRoZW0tc3VzaG1pdGEtc2Vucy1leC1ib3lmcmllbmQtcm9obWFuLXNoYXdsLW9uLWhlci1yZWxhdGlvbnNoaXAtd2l0aC1sYWxpdC1tb2RpLTMxNjE3MjnSAQA?oc=5" target="_blank">"Let's Be Happy For Them": Sushmita Sen's Ex-Boyfriend Rohman Shawl On Her Relationship With Lalit Modi</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV Movies</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiggFodHRwczovL3RoZXByaW50LmluL2xhc3QtbGF1Z2hzL2xhbGl0LW1vZGlzLW5ldy1pbm5pbmdzLWluLWluZGlhbi1wcmVtLWxlYWd1ZS11bnBhcmxpYW1lbnRhcnktbmF0dXJlLW9mLXRoZS1xdWVzdGlvbi1tYXJrLzEwMzk4OTQv0gGGAWh0dHBzOi8vdGhlcHJpbnQuaW4vbGFzdC1sYXVnaHMvbGFsaXQtbW9kaXMtbmV3LWlubmluZ3MtaW4taW5kaWFuLXByZW0tbGVhZ3VlLXVucGFybGlhbWVudGFyeS1uYXR1cmUtb2YtdGhlLXF1ZXN0aW9uLW1hcmsvMTAzOTg5NC8_YW1w?oc=5" target="_blank">Lalit Modi’s new innings in ‘Indian Prem League’ & ‘unparliamentary’ nature of the question mark</a>&nbsp;&nbsp;<font color="#6f6f6f">ThePrint</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMi7QFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9lbnRlcnRhaW5tZW50L2hpbmRpL2JvbGx5d29vZC9uZXdzL3N1c2htaXRhLXNlbi1maW5hbGx5LWJyZWFrcy1zaWxlbmNlLWFmdGVyLWxhbGl0LW1vZGktbWFrZXMtdGhlaXItcmVsYXRpb25zaGlwLW9mZmljaWFsLW5vdC1tYXJyaWVkLW5vLXJpbmdzdW5jb25kaXRpb25hbGx5LXN1cnJvdW5kZWQtYnktbG92ZS9hcnRpY2xlc2hvdy85MjkwMDc1MC5jbXPSAegBaHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vZW50ZXJ0YWlubWVudC9oaW5kaS9ib2xseXdvb2QvbmV3cy9zdXNobWl0YS1zZW4tZmluYWxseS1icmVha3Mtc2lsZW5jZS1hZnRlci1sYWxpdC1tb2RpLW1ha2VzLXRoZWlyLXJlbGF0aW9uc2hpcC1vZmZpY2lhbC1ub3QtbWFycmllZC1uby1yaW5nc3VuY29uZGl0aW9uYWxseS1zdXJyb3VuZGVkLWJ5LWxvdmUvYW1wX2FydGljbGVzaG93LzkyOTAwNzUwLmNtcw?oc=5" target="_blank">Sushmita Sen finally breaks silence after Lalit Modi makes their relationship official: NOT married, no r</a>&nbsp;&nbsp;<font color="#6f6f6f">TOI Etimes</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMid2h0dHBzOi8vd3d3Lm5kdHYuY29tL2luZGlhLW5ld3MvdGhpcy0yMDEzLXR3ZWV0LW9mLWxhbGl0LW1vZGktZ29lcy12aXJhbC1hZnRlci1kYXRpbmctc3VzaG1pdGEtc2VuLWFubm91bmNlbWVudC0zMTYwMDQ20gEA?oc=5" target="_blank">Lalit Modi's 2013 Tweet Goes Viral After His 'Dating Sushmita Sen' Post</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2plaTVfTUJSRU50d0JrbmFJZ1BTZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://timesofindia.indiatimes.com">Times of India</source>
+        </item>
+        <item>
+            <title>Aquarius Horoscope Today, July 16, 2022: Wealth will increase! - India Today</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMiiwFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2hvcm9zY29wZXMvYXF1YXJpdXMvc3RvcnkvYXF1YXJpdXMtaG9yb3Njb3BlLXRvZGF5LWRhaWx5LWZvci0xNi1qdWx5LTIwMjItd2VhbHRoLXdpbGwtaW5jcmVhc2UtMTk3NjA4Ny0yMDIyLTA3LTE20gGPAWh0dHBzOi8vd3d3LmluZGlhdG9kYXkuaW4vYW1wL2hvcm9zY29wZXMvYXF1YXJpdXMvc3RvcnkvYXF1YXJpdXMtaG9yb3Njb3BlLXRvZGF5LWRhaWx5LWZvci0xNi1qdWx5LTIwMjItd2VhbHRoLXdpbGwtaW5jcmVhc2UtMTk3NjA4Ny0yMDIyLTA3LTE2?oc=5</link>
+            <guid isPermaLink="false">1500140676</guid>
+            <pubDate>Fri, 15 Jul 2022 23:40:08 GMT</pubDate>
+            <description>
+                <ol>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiiwFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2hvcm9zY29wZXMvYXF1YXJpdXMvc3RvcnkvYXF1YXJpdXMtaG9yb3Njb3BlLXRvZGF5LWRhaWx5LWZvci0xNi1qdWx5LTIwMjItd2VhbHRoLXdpbGwtaW5jcmVhc2UtMTk3NjA4Ny0yMDIyLTA3LTE20gGPAWh0dHBzOi8vd3d3LmluZGlhdG9kYXkuaW4vYW1wL2hvcm9zY29wZXMvYXF1YXJpdXMvc3RvcnkvYXF1YXJpdXMtaG9yb3Njb3BlLXRvZGF5LWRhaWx5LWZvci0xNi1qdWx5LTIwMjItd2VhbHRoLXdpbGwtaW5jcmVhc2UtMTk3NjA4Ny0yMDIyLTA3LTE2?oc=5" target="_blank">Aquarius Horoscope Today, July 16, 2022: Wealth will increase!</a>&nbsp;&nbsp;<font color="#6f6f6f">India Today</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vYXN0cm9sb2d5L2hvcm9zY29wZS9ob3Jvc2NvcGUtdG9kYXktYXN0cm9sb2dpY2FsLXByZWRpY3Rpb24tZm9yLWp1bHktMTYtMjAyMi0xMDE2NTc5MTIwNTcxMDEuaHRtbNIBAA?oc=5" target="_blank">Horoscope Today: Astrological prediction for July 16, 2022</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vd3d3LnZvZ3VlLmluL2hvcm9zY29wZS9jb2xsZWN0aW9uL2hvcm9zY29wZS10b2RheS1qdWx5LTE1LTIwMjIv0gEA?oc=5" target="_blank">Horoscope Today: July 15, 2022</a>&nbsp;&nbsp;<font color="#6f6f6f">VOGUE India</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiswFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2hvcm9zY29wZXMvc3RvcnkvaG9yb3Njb3BlLXRvZGF5LWp1bHktMTYtMjAyMi1hcmllcy10YXVydXMtZ2VtaW5pLWNhbmNlci1sZW8tdmlyZ28tbGlicmEtc2NvcnBpby1zYWdpdHRhcml1cy1jYXByaWNvcm4tYXF1YXJpdXMtcGlzY2VzLTE5NzYxODEtMjAyMi0wNy0xNtIBtwFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2FtcC9ob3Jvc2NvcGVzL3N0b3J5L2hvcm9zY29wZS10b2RheS1qdWx5LTE2LTIwMjItYXJpZXMtdGF1cnVzLWdlbWluaS1jYW5jZXItbGVvLXZpcmdvLWxpYnJhLXNjb3JwaW8tc2FnaXR0YXJpdXMtY2Fwcmljb3JuLWFxdWFyaXVzLXBpc2Nlcy0xOTc2MTgxLTIwMjItMDctMTY?oc=5" target="_blank">Horoscope Today, July 16, 2022: Cancer, Leo, Libra, Gemini, Virgo, Scorpio, Capricorn, Pisces, Sagittarius, Aries, Aquarius, Taurus</a>&nbsp;&nbsp;<font color="#6f6f6f">India Today</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMikwFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvaG9yb3Njb3BlL2hvcm9zY29wZS10b2RheS1qdWx5LTE2LTIwMjItZ2VtaW5pLWFyaWVzLXBpc2Nlcy1hbmQtb3RoZXItc2lnbnMtY2hlY2stYXN0cm9sb2dpY2FsLXByZWRpY3Rpb24tODAwNjU5Mi_SAQA?oc=5" target="_blank">Horoscope Today, July 16, 2022: Gemini, Aries, Pisces and other signs — check astrological prediction</a>&nbsp;&nbsp;<font color="#6f6f6f">The Indian Express</font>
+                    </li>
+                    <li>
+                        <strong>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lFcWFuTEJSRTQtSE14ZHJ0VndDZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
+                        </strong>
+                    </li>
+                </ol>
+            </description>
+            <source url="https://www.indiatoday.in">India Today</source>
+        </item>
+        <item>
+            <title>Rohit Sharma reiterates Team India's faith in Virat Kohli's ability - Times of India</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMingFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9zcG9ydHMvY3JpY2tldC9pbmRpYS1pbi1lbmdsYW5kL3JvaGl0LXNoYXJtYS1yZWl0ZXJhdGVzLXRlYW0taW5kaWFzLWZhaXRoLWluLXZpcmF0LWtvaGxpcy1hYmlsaXR5L2FydGljbGVzaG93LzkyOTExMDEwLmNtc9IBAA?oc=5</link>
+            <guid isPermaLink="false">CBMingFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9zcG9ydHMvY3JpY2tldC9pbmRpYS1pbi1lbmdsYW5kL3JvaGl0LXNoYXJtYS1yZWl0ZXJhdGVzLXRlYW0taW5kaWFzLWZhaXRoLWluLXZpcmF0LWtvaGxpcy1hYmlsaXR5L2FydGljbGVzaG93LzkyOTExMDEwLmNtc9IBAA</guid>
+            <pubDate>Sat, 16 Jul 2022 02:33:00 GMT</pubDate>
+            <description>
+                <a href="https://news.google.com/__i/rss/rd/articles/CBMingFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9zcG9ydHMvY3JpY2tldC9pbmRpYS1pbi1lbmdsYW5kL3JvaGl0LXNoYXJtYS1yZWl0ZXJhdGVzLXRlYW0taW5kaWFzLWZhaXRoLWluLXZpcmF0LWtvaGxpcy1hYmlsaXR5L2FydGljbGVzaG93LzkyOTExMDEwLmNtc9IBAA?oc=5" target="_blank">Rohit Sharma reiterates Team India's faith in Virat Kohli's ability</a>&nbsp;&nbsp;<font color="#6f6f6f">Times of India</font>
                 <strong>
-                    <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ppOXUzS0JSRVZscXJvbS1uNV9pZ0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
+                    <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lXcGF2SkJSRTM3bzR5cUJRS2x5Z0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
                 </strong>
             </description>
-            <source url="http://nld.com.vn">Người Lao Động</source>
+            <source url="https://timesofindia.indiatimes.com">Times of India</source>
         </item>
         <item>
-            <title>Bé trai ở Đắk Lắk bị tẩm xăng đốt vì không chịu đi ăn trộm mủ cao su - VTC News</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vdnRjLnZuL2JlLXRyYWktby1kYWstbGFrLWJpLXRhbS14YW5nLWRvdC12aS1raG9uZy1jaGl1LWRpLWFuLXRyb20tbXUtY2FvLXN1LWFyNjg3MzU0Lmh0bWzSAQA?oc=5</link>
-            <guid isPermaLink="false">1499043348</guid>
-            <pubDate>Tue, 12 Jul 2022 07:19:00 GMT</pubDate>
+            <title>World Athletics Championships: Long-jumper Murali Sreeshankar Enters Men's Final - NDTV Sports</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vc3BvcnRzLm5kdHYuY29tL2F0aGxldGljcy93b3JsZC1hdGhsZXRpY3MtY2hhbXBpb25zaGlwcy1sb25nLWp1bXBlci1tdXJhbGktc3JlZXNoYW5rYXItZW50ZXJzLW1lbnMtZmluYWwtMzE2MjkxNdIBfmh0dHBzOi8vc3BvcnRzLm5kdHYuY29tL2F0aGxldGljcy93b3JsZC1hdGhsZXRpY3MtY2hhbXBpb25zaGlwcy1sb25nLWp1bXBlci1tdXJhbGktc3JlZXNoYW5rYXItZW50ZXJzLW1lbnMtZmluYWwtMzE2MjkxNS9hbXAvMQ?oc=5</link>
+            <guid isPermaLink="false">1496622032</guid>
+            <pubDate>Sat, 16 Jul 2022 02:48:24 GMT</pubDate>
             <description>
                 <ol>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vdnRjLnZuL2JlLXRyYWktby1kYWstbGFrLWJpLXRhbS14YW5nLWRvdC12aS1raG9uZy1jaGl1LWRpLWFuLXRyb20tbXUtY2FvLXN1LWFyNjg3MzU0Lmh0bWzSAQA?oc=5" target="_blank">Bé trai ở Đắk Lắk bị tẩm xăng đốt vì không chịu đi ăn trộm mủ cao su</a>&nbsp;&nbsp;<font color="#6f6f6f">VTC News</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vc3BvcnRzLm5kdHYuY29tL2F0aGxldGljcy93b3JsZC1hdGhsZXRpY3MtY2hhbXBpb25zaGlwcy1sb25nLWp1bXBlci1tdXJhbGktc3JlZXNoYW5rYXItZW50ZXJzLW1lbnMtZmluYWwtMzE2MjkxNdIBfmh0dHBzOi8vc3BvcnRzLm5kdHYuY29tL2F0aGxldGljcy93b3JsZC1hdGhsZXRpY3MtY2hhbXBpb25zaGlwcy1sb25nLWp1bXBlci1tdXJhbGktc3JlZXNoYW5rYXItZW50ZXJzLW1lbnMtZmluYWwtMzE2MjkxNS9hbXAvMQ?oc=5" target="_blank">World Athletics Championships: Long-jumper Murali Sreeshankar Enters Men's Final</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV Sports</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vZGFudHJpLmNvbS52bi9waGFwLWx1YXQvY2hhdS1iZS04LXR1b2ktYmktdGFtLXhhbmctZG90LXZpLWtob25nLWNoaXUtZGktYW4tdHJvbS0yMDIyMDcxMjExMzMzMDYxMC5odG3SAXFodHRwczovL2FtcC5kYW50cmkuY29tLnZuL3BoYXAtbHVhdC9jaGF1LWJlLTgtdHVvaS1iaS10YW0teGFuZy1kb3Qtdmkta2hvbmctY2hpdS1kaS1hbi10cm9tLTIwMjIwNzEyMTEzMzMwNjEwLmh0bQ?oc=5" target="_blank">Cháu bé 8 tuổi bị tẩm xăng đốt vì… không chịu đi ăn trộm</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Dân Trí</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vdGhlYnJpZGdlLmluL2F0aGxldGljcy8yMDIyLXdvcmxkLWNoYW1waW9uc2hpcHMtZGF5LTEtbGl2ZS11cGRhdGVzLXJlc3VsdHMtc2NvcmVzLWJsb2ctMzMyOTDSAQA?oc=5" target="_blank">2022 World Athletics Championships: Day 1 LIVE - Avinash Sable, Sreeshankar qualify for final - Updates, Results, Scores, Blog</a>&nbsp;&nbsp;<font color="#6f6f6f">The Bridge</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WjhvcTVHby11TUXSAQA?oc=5" target="_blank">Điều tra vụ cháu bé bị một thanh niên tẩm xăng đốt vì không chịu đi trộm mủ cao su</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Tuổi Trẻ</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vc2Nyb2xsLmluL2ZpZWxkLzEwMjgzMzMvd29ybGQtYXRobGV0aWNzLWNoYW1waW9uc2hpcHMtZnVsbC1zY2hlZHVsZS1vZi1ldmVudHMtZmVhdHVyaW5nLWluZGlhbi1hdGhsZXRlc9IBc2h0dHBzOi8vYW1wLnNjcm9sbC5pbi9maWVsZC8xMDI4MzMzL3dvcmxkLWF0aGxldGljcy1jaGFtcGlvbnNoaXBzLWZ1bGwtc2NoZWR1bGUtb2YtZXZlbnRzLWZlYXR1cmluZy1pbmRpYW4tYXRobGV0ZXM?oc=5" target="_blank">World Athletics Championships: Full schedule of events featuring Indian athletes</a>&nbsp;&nbsp;<font color="#6f6f6f">Scroll.in</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LjI0aC5jb20udm4vYW4tbmluaC1oaW5oLXN1L2NoYXUtYmUtOC10dW9pLWJpLXRhbS14YW5nLWRvdC12aS1raG9uZy1jaGl1LWRpLXRyb20tY2FwLWM1MWExMzc2OTkxLmh0bWzSAQA?oc=5" target="_blank">Cháu bé 8 tuổi bị tẩm xăng đốt vì không chịu đi trộm cắp</a>&nbsp;&nbsp;<font color="#6f6f6f">Tin tức 24h</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3LmtoYWxlZWp0aW1lcy5jb20vc3BvcnRzL25lZXJhai1ob3Blcy10by11cHN0YWdlLWRlZmVuZGluZy1jaGFtcGlvbi1wZXRlcnMtYXQtd29ybGRz0gEA?oc=5" target="_blank">Neeraj hopes to upstage defending champion Peters at Worlds</a>&nbsp;&nbsp;<font color="#6f6f6f">Khaleej Times</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vemluZ25ld3Mudm4veGFjLW1pbmgtdGhvbmctdGluLWJlLXRyYWktby1kYWstbGFrLXRyb20tdHJhaS1jYXktYmktdGFtLXhhbmctZG90LXBvc3QxMzM0NzM2Lmh0bWzSAQA?oc=5" target="_blank">Xác minh thông tin bé trai ở Đắk Lắk trộm trái cây bị tẩm xăng đốt</a>&nbsp;&nbsp;<font color="#6f6f6f">Zing News</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiigFodHRwczovL3d3dy5uZXdzMTguY29tL25ld3Mvc3BvcnRzL3dvcmxkLWF0aGxldGljcy1jaGFtcGlvbnNoaXBzLWRheS0xLWluZGlhLXJlc3VsdHMtYXZpbmFzaC1zYWJsZS1tdXJhbGktc2hyZWVzYW5rYXItcXVhbGlmeS01NTY1MjcxLmh0bWzSAQA?oc=5" target="_blank">World Athletics Championships, Day 1 India Results: Avinash Sable, Murali Shreesankar Qualify</a>&nbsp;&nbsp;<font color="#6f6f6f">News18</font>
                     </li>
                     <li>
                         <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lVck9iS0JSRWdnQ3Iyek5vM0JpZ0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pReDlMSkJSRUMtMzNfSHBtVkVTZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
                         </strong>
                     </li>
                 </ol>
             </description>
-            <source url="https://vtc.vn">VTC News</source>
+            <source url="https://sports.ndtv.com">NDTV Sports</source>
         </item>
         <item>
-            <title>Khánh Hòa: Tai nạn giao thông làm 3 người chết, 8 người bị thương - Vietnam Plus</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vd3d3LnZpZXRuYW1wbHVzLnZuL2toYW5oLWhvYS10YWktbmFuLWdpYW8tdGhvbmctbGFtLTMtbmd1b2ktY2hldC04LW5ndW9pLWJpLXRodW9uZy84MDUyNTIudm5w0gFlaHR0cHM6Ly93d3cudmlldG5hbXBsdXMudm4va2hhbmgtaG9hLXRhaS1uYW4tZ2lhby10aG9uZy1sYW0tMy1uZ3VvaS1jaGV0LTgtbmd1b2ktYmktdGh1b25nLzgwNTI1Mi5hbXA?oc=5</link>
-            <guid isPermaLink="false">1498972985</guid>
-            <pubDate>Tue, 12 Jul 2022 03:42:33 GMT</pubDate>
+            <title>Reece Topley: How music and micro-economics helped England's Lord's hero return to cricket after 4 stress fractures in 5 years - The Indian Express</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMipgFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvc3BvcnRzL2NyaWNrZXQvaW5kLXZzLWVuZy1yZWVjZS10b3BsZXktbXVzaWMtYW5kLW1pY3JvLWVjb25vbWljcy1oZWxwZWQtZW5nbGFuZHMtbG9yZHMtcmV0dXJuLXRvLWNyaWNrZXQtNC1zdHJlc3MtZnJhY3R1cmVzLTgwMzA0MTMv0gEA?oc=5</link>
+            <guid isPermaLink="false">1502791215</guid>
+            <pubDate>Sat, 16 Jul 2022 01:08:34 GMT</pubDate>
             <description>
                 <ol>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vd3d3LnZpZXRuYW1wbHVzLnZuL2toYW5oLWhvYS10YWktbmFuLWdpYW8tdGhvbmctbGFtLTMtbmd1b2ktY2hldC04LW5ndW9pLWJpLXRodW9uZy84MDUyNTIudm5w0gFlaHR0cHM6Ly93d3cudmlldG5hbXBsdXMudm4va2hhbmgtaG9hLXRhaS1uYW4tZ2lhby10aG9uZy1sYW0tMy1uZ3VvaS1jaGV0LTgtbmd1b2ktYmktdGh1b25nLzgwNTI1Mi5hbXA?oc=5" target="_blank">Khánh Hòa: Tai nạn giao thông làm 3 người chết, 8 người bị thương</a>&nbsp;&nbsp;<font color="#6f6f6f">Vietnam Plus</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMipgFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvc3BvcnRzL2NyaWNrZXQvaW5kLXZzLWVuZy1yZWVjZS10b3BsZXktbXVzaWMtYW5kLW1pY3JvLWVjb25vbWljcy1oZWxwZWQtZW5nbGFuZHMtbG9yZHMtcmV0dXJuLXRvLWNyaWNrZXQtNC1zdHJlc3MtZnJhY3R1cmVzLTgwMzA0MTMv0gEA?oc=5" target="_blank">Reece Topley: How music and micro-economics helped England's Lord's hero return to cricket after 4 stress fractures in 5 years</a>&nbsp;&nbsp;<font color="#6f6f6f">The Indian Express</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MEdwTTVLSEJHX0HSAQA?oc=5" target="_blank">Xe Tải Tông Đuôi Xe Khách, 3 Người Tử Nạn, 8 Người Bị Thương | Tin Tức 24h | ANTV</a>&nbsp;&nbsp;<font color="#6f6f6f">ANTV - Truyền hình Công an Nhân dân</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMikgFodHRwczovL3d3dy5lc3BuY3JpY2luZm8uY29tL3N0b3J5L2VuZy12cy1pbmQtMm5kLW9kaS1sb3Jkcy1qdWx5LTE0LW1hcmtzLXRoZS1tb21lbnQtcmVlY2UtdG9wbGV5LW1vdmVkLXRvLXRoZS10b3Atb2YtdGhlLWVuZ2xpc2gtb2RpLWdhbWUtMTMyNDgwOdIBAA?oc=5" target="_blank">July 14 marks the moment Reece Topley moved to the top of the English ODI game</a>&nbsp;&nbsp;<font color="#6f6f6f">ESPNcricinfo</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9YlZ5a0hGQnpXcjjSAQA?oc=5" target="_blank">Xe tải tông vào đuôi xe khách làm 3 người tử vong</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Tuổi Trẻ</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMikQFodHRwczovL3Nwb3J0cy5uZHR2LmNvbS9lbmdsYW5kLXZzLWluZGlhLTIwMjIvcmVlY2UtdG9wbGV5LXJlZ2lzdGVycy1iZXN0LWVuZ2xhbmQtYm93bGluZy1maWd1cmVzLWluLWFuLW9kaS13aXRoLXNpeC13aWNrZXQtaGF1bC12cy1pbmRpYS0zMTU5NjQw0gEA?oc=5" target="_blank">India vs England: Reece Topley Registers Best England Bowling Figures In An ODI With Six-Wicket Haul..</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV Sports</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vdGhhbmhuaWVuLnZuL3RhaS1uYW4tbmdoaWVtLXRyb25nLXRyZW4tcWwxYS1raGllbi0zLW5ndW9pLWNoZXQtdGFpLWNoby04LW5ndW9pLWJpLXRodW9uZy1wb3N0MTQ3NzMxNi5odG1s0gEA?oc=5" target="_blank">Tai nạn nghiêm trọng trên QL1A khiến 3 người chết tại chỗ, 8 người bị thương</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Thanh Niên</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vd3d3Lm5ld3MxOC5jb20vY3JpY2tldG5leHQvbmV3cy9pdHMtaGlzLXBsYWNlLW5vdy1leC1lbmdsYW5kLWNyaWNrZXRlci1sYXVkcy1yZWVjZS10b3BsZXlzLXBlcmZvcm1hbmNlLTU1NjEwMjkuaHRtbNIBf2h0dHBzOi8vd3d3Lm5ld3MxOC5jb20vY3JpY2tldG5leHQvYW1wL25ld3MvaXRzLWhpcy1wbGFjZS1ub3ctZXgtZW5nbGFuZC1jcmlja2V0ZXItbGF1ZHMtcmVlY2UtdG9wbGV5cy1wZXJmb3JtYW5jZS01NTYxMDI5Lmh0bWw?oc=5" target="_blank">'It's His Place Now..': Ex-England Cricketer Lauds Reece Topley's Performance</a>&nbsp;&nbsp;<font color="#6f6f6f">News18</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RkRranBIM2hrYWfSAQA?oc=5" target="_blank">Khánh Hòa: Xe tải đâm vào đuôi xe khách, 11 người thương vong | VTC Now</a>&nbsp;&nbsp;<font color="#6f6f6f">VTC NOW</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3LnNwb3J0c2tlZWRhLmNvbS9jcmlja2V0L25ld3MtaW5kLXZzLWVuZy0yMDIyLWFha2FzaC1jaG9wcmEtbGF1ZHMtcmVlY2UtdG9wbGV5LXMtc3BlbGwtMm5kLW9kadIBAA?oc=5" target="_blank">"Rohit Sharma's wicket was outstanding" - Aakash Chopra lauds Reece Topley's spell in 2nd India vs England ODI</a>&nbsp;&nbsp;<font color="#6f6f6f">Sportskeeda</font>
                     </li>
                     <li>
                         <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k1aHVMS0JSSFpfdWcwSVY5c2hDZ0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l2ak12TUJSRWRwaUotZGxEaDlDZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
                         </strong>
                     </li>
                 </ol>
             </description>
-            <source url="https://www.vietnamplus.vn">Vietnam Plus</source>
+            <source url="https://indianexpress.com">The Indian Express</source>
         </item>
         <item>
-            <title>EU duyệt chi hơn một tỷ USD hỗ trợ Ukraine - VnExpress </title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vdm5leHByZXNzLm5ldC9ldS1kdXlldC1jaGktaG9uLW1vdC10eS11c2QtaG8tdHJvLXVrcmFpbmUtNDQ4Njg5OC5odG1s0gEA?oc=5</link>
-            <guid isPermaLink="false">1495194517</guid>
-            <pubDate>Tue, 12 Jul 2022 12:28:35 GMT</pubDate>
+            <title>"Switch Hit Should Be Banned Completely": Former New Zealand Star - NDTV Sports</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vc3BvcnRzLm5kdHYuY29tL2NyaWNrZXQvc3dpdGNoLWhpdC1zaG91bGQtYmUtYmFubmVkLWNvbXBsZXRlbHktZm9ybWVyLW5ldy16ZWFsYW5kLXN0YXItMzE2MjkzM9IBbGh0dHBzOi8vc3BvcnRzLm5kdHYuY29tL2NyaWNrZXQvc3dpdGNoLWhpdC1zaG91bGQtYmUtYmFubmVkLWNvbXBsZXRlbHktZm9ybWVyLW5ldy16ZWFsYW5kLXN0YXItMzE2MjkzMy9hbXAvMQ?oc=5</link>
+            <guid isPermaLink="false">1501895082</guid>
+            <pubDate>Sat, 16 Jul 2022 03:07:11 GMT</pubDate>
             <description>
                 <ol>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vdm5leHByZXNzLm5ldC9ldS1kdXlldC1jaGktaG9uLW1vdC10eS11c2QtaG8tdHJvLXVrcmFpbmUtNDQ4Njg5OC5odG1s0gEA?oc=5" target="_blank">EU duyệt chi hơn một tỷ USD hỗ trợ Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">VnExpress </font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vc3BvcnRzLm5kdHYuY29tL2NyaWNrZXQvc3dpdGNoLWhpdC1zaG91bGQtYmUtYmFubmVkLWNvbXBsZXRlbHktZm9ybWVyLW5ldy16ZWFsYW5kLXN0YXItMzE2MjkzM9IBbGh0dHBzOi8vc3BvcnRzLm5kdHYuY29tL2NyaWNrZXQvc3dpdGNoLWhpdC1zaG91bGQtYmUtYmFubmVkLWNvbXBsZXRlbHktZm9ybWVyLW5ldy16ZWFsYW5kLXN0YXItMzE2MjkzMy9hbXAvMQ?oc=5" target="_blank">"Switch Hit Should Be Banned Completely": Former New Zealand Star</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV Sports</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vdm92LnZuL3RoZS1naW9pL2V1LWNoaWEtcmUtdmUtdmllYy11bmctaG8tdWtyYWluZS10cm9uZy1jdW9jLWNoaWVuLXZvaS1uZ2EtcG9zdDk1NjA2NS52b3bSAWVodHRwczovL2FtcC52b3Yudm4vdGhlLWdpb2kvZXUtY2hpYS1yZS12ZS12aWVjLXVuZy1oby11a3JhaW5lLXRyb25nLWN1b2MtY2hpZW4tdm9pLW5nYS1wb3N0OTU2MDY1LnZvdg?oc=5" target="_blank">EU chia rẽ về việc ủng hộ Ukraine trong cuộc chiến với Nga</a>&nbsp;&nbsp;<font color="#6f6f6f">Đài Tiếng Nói Việt Nam</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiugFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vY3JpY2tldC9jb21wbGV0ZWx5LWRpc2FncmVlLXdpdGgtYWxsLW9mLWFzaHdpbi1zLXNvbHV0aW9ucy1mb3JtZXItbmV3LXplYWxhbmQtY3JpY2tldGVyLXNjb3R0LXN0eXJpc2Utc2F5cy1zd2l0Y2gtaGl0LXNob3VsZC1iZS1iYW5uZWQtMTAxNjU3ODgyODQ2MDg4Lmh0bWzSAQA?oc=5" target="_blank">‘Completely disagree with all of Ashwin’s solutions': Ex-New Zealand great</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vYmFvdGludHVjLnZuL3RoZS1naW9pL2V1LWhvLXRyby10aGVtLTEtdHktZXVyby1jaG8tdWtyYWluZS0yMDIyMDcxMjE3MTEwODI1NC5odG3SAQA?oc=5" target="_blank">EU hỗ trợ thêm 1 tỷ euro cho Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">baotintuc.vn</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMilgFodHRwczovL2NyaWNrZXRhZGRpY3Rvci5jb20vY3JpY2tldC1uZXdzL2xvdmVkLWEtbG90LW9mLXRoZS1wb2ludHMtdGhhdC1yYXZpY2hhbmRyYW4tYXNod2luLW1hZGUtaS10aGluay10aGUtc3dpdGNoLWhpdC1zaG91bGQtYmUtYmFubmVkLXNjb3R0LXN0eXJpcy_SAQA?oc=5" target="_blank">Loved A Lot Of The Points That Ravichandran Ashwin Made; I Think The Switch Hit Should Be Banned – Scott Styris</a>&nbsp;&nbsp;<font color="#6f6f6f">Cricket Addictor</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMioQFodHRwczovL3d3dy5uZXdzMTguY29tL2NyaWNrZXRuZXh0L25ld3Mvc3dpdGNoLWhpdC1zaG91bGQtYmUtYmFubmVkLWNvbXBsZXRlbHktZm9ybWVyLW5ldy16ZWFsYW5kLWFsbHJvdW5kZXItd2FudHMtZmFpci1jb250ZXN0LWJldHdlZW4tYmF0LWFuZC1iYWxsLTU1NjA4NzkuaHRtbNIBAA?oc=5" target="_blank">'Switch Hit Should be Banned Completely': Former New Zealand Allrounder Wants Fair Contest Between Bat And</a>&nbsp;&nbsp;<font color="#6f6f6f">News18</font>
+                    </li>
+                    <li>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3Lmluc2lkZXNwb3J0LmluL2Zvcm1lci1uZXctemVhbGFuZC1jcmlja2V0ZXItc2NvdHQtc3R5cmlzLWJlbGlldmVzLXN3aXRjaC1oaXQtc2hvdWxkLWJlLWJhbm5lZC_SAQA?oc=5" target="_blank">Switch Hit Debate: Former New Zealand cricketer Scott Styris believes switch hit should be banned</a>&nbsp;&nbsp;<font color="#6f6f6f">InsideSport</font>
                     </li>
                     <li>
                         <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lWdF92SUJSRldJN1dFdDZQbTN5Z0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lxczVUTUJSSE00dTFzMkNTbXdDZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
                         </strong>
                     </li>
                 </ol>
             </description>
-            <source url="https://vnexpress.net">VnExpress </source>
+            <source url="https://sports.ndtv.com">NDTV Sports</source>
         </item>
         <item>
-            <title>Ukraine tấn công ở Kherson, Nga đổ lỗi cho Mỹ về vụ nã pháo - VietNamNet</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vdmlldG5hbW5ldC52bi91a3JhaW5lLXRhbi1jb25nLW8ta2hlcnNvbi1uZ2EtZG8tbG9pLWNoby1teS12ZS12dS1uYS1waGFvLTIwMzkxOTIuaHRtbNIBAA?oc=5</link>
-            <guid isPermaLink="false">1493970926</guid>
-            <pubDate>Tue, 12 Jul 2022 09:20:00 GMT</pubDate>
+            <title>Understanding the James Webb Space Telescope’s first images - EastMojo</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LmVhc3Rtb2pvLmNvbS9zY2llbmNlLXRlY2gvMjAyMi8wNy8xNi91bmRlcnN0YW5kaW5nLXRoZS1qYW1lcy13ZWJiLXNwYWNlLXRlbGVzY29wZXMtZmlyc3QtaW1hZ2VzL9IBbGh0dHBzOi8vd3d3LmVhc3Rtb2pvLmNvbS9zY2llbmNlLXRlY2gvMjAyMi8wNy8xNi91bmRlcnN0YW5kaW5nLXRoZS1qYW1lcy13ZWJiLXNwYWNlLXRlbGVzY29wZXMtZmlyc3QtaW1hZ2VzLw?oc=5</link>
+            <guid isPermaLink="false">1478465385</guid>
+            <pubDate>Sat, 16 Jul 2022 04:50:00 GMT</pubDate>
             <description>
                 <ol>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vdmlldG5hbW5ldC52bi91a3JhaW5lLXRhbi1jb25nLW8ta2hlcnNvbi1uZ2EtZG8tbG9pLWNoby1teS12ZS12dS1uYS1waGFvLTIwMzkxOTIuaHRtbNIBAA?oc=5" target="_blank">Ukraine tấn công ở Kherson, Nga đổ lỗi cho Mỹ về vụ nã pháo</a>&nbsp;&nbsp;<font color="#6f6f6f">VietNamNet</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LmVhc3Rtb2pvLmNvbS9zY2llbmNlLXRlY2gvMjAyMi8wNy8xNi91bmRlcnN0YW5kaW5nLXRoZS1qYW1lcy13ZWJiLXNwYWNlLXRlbGVzY29wZXMtZmlyc3QtaW1hZ2VzL9IBbGh0dHBzOi8vd3d3LmVhc3Rtb2pvLmNvbS9zY2llbmNlLXRlY2gvMjAyMi8wNy8xNi91bmRlcnN0YW5kaW5nLXRoZS1qYW1lcy13ZWJiLXNwYWNlLXRlbGVzY29wZXMtZmlyc3QtaW1hZ2VzLw?oc=5" target="_blank">Understanding the James Webb Space Telescope’s first images</a>&nbsp;&nbsp;<font color="#6f6f6f">EastMojo</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dURMWEExNHZ2dEHSAQA?oc=5" target="_blank">Tin tức Nga Ukraine mới nhất chiều 12/7 Ukraine giành lại một làng ở Kherson miền Nam, Nga nói gì?</a>&nbsp;&nbsp;<font color="#6f6f6f">TV24h</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3Lndpb25ld3MuY29tL3NjaWVuY2UvamFtZXMtd2ViYi10ZWxlc2NvcGUtY2xpY2tzLWp1cGl0ZXItaW4taXRzLWluZnJhcmVkLWdsb3J5LTQ5NzgwM9IBAA?oc=5" target="_blank">James Webb telescope clicks Jupiter in its Infrared glory</a>&nbsp;&nbsp;<font color="#6f6f6f">WION</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3LjI0aC5jb20udm4vdGluLXR1Yy1xdW9jLXRlL2Jhby1uZ2EtY29uZy1iby10aHVvbmctdm9uZy12dS11a3JhaW5lLXBoYW4tY29uZy1vLWtoZXJzb24tYzQxNWExMzc3MDE1Lmh0bWzSAQA?oc=5" target="_blank">Báo Nga công bố thương vong vụ Ukraine phản công ở Kherson</a>&nbsp;&nbsp;<font color="#6f6f6f">Tin tức 24h</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd2VhdGhlci5jb20vZW4tSU4vaW5kaWEvc3BhY2UvbmV3cy8yMDIyLTA3LTE1LW5ldy1qYW1lcy13ZWJiLXBob3Rvcy1jYXB0dXJlLWp1cGl0ZXJzLXJpbmdzLWFuZC1tb29uc9IBAA?oc=5" target="_blank">Webb on a Winning Streak: New Photos Capture Jupiter's Rings and Moons in Stunning Detail!</a>&nbsp;&nbsp;<font color="#6f6f6f">The Weather Channel</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vdm5leHByZXNzLm5ldC9uZ2EtdG8tdWtyYWluZS1kdW5nLXBoYW8tcGhhbi1sdWMtbXktdGFwLWtpY2gta2hlcnNvbi00NDg2NTI1Lmh0bWzSAQA?oc=5" target="_blank">Nga tố Ukraine dùng pháo phản lực Mỹ tập kích Kherson</a>&nbsp;&nbsp;<font color="#6f6f6f">VnExpress </font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMigwFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvdGVjaG5vbG9neS9zY2llbmNlL25hc2EtamFtZXMtd2ViYi1zcGFjZS10ZWxlc2NvcGUtZ2l2ZXMtYS1jbG9zZXItbG9vay1hdC1qdXBpdGVycy1yaW5ncy04MDMwNDI3L9IBAA?oc=5" target="_blank">NASA's James Webb Space Telescope gives closer look at Jupiter's rings</a>&nbsp;&nbsp;<font color="#6f6f6f">The Indian Express</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vZGFudHJpLmNvbS52bi90aGUtZ2lvaS91a3JhaW5lLWRvbi1kYXAtcGhhbi1jb25nLW8ta2hlcnNvbi1xdXlldC1naWFuaC1sYWktbWllbi1uYW0tMjAyMjA3MTIwNjE2MTI2NzAuaHRt0gF1aHR0cHM6Ly9hbXAuZGFudHJpLmNvbS52bi90aGUtZ2lvaS91a3JhaW5lLWRvbi1kYXAtcGhhbi1jb25nLW8ta2hlcnNvbi1xdXlldC1naWFuaC1sYWktbWllbi1uYW0tMjAyMjA3MTIwNjE2MTI2NzAuaHRt?oc=5" target="_blank">Ukraine dồn dập phản công ở Kherson, quyết giành lại miền Nam</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Dân Trí</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vd3d3LnNjaWVudGlmaWNhbWVyaWNhbi5jb20vYXJ0aWNsZS9ob3ctdGFraW5nLXBpY3R1cmVzLW9mLW5vdGhpbmctY2hhbmdlZC1hc3Ryb25vbXkxL9IBAA?oc=5" target="_blank">How Taking Pictures of ‘Nothing’ Changed Astronomy</a>&nbsp;&nbsp;<font color="#6f6f6f">Scientific American</font>
                     </li>
                     <li>
                         <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p1MzdESUJSSGtuSVlZZXhLa0tDZ0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pwcnY3QUJSRU9MVkRSVW1CeHBpZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
                         </strong>
                     </li>
                 </ol>
             </description>
-            <source url="https://vietnamnet.vn">VietNamNet</source>
+            <source url="https://www.eastmojo.com">EastMojo</source>
         </item>
         <item>
-            <title>Đức lo ngại tình hình hậu bảo trì đường ống Nord Stream 1 - Tuổi Trẻ Online</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vdHVvaXRyZS52bi9kdWMtbG8tbmdhaS10aW5oLWhpbmgtaGF1LWJhby10cmktZHVvbmctb25nLW5vcmQtc3RyZWFtLTEtMjAyMjA3MTExNTU2MDA3MS5odG3SAQA?oc=5</link>
-            <guid isPermaLink="false">1488810820</guid>
-            <pubDate>Mon, 11 Jul 2022 09:13:00 GMT</pubDate>
+            <title>Watch: NASA's SpaceX CR-25 leaves for International Space Station - DNA India</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LmRuYWluZGlhLmNvbS9zY2llbmNlL3JlcG9ydC13YXRjaC1uYXNhLXMtc3BhY2V4LWNyLTI1LWxlYXZlcy1mb3ItaW50ZXJuYXRpb25hbC1zcGFjZS1zdGF0aW9uLTI5NjkwMTbSAQA?oc=5</link>
+            <guid isPermaLink="false">1494974665</guid>
+            <pubDate>Sat, 16 Jul 2022 02:11:00 GMT</pubDate>
             <description>
                 <ol>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vdHVvaXRyZS52bi9kdWMtbG8tbmdhaS10aW5oLWhpbmgtaGF1LWJhby10cmktZHVvbmctb25nLW5vcmQtc3RyZWFtLTEtMjAyMjA3MTExNTU2MDA3MS5odG3SAQA?oc=5" target="_blank">Đức lo ngại tình hình hậu bảo trì đường ống Nord Stream 1</a>&nbsp;&nbsp;<font color="#6f6f6f">Tuổi Trẻ Online</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LmRuYWluZGlhLmNvbS9zY2llbmNlL3JlcG9ydC13YXRjaC1uYXNhLXMtc3BhY2V4LWNyLTI1LWxlYXZlcy1mb3ItaW50ZXJuYXRpb25hbC1zcGFjZS1zdGF0aW9uLTI5NjkwMTbSAQA?oc=5" target="_blank">Watch: NASA's SpaceX CR-25 leaves for International Space Station</a>&nbsp;&nbsp;<font color="#6f6f6f">DNA India</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vdmlldG5hbW5ldC52bi9kaWV1LWdpLXhheS1yYS1uZXUtbmd1b24tY3VuZy1raGktZG90LWN1YS1uZ2EtY2hvLWR1Yy1uZ3VuZy1ob2F0LWRvbmctMjAzOTA5NS5odG1s0gEA?oc=5" target="_blank">Điều gì xảy ra nếu Nga ngưng cung cấp khí đốt cho Đức?</a>&nbsp;&nbsp;<font color="#6f6f6f">VietNamNet</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMigQFodHRwczovL3RlY2guaGluZHVzdGFudGltZXMuY29tL3RlY2gvbmV3cy9uYXNhLXNwYWNleC1jci0yNS1iZWdpbnMtaXRzLWpvdXJuZXktdG8taW50ZXJuYXRpb25hbC1zcGFjZS1zdGF0aW9uLTcxNjU3ODg3NDk3NDM5Lmh0bWzSAQA?oc=5" target="_blank">NASA's SpaceX CR-25 begins its journey to International Space Station</a>&nbsp;&nbsp;<font color="#6f6f6f">HT Tech</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dTJoZFBrZjdITUnSAQA?oc=5" target="_blank">Nga bảo trì đường ống khí đốt, Đức lo diễn biến khó lường | Báo Người Lao Động</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Người Lao Động</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9YTh0Yk53bzN6d2_SAQA?oc=5" target="_blank">Watch: SpaceX launches cargo mission to the ISS | SpaceX Dragon Cargo</a>&nbsp;&nbsp;<font color="#6f6f6f">DNAIndiaNews</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vc29oYS52bi9kdWMtbG8tbmdhaS1raWNoLWJhbi1hYy1tb25nLW5ldS1uZ2EtY2F0LXZpbmgtdmllbi1kb25nLWNoYXkta2hpLWRvdC0yMDIyMDcxMjAyMjEwODE5Lmh0bdIBAA?oc=5" target="_blank">Đức lo ngại “kịch bản ác mộng” nếu Nga cắt vĩnh viễn dòng chảy khí đốt</a>&nbsp;&nbsp;<font color="#6f6f6f">Soha</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiQ2h0dHBzOi8vd3d3LnBvcHNjaS5jb20vZW52aXJvbm1lbnQvbmFzYS1kdXN0LXNjYW5uaW5nLXNwZWN0cm9tZXRlci_SAQA?oc=5" target="_blank">Why NASA is sending a dust-scanning spectrometer to the ISS</a>&nbsp;&nbsp;<font color="#6f6f6f">Popular Science</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vdm5leHByZXNzLm5ldC9uZ2EtZ2lhbS1uZ3Vvbi1jdW5nLWtoaS1kb3QtZGVuLWFvLWl0YWx5LTQ0ODYzODQuaHRtbNIBAA?oc=5" target="_blank">Nga giảm nguồn cung khí đốt đến Áo, Italy</a>&nbsp;&nbsp;<font color="#6f6f6f">VnExpress </font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9X1RSM1pid2J0ZDjSAQA?oc=5" target="_blank">SpaceX launches cargo mission to International Space Station</a>&nbsp;&nbsp;<font color="#6f6f6f">Associated Press</font>
                     </li>
                     <li>
                         <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pFNXZYRkJSR2VvU2ZsenhZc3NpZ0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pKZ2U3SUJSRmYyM1VaOTZEVkRDZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
                         </strong>
                     </li>
                 </ol>
             </description>
-            <source url="https://tuoitre.vn">Tuổi Trẻ Online</source>
+            <source url="https://www.dnaindia.com">DNA India</source>
         </item>
         <item>
-            <title>Tiết lộ nơi thử súng của kẻ ám sát ông Abe Shinzo - Người Lao Động</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vbmxkLmNvbS52bi90aG9pLXN1LXF1b2MtdGUvdGlldC1sby1ub2ktdGh1LXN1bmctY3VhLWtlLWFtLXNhdC1vbmctYWJlLXNoaW56by0yMDIyMDcxMTA3MTI1MjExMS5odG3SAQA?oc=5</link>
-            <guid isPermaLink="false">1495221873</guid>
-            <pubDate>Mon, 11 Jul 2022 00:20:00 GMT</pubDate>
+            <title>Mysterious Comet K2 baffles scientists - WION</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vd3d3Lndpb25ld3MuY29tL3NjaWVuY2UvbXlzdGVyaW91cy1jb21ldC1rMi1iYWZmbGVzLXNjaWVudGlzdHMtNDk3NDQ10gEA?oc=5</link>
+            <guid isPermaLink="false">1497415580</guid>
+            <pubDate>Thu, 14 Jul 2022 19:04:07 GMT</pubDate>
             <description>
                 <ol>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vbmxkLmNvbS52bi90aG9pLXN1LXF1b2MtdGUvdGlldC1sby1ub2ktdGh1LXN1bmctY3VhLWtlLWFtLXNhdC1vbmctYWJlLXNoaW56by0yMDIyMDcxMTA3MTI1MjExMS5odG3SAQA?oc=5" target="_blank">Tiết lộ nơi thử súng của kẻ ám sát ông Abe Shinzo</a>&nbsp;&nbsp;<font color="#6f6f6f">Người Lao Động</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vd3d3Lndpb25ld3MuY29tL3NjaWVuY2UvbXlzdGVyaW91cy1jb21ldC1rMi1iYWZmbGVzLXNjaWVudGlzdHMtNDk3NDQ10gEA?oc=5" target="_blank">Mysterious Comet K2 baffles scientists</a>&nbsp;&nbsp;<font color="#6f6f6f">WION</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vdm5leHByZXNzLm5ldC9naWFvLXBoYWktbmhhdC14YWMtbmhhbi1tZS1uZ2hpLXBoYW0tYmFuLW9uZy1hYmUtbGEtdGhhbmgtdmllbi00NDg2NjQ2Lmh0bWzSAQA?oc=5" target="_blank">Giáo phái Nhật xác nhận mẹ nghi phạm bắn ông Abe là thành viên</a>&nbsp;&nbsp;<font color="#6f6f6f">VnExpress </font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vd3d3LnNwYWNlLmNvbS9nb29kYnllLWNvbWV0LWsyLW5leHQtc3RvcC1wZXJpaGVsaW9u0gEA?oc=5" target="_blank">Goodbye, Comet K2! Next stop: closest approach to the sun</a>&nbsp;&nbsp;<font color="#6f6f6f">Space.com</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vbGFvZG9uZy52bi9waG90by9oYW5nLWRhaS1uZ3VvaS1kYW5nLWhvYS10dW9uZy1uaWVtLWNvLXRodS10dW9uZy1uaGF0LWJhbi1hYmUtc2hpbnpvLTEwNjczMjEubGRv0gEA?oc=5" target="_blank">Hàng dài người dâng hoa, tưởng niệm cố Thủ tướng Nhật Bản Abe Shinzo</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Lao Động</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9jb21ldC1jLTIwMTctazItcGFzc2luZy1lYXJ0aC1zcGFjZS1waG90b3MtMTcyNDkxOdIBAA?oc=5" target="_blank">K2 Comet Photos and Reaction After Reaching Closest Point to Earth</a>&nbsp;&nbsp;<font color="#6f6f6f">Newsweek</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9aXQ5QXYtTTNjQmfSAQA?oc=5" target="_blank">Tiết lộ bất ngờ về "mối thù hận" của kẻ ám sát ông Abe Shinzo | Báo Người Lao Động</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Người Lao Động</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3Lm96YXJrc2ZpcnN0LmNvbS90b3Atc3Rvcmllcy9sb29rLXVwLXNwcmluZ2ZpZWxkLWdpYW50LWNvbWV0LWNsb3Nlc3QtdG8tZWFydGgtdG9uaWdodC_SAWVodHRwczovL3d3dy5vemFya3NmaXJzdC5jb20vdG9wLXN0b3JpZXMvbG9vay11cC1zcHJpbmdmaWVsZC1naWFudC1jb21ldC1jbG9zZXN0LXRvLWVhcnRoLXRvbmlnaHQvYW1wLw?oc=5" target="_blank">Look up, Springfield: Giant comet closest to Earth tonight</a>&nbsp;&nbsp;<font color="#6f6f6f">KOLR - OzarksFirst.com</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vcGxvLnZuL3F1YW4tY2h1Yy1jYXAtY2FvLW15LWRhaS1sb2FuLXRydWMtdGllcC1kZW4tbmhhdC1jaGlhLWJ1b24tcG9zdDY4ODYzOC5odG1s0gFYaHR0cHM6Ly9wbG8udm4vcXVhbi1jaHVjLWNhcC1jYW8tbXktZGFpLWxvYW4tdHJ1Yy10aWVwLWRlbi1uaGF0LWNoaWEtYnVvbi1wb3N0Njg4NjM4LmFtcA?oc=5" target="_blank">Quan chức cấp cao Mỹ, Đài Loan trực tiếp đến Nhật chia buồn</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Pháp Luật TP.HCM</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMigwFodHRwczovL3d3dy5raGFsZWVqdGltZXMuY29tL3VhZS9naWFudC1jb21ldC10d2ljZS10aGUtc2l6ZS1vZi1tb3VudC1ldmVyZXN0LWxpa2VseS10by1tYWtlLWNsb3NlLWFwcHJvYWNoLXRvLWVhcnRoLXRvbmlnaHQtaGVyZXMtaNIBAA?oc=5" target="_blank">Giant comet twice the size of Mount Everest likely to make close approach to Earth tonight; here's how to watch it</a>&nbsp;&nbsp;<font color="#6f6f6f">Khaleej Times</font>
                     </li>
                     <li>
                         <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p4alAzSUJSSEwtcUJ3dXgxcEFDZ0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ljXzRMS0JSRmVjNnUteHZYLUNDZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
                         </strong>
                     </li>
                 </ol>
             </description>
-            <source url="https://nld.com.vn">Người Lao Động</source>
+            <source url="https://www.wionews.com">WION</source>
         </item>
         <item>
-            <title>Đóng cửa cây xăng vì thiếu hàng, bộ trưởng chỉ đạo: 2 ngày không mở sẽ xử lý nghiêm - Tuổi Trẻ Online</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiemh0dHBzOi8vdHVvaXRyZS52bi9kb25nLWN1YS1jYXkteGFuZy12aS10aGlldS1oYW5nLWJvLXRydW9uZy1jaGktZGFvLTItbmdheS1raG9uZy1tby1zZS14dS1seS1uZ2hpZW0tMjAyMjA3MTIxNzQ3NDU3NDUuaHRt0gEA?oc=5</link>
-            <guid isPermaLink="false">1499079696</guid>
-            <pubDate>Tue, 12 Jul 2022 11:26:00 GMT</pubDate>
+            <title>Two Keralites in NASA team decoding James Webb Space Telescope images - Onmanorama</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3Lm9ubWFub3JhbWEuY29tL25ld3Mva2VyYWxhLzIwMjIvMDcvMTYva2VyYWxpdGVzLW5hc2EtZGVjb2RpbmctamFtZXMtd2ViYi1zcGFjZS10ZWxlc2NvcGUuaHRtbNIBaWh0dHBzOi8vd3d3Lm9ubWFub3JhbWEuY29tL25ld3Mva2VyYWxhLzIwMjIvMDcvMTYva2VyYWxpdGVzLW5hc2EtZGVjb2RpbmctamFtZXMtd2ViYi1zcGFjZS10ZWxlc2NvcGUuaHRtbA?oc=5</link>
+            <guid isPermaLink="false">1500865546</guid>
+            <pubDate>Sat, 16 Jul 2022 04:36:51 GMT</pubDate>
             <description>
                 <ol>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiemh0dHBzOi8vdHVvaXRyZS52bi9kb25nLWN1YS1jYXkteGFuZy12aS10aGlldS1oYW5nLWJvLXRydW9uZy1jaGktZGFvLTItbmdheS1raG9uZy1tby1zZS14dS1seS1uZ2hpZW0tMjAyMjA3MTIxNzQ3NDU3NDUuaHRt0gEA?oc=5" target="_blank">Đóng cửa cây xăng vì thiếu hàng, bộ trưởng chỉ đạo: 2 ngày không mở sẽ xử lý nghiêm</a>&nbsp;&nbsp;<font color="#6f6f6f">Tuổi Trẻ Online</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3Lm9ubWFub3JhbWEuY29tL25ld3Mva2VyYWxhLzIwMjIvMDcvMTYva2VyYWxpdGVzLW5hc2EtZGVjb2RpbmctamFtZXMtd2ViYi1zcGFjZS10ZWxlc2NvcGUuaHRtbNIBaWh0dHBzOi8vd3d3Lm9ubWFub3JhbWEuY29tL25ld3Mva2VyYWxhLzIwMjIvMDcvMTYva2VyYWxpdGVzLW5hc2EtZGVjb2RpbmctamFtZXMtd2ViYi1zcGFjZS10ZWxlc2NvcGUuaHRtbA?oc=5" target="_blank">Two Keralites in NASA team decoding James Webb Space Telescope images</a>&nbsp;&nbsp;<font color="#6f6f6f">Onmanorama</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vcGxvLnZuL21vdC1zby1jdWEtaGFuZy10aG9uZy1iYW8taGV0LXhhbmctYm8tY29uZy10aHVvbmctbm9pLWdpLXBvc3Q2ODg2NzkuaHRtbNIBVmh0dHBzOi8vcGxvLnZuL21vdC1zby1jdWEtaGFuZy10aG9uZy1iYW8taGV0LXhhbmctYm8tY29uZy10aHVvbmctbm9pLWdpLXBvc3Q2ODg2NzkuYW1w?oc=5" target="_blank">Một số cửa hàng thông báo 'hết xăng', Bộ Công Thương nói gì?</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Pháp Luật TP.HCM</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2luZGlhL2hhc2hpbWFzLWpvdXJuZXktZnJvbS1sdWNrbm93LXRvLWphbWVzLXdlYmItdGVsZXNjb3BlL2FydGljbGVzaG93LzkyODk4MDQ1LmNtc9IBAA?oc=5" target="_blank">From Lucknow to Nasa: How Hashima broke barrier after barrier</a>&nbsp;&nbsp;<font color="#6f6f6f">Times of India</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiU2h0dHBzOi8vemluZ25ld3Mudm4veHUtbHktY3VhLWhhbmcteGFuZy1kYXUtbmV1LWRlLWhldC14YW5nLTItbmdheS1wb3N0MTMzNTEzOS5odG1s0gEA?oc=5" target="_blank">Xử lý cửa hàng xăng dầu nếu để hết xăng 2 ngày</a>&nbsp;&nbsp;<font color="#6f6f6f">Zing News</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiOGh0dHBzOi8vd3d3LmludmVyc2UuY29tL3NjaWVuY2UvandzdC1hbmQtZWh0LWJsYWNrLWhvbGVz0gEA?oc=5" target="_blank">The Webb Telescope could help astronomers make a big black hole breakthrough</a>&nbsp;&nbsp;<font color="#6f6f6f">Inverse</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMigwFodHRwczovL2Nvbmdhbi5jb20udm4vYW4tbmluaC1raW5oLXRlL3Z1LW1vdC1zby1jYXkteGFuZy10YWktdHBoY20taGV0LXhhbmcteHUtbHktbmdoaWVtLW5ldS1kZS1oZXQteGFuZy1kZW4tbmdheS10aHUtMl8xMzM4ODYuaHRtbNIBAA?oc=5" target="_blank">Vụ một số cây xăng tại TPHCM 'hết xăng': Xử lý nghiêm nếu để hết xăng đến ngày thứ 2</a>&nbsp;&nbsp;<font color="#6f6f6f">Bao Cong an</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vd2VhdGhlci5jb20vZW4tSU4vaW5kaWEvc3BhY2UvbmV3cy8yMDIyLTA3LTEzLXR3by1pbmRpYW4tcmVzZWFyY2hlcnMtZmlyc3QtZmV3LXRvLXVzZS10aGUtamFtZXMtd2ViYi10ZWxlc2NvcGXSAQA?oc=5" target="_blank">Two Indian Researchers to Be Amongst Select Few to Use the James Webb Telescope! Here's What They Plan On Doing | The Weather Channel - Articles from The Weather Channel | weather.com</a>&nbsp;&nbsp;<font color="#6f6f6f">The Weather Channel</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vcGxvLnZuL3Z1LW1vdC1zby1jdWEtaGFuZy1oZXQteGFuZy1jaGFuLW5nYXktdGluaC10cmFuZy1nYW0taGFuZy1wb3N0Njg4NzI2Lmh0bWzSAVdodHRwczovL3Bsby52bi92dS1tb3Qtc28tY3VhLWhhbmctaGV0LXhhbmctY2hhbi1uZ2F5LXRpbmgtdHJhbmctZ2FtLWhhbmctcG9zdDY4ODcyNi5hbXA?oc=5" target="_blank">Vụ một số cửa hàng 'hết xăng': Chặn ngay tình trạng găm hàng</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Pháp Luật TP.HCM</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LmluZGlhdGltZXMuY29tL3RlY2hub2xvZ3kvbmV3cy90aHJlZS1pbmRpYW4tc2NpZW50aXN0cy1uYXNhLWphbWVzLXdlYmItc3BhY2UtdGVsZXNjb3BlLTU3NDgyNS5odG1s0gFyaHR0cHM6Ly93d3cuaW5kaWF0aW1lcy5jb20vYW1wL3RlY2hub2xvZ3kvbmV3cy90aHJlZS1pbmRpYW4tc2NpZW50aXN0cy1uYXNhLWphbWVzLXdlYmItc3BhY2UtdGVsZXNjb3BlLTU3NDgyNS5odG1s?oc=5" target="_blank">Meet Three Indian Scientists Behind James Webb Space Telescope's Success</a>&nbsp;&nbsp;<font color="#6f6f6f">Indiatimes.com</font>
                     </li>
                     <li>
                         <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lReU9qS0JSRm1JSlprZmZxQzdpZ0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lLeU5YTEJSRkpFOG55ajdIUXFDZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
                         </strong>
                     </li>
                 </ol>
             </description>
-            <source url="https://tuoitre.vn">Tuổi Trẻ Online</source>
+            <source url="https://www.onmanorama.com">Onmanorama</source>
         </item>
         <item>
-            <title>Hơn 300 cửa hàng Bách Hóa Xanh đóng cửa - Zing News</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vemluZ25ld3Mudm4vaG9uLTMwMC1jdWEtaGFuZy1iYWNoLWhvYS14YW5oLWRvbmctY3VhLXBvc3QxMzM1MDg2Lmh0bWzSAQA?oc=5</link>
-            <guid isPermaLink="false">1491957646</guid>
-            <pubDate>Tue, 12 Jul 2022 12:37:21 GMT</pubDate>
+            <title>Pets, strays 'at risk' of diseases during monsoon - Deccan Chronicle</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vd3d3LmRlY2NhbmNocm9uaWNsZS5jb20vbGlmZXN0eWxlL2hlYWx0aC1hbmQtd2VsbGJlaW5nLzE2MDcyMi9wZXRzLXN0cmF5cy1hdC1yaXNrLW9mLWRpc2Vhc2VzLWR1cmluZy1tb25zb29uLmh0bWzSAQA?oc=5</link>
+            <guid isPermaLink="false">1497054375</guid>
+            <pubDate>Fri, 15 Jul 2022 22:16:00 GMT</pubDate>
             <description>
                 <ol>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vemluZ25ld3Mudm4vaG9uLTMwMC1jdWEtaGFuZy1iYWNoLWhvYS14YW5oLWRvbmctY3VhLXBvc3QxMzM1MDg2Lmh0bWzSAQA?oc=5" target="_blank">Hơn 300 cửa hàng Bách Hóa Xanh đóng cửa</a>&nbsp;&nbsp;<font color="#6f6f6f">Zing News</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vd3d3LmRlY2NhbmNocm9uaWNsZS5jb20vbGlmZXN0eWxlL2hlYWx0aC1hbmQtd2VsbGJlaW5nLzE2MDcyMi9wZXRzLXN0cmF5cy1hdC1yaXNrLW9mLWRpc2Vhc2VzLWR1cmluZy1tb25zb29uLmh0bWzSAQA?oc=5" target="_blank">Pets, strays 'at risk' of diseases during monsoon</a>&nbsp;&nbsp;<font color="#6f6f6f">Deccan Chronicle</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vdGhhbmhuaWVuLnZuL3ZpLXNhby10aGUtZ2lvaS1kaS1kb25nLWNhdC1naWFtLWNodW9pLWJhY2gtaG9hLXhhbmgtcG9zdDE0Nzc0NDIuaHRtbNIBAA?oc=5" target="_blank">Vì sao Thế Giới Di Động cắt giảm chuỗi Bách hóa Xanh?</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Thanh Niên</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkvcHVuZS92aXJhbC1kaWFycmhvZWEtdHlwaG9pZC1jYXNlcy11cC1kdXJpbmctbW9uc29vbi9hcnRpY2xlc2hvdy85MjkxMDA3Ni5jbXPSAQA?oc=5" target="_blank">Viral diarrhoea & typhoid cases up during monsoon</a>&nbsp;&nbsp;<font color="#6f6f6f">Times of India</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9eHBLLVdObFVseVHSAQA?oc=5" target="_blank">Vì sao hàng loạt cửa hàng Bách Hóa Xanh đóng cửa? | VTC Now</a>&nbsp;&nbsp;<font color="#6f6f6f">VTC NOW</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiemh0dHBzOi8vc29oYS52bi9oYW5nLWxvYXQtY3VhLWhhbmctYmFjaC1ob2EteGFuaC1jdWEtdGhlLWdpb2ktZGktZG9uZy1kb25nLWN1YS1jaHV5ZW4tZ2ktZGFuZy14YXktcmEtMjAyMjA3MTIwOTM2MTAzODcuaHRt0gEA?oc=5" target="_blank">Hàng loạt cửa hàng Bách Hóa Xanh của Thế Giới Di Động đóng cửa, chuyện gì đang xảy ra?</a>&nbsp;&nbsp;<font color="#6f6f6f">Soha</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vZGFudHJpLmNvbS52bi9raW5oLWRvYW5oL3RoZS1naW9pLWRpLWRvbmctZG9uZy1nYW4tMTcwLWN1YS1oYW5nLWJhY2gtaG9hLXhhbmgtMjAyMjA3MTExNzIyMjUxMDIuaHRt0gFvaHR0cHM6Ly9hbXAuZGFudHJpLmNvbS52bi9raW5oLWRvYW5oL3RoZS1naW9pLWRpLWRvbmctZG9uZy1nYW4tMTcwLWN1YS1oYW5nLWJhY2gtaG9hLXhhbmgtMjAyMjA3MTExNzIyMjUxMDIuaHRt?oc=5" target="_blank">Thế Giới Di Động đóng gần 170 cửa hàng Bách Hóa Xanh</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Dân Trí</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3Lm5ld3MxOC5jb20vbmV3cy9saWZlc3R5bGUvbW9zcXVpdG8tYXR0YWNrLWNhbi1sZWFkLXRvLXRoZXNlLTUtbW9uc29vbi1kaXNlYXNlcy10YWtlLWEtbG9vay01NTQ4OTI3Lmh0bWzSAQA?oc=5" target="_blank">Mosquito Attack Can Lead To These 5 Monsoon Diseases. Take A Look</a>&nbsp;&nbsp;<font color="#6f6f6f">News18</font>
                     </li>
                     <li>
                         <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lPNzdYSEJSRUJ5VTVTUVRIX2NDZ0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2luLWV6SkJSSGhJWW5xamx4RFlDZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
                         </strong>
                     </li>
                 </ol>
             </description>
-            <source url="https://zingnews.vn">Zing News</source>
+            <source url="https://www.deccanchronicle.com">Deccan Chronicle</source>
         </item>
         <item>
-            <title>Mức giảm mạnh của giá xăng dầu kéo dài đến bao giờ? - Báo Dân Trí</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vZGFudHJpLmNvbS52bi9raW5oLWRvYW5oL211Yy1naWFtLW1hbmgtY3VhLWdpYS14YW5nLWRhdS1rZW8tZGFpLWRlbi1iYW8tZ2lvLTIwMjIwNzEyMTExMjUxODIxLmh0bdIBbWh0dHBzOi8vYW1wLmRhbnRyaS5jb20udm4va2luaC1kb2FuaC9tdWMtZ2lhbS1tYW5oLWN1YS1naWEteGFuZy1kYXUta2VvLWRhaS1kZW4tYmFvLWdpby0yMDIyMDcxMjExMTI1MTgyMS5odG0?oc=5</link>
-            <guid isPermaLink="false">1488994043</guid>
-            <pubDate>Tue, 12 Jul 2022 05:28:09 GMT</pubDate>
+            <title>Why indigenous HPV vaccine has the potential to drastically bring down the incidence & deaths caused by cervical cancer in India? - The Indian Express</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9leHBsYWluZWQvaHB2LXZhY2NpbmUtY2VydmljYWwtY2FuY2VyLWJlbmVmaXRzLTgwMzE3NDcv0gEA?oc=5</link>
+            <guid isPermaLink="false">1499464062</guid>
+            <pubDate>Fri, 15 Jul 2022 17:41:35 GMT</pubDate>
             <description>
                 <ol>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vZGFudHJpLmNvbS52bi9raW5oLWRvYW5oL211Yy1naWFtLW1hbmgtY3VhLWdpYS14YW5nLWRhdS1rZW8tZGFpLWRlbi1iYW8tZ2lvLTIwMjIwNzEyMTExMjUxODIxLmh0bdIBbWh0dHBzOi8vYW1wLmRhbnRyaS5jb20udm4va2luaC1kb2FuaC9tdWMtZ2lhbS1tYW5oLWN1YS1naWEteGFuZy1kYXUta2VvLWRhaS1kZW4tYmFvLWdpby0yMDIyMDcxMjExMTI1MTgyMS5odG0?oc=5" target="_blank">Mức giảm mạnh của giá xăng dầu kéo dài đến bao giờ?</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Dân Trí</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9leHBsYWluZWQvaHB2LXZhY2NpbmUtY2VydmljYWwtY2FuY2VyLWJlbmVmaXRzLTgwMzE3NDcv0gEA?oc=5" target="_blank">Why indigenous HPV vaccine has the potential to drastically bring down the incidence & deaths caused by cervical cancer in India?</a>&nbsp;&nbsp;<font color="#6f6f6f">The Indian Express</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiPGh0dHBzOi8vcGxvLnZuL2dpYS14YW5nLWRhdS1saWVuLXR1Yy1sYW8tZG9jLXBvc3Q2ODg3NjMuaHRtbNIBO2h0dHBzOi8vcGxvLnZuL2dpYS14YW5nLWRhdS1saWVuLXR1Yy1sYW8tZG9jLXBvc3Q2ODg3NjMuYW1w?oc=5" target="_blank">Giá xăng dầu liên tục lao dốc</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Pháp Luật TP.HCM</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMif2h0dHBzOi8vdGhlcHJpbnQuaW4vNTAtd29yZC1lZGl0L21vZGktZ292dC13aXNlLXRvLWFwcHJvdmUtdmFjY2luZS1mb3ItY2VydmljYWwtY2FuY2VyLWhpbmR1LXJpZ2h0cy1vcHBvc2l0aW9uLWJpemFycmUvMTAzNzI4NS_SAYMBaHR0cHM6Ly90aGVwcmludC5pbi81MC13b3JkLWVkaXQvbW9kaS1nb3Z0LXdpc2UtdG8tYXBwcm92ZS12YWNjaW5lLWZvci1jZXJ2aWNhbC1jYW5jZXItaGluZHUtcmlnaHRzLW9wcG9zaXRpb24tYml6YXJyZS8xMDM3Mjg1Lz9hbXA?oc=5" target="_blank">Modi govt wise to approve vaccine for cervical cancer. Hindu Right’s opposition bizarre</a>&nbsp;&nbsp;<font color="#6f6f6f">ThePrint</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3LnFkbmQudm4va2luaC10ZS9jYWMtdmFuLWRlL2dpYS14YW5nLWdpYW0tZG9hbmgtbmdoaWVwLXZhLW5ndW9pLWRhbi12dWktbXVuZy02OTk2MzLSAQA?oc=5" target="_blank">Giá xăng giảm: Doanh nghiệp và người dân vui mừng</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo điện tử Quân đội nhân dân</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiwQFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbWFnYXppbmVzL3BhbmFjaGUvaW5kaWEtZ2V0cy1pdHMtZmlyc3QtY2VydmljYWwtY2FuY2VyLXZhY2NpbmUtd29tZW4taW4tdGhlaXItMzBzLXJlbWFpbi12dWxuZXJhYmxlLW11c3QtZ2V0LXJlZ3VsYXItY2hlY2stdXBzLWRvbmUvYXJ0aWNsZXNob3cvOTI4NDQyNDkuY21z0gG8AWh0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS9tYWdhemluZXMvcGFuYWNoZS9pbmRpYS1nZXRzLWl0cy1maXJzdC1jZXJ2aWNhbC1jYW5jZXItdmFjY2luZS13b21lbi1pbi10aGVpci0zMHMtcmVtYWluLXZ1bG5lcmFibGUtbXVzdC1nZXQtcmVndWxhci1jaGVjay11cHMtZG9uZS9hbXBfYXJ0aWNsZXNob3cvOTI4NDQyNDkuY21z?oc=5" target="_blank">India gets its first cervical cancer vaccine; women in their 30s remain vulnerable, must get regular check</a>&nbsp;&nbsp;<font color="#6f6f6f">Economic Times</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9T0hRTlpfUG14T0HSAQA?oc=5" target="_blank">Xăng dầu hạ nhiệt, liệu hàng hóa có "xuống thang"? | VTC Tin mới</a>&nbsp;&nbsp;<font color="#6f6f6f">VTC TIN MỚI</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9saWZlc3R5bGUvaGVhbHRoL2hwdi12YWNjaW5lLW1lbi1ib3lzLWdlbml0YWwtd2FydHMtcGVuaWxlLWNhbmNlci1iZXN0LWFnZS04MDMwNTM0L9IBAA?oc=5" target="_blank">Should men also take HPV vaccine? Experts answer</a>&nbsp;&nbsp;<font color="#6f6f6f">The Indian Express</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vdGhhbmhuaWVuLnZuL2dpYS14YW5nLWRhdS1ob20tbmF5LTEyLTctMjAyMi1naWFtLWtoaS10cnVuZy1xdW9jLWNvLWNhLWJpZW4tY2h1bmctbW9pLXBvc3QxNDc3MzEwLmh0bWzSAQA?oc=5" target="_blank">Giá xăng dầu hôm nay 12.7.2022: Giảm khi Trung Quốc có ca biến chủng mới</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Thanh Niên</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMikAFodHRwczovL3d3dy5maXJzdHBvc3QuY29tL2hlYWx0aC93aHktc2VydW0taW5zdGl0dXRlcy1xaHB2LXZhY2NpbmUtaW5kaWFzLWZpcnN0LWFnYWluc3QtY2VydmljYWwtY2FuY2VyLWlzLWEtZ2FtZS1jaGFuZ2VyLWNlcnZhdmFjLTEwOTA0MjgxLmh0bWzSAQA?oc=5" target="_blank">Why Serum Institute's qHPV vaccine, India's first against cervical cancer, is a game-changer</a>&nbsp;&nbsp;<font color="#6f6f6f">Firstpost</font>
                     </li>
                     <li>
                         <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o3X1lER0JSRzJ5SXlKTHJYRTJ5Z0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2otZ29ETEJSSGFIRk9zS1BoX0JDZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
                         </strong>
                     </li>
                 </ol>
             </description>
-            <source url="https://dantri.com.vn">Báo Dân Trí</source>
+            <source url="https://indianexpress.com">The Indian Express</source>
         </item>
         <item>
-            <title>Grab bị yêu cầu giải trình vì phụ thu phí nắng nóng | VTV24 - VTV24</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Uk5IX0hFMVphNFnSAQA?oc=5</link>
-            <guid isPermaLink="false">1493943385</guid>
-            <pubDate>Tue, 12 Jul 2022 07:30:08 GMT</pubDate>
+            <title>Researchers find a new defence mechanism that curbs infection-causing candida - Times Now</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMiggFodHRwczovL3d3dy50aW1lc25vd25ld3MuY29tL2hlYWx0aC9yZXNlYXJjaGVycy1maW5kLWEtbmV3LWRlZmVuY2UtbWVjaGFuaXNtLXRoYXQtY3VyYnMtaW5mZWN0aW9uLWNhdXNpbmctY2FuZGlkYS1hcnRpY2xlLTkyOTEyOTU40gEA?oc=5</link>
+            <guid isPermaLink="false">CAIiEOFnzYnBLxhIIXAqq53CvWgqGQgEKhAIACoHCAowr6n9CjCr4PQCMJOV2AU</guid>
+            <pubDate>Sat, 16 Jul 2022 04:48:44 GMT</pubDate>
             <description>
-                <ol>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Uk5IX0hFMVphNFnSAQA?oc=5" target="_blank">Grab bị yêu cầu giải trình vì phụ thu phí nắng nóng | VTV24</a>&nbsp;&nbsp;<font color="#6f6f6f">VTV24</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vdm5leHByZXNzLm5ldC9iby1jb25nLXRodW9uZy15ZXUtY2F1LWdyYWItbGFtLXJvLXZpZWMtdGh1LXBodS1waGktbmFuZy1ub25nLTQ0ODY1MjYuaHRtbNIBAA?oc=5" target="_blank">Bộ Công Thương yêu cầu Grab làm rõ việc thu phụ phí nắng nóng</a>&nbsp;&nbsp;<font color="#6f6f6f">VnExpress </font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vemluZ25ld3Mudm4vbWEtdHJhbi1waHUtcGhpLWN1YS11bmctZHVuZy1nb2kteGUtY29uZy1uZ2hlLXBvc3QxMzM0OTk1Lmh0bWzSAQA?oc=5" target="_blank">Ma trận phụ phí của ứng dụng gọi xe công nghệ</a>&nbsp;&nbsp;<font color="#6f6f6f">Zing News</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vbGFvZG9uZy52bi9iYW4tZG9jL2xvLW5nYWktZ3JhYi1nYXktcmEtbGFtLXBoYXQtcGhpLXZhLXBodS1waGktdHJlbi10aGktdHJ1b25nLWRpY2gtdnUtZ29pLXhlLTEwNjY3MjEubGRv0gEA?oc=5" target="_blank">Lo ngại Grab gây ra lạm phát phí và phụ phí trên thị trường dịch vụ gọi xe</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Lao Động</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3LmJhb2dpYW90aG9uZy52bi9ncmFiLXRodS1waGktbmFuZy1ub25nLWtob25nLWNvLXF1eS1kaW5oLW5hby1jaG8tcGhlcC1kNTU5MDYyLmh0bWzSAQA?oc=5" target="_blank">Grab thu phí nắng nóng: Không có quy định nào cho phép</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo giao thông</font>
-                    </li>
-                    <li>
-                        <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2paaUtfSUJSRUMxSWJQR2lTZWhpZ0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
-                        </strong>
-                    </li>
-                </ol>
-            </description>
-            <source url="https://www.youtube.com">VTV24</source>
-        </item>
-        <item>
-            <title>Son Ye Jin ra dáng "vợ đảm" khi trổ tài nấu ăn cho ông xã Hyun Bin - aFamily</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vYWZhbWlseS52bi9zb24teWUtamluLXJhLWRhbmctdm8tZGFtLWtoaS10cm8tdGFpLW5hdS1hbi1jaG8tb25nLXhhLWh5dW4tYmluLTIwMjIwNzEyMDAwMjI0NDA0LmNobtIBAA?oc=5</link>
-            <guid isPermaLink="false">1493805973</guid>
-            <pubDate>Tue, 12 Jul 2022 02:41:00 GMT</pubDate>
-            <description>
-                <ol>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vYWZhbWlseS52bi9zb24teWUtamluLXJhLWRhbmctdm8tZGFtLWtoaS10cm8tdGFpLW5hdS1hbi1jaG8tb25nLXhhLWh5dW4tYmluLTIwMjIwNzEyMDAwMjI0NDA0LmNobtIBAA?oc=5" target="_blank">Son Ye Jin ra dáng "vợ đảm" khi trổ tài nấu ăn cho ông xã Hyun Bin</a>&nbsp;&nbsp;<font color="#6f6f6f">aFamily</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMioAFodHRwczovL2tlbmgxNC52bi9tZS1iYXUtc29uLXllLWppbi1sYW4tZGF1LWtob2UtYnVhLWFuLWdpYS1kaW5oLXZvaS1oeXVuLWJpbi1teS1uaGFuLXZ1b24tc2FvLWJhbmctdmEtZGFuLW1pbmgtdGluaC1vLWF0LXZhby1raGVuLWhldC1sb2ktMjAyMjA3MTIwODE0MzA3MzQuY2hu0gEA?oc=5" target="_blank">Mẹ bầu Son Ye Jin lần đầu khoe bữa ăn gia đình với Hyun Bin, mỹ nhân Vườn Sao Băng và dàn minh tinh ồ ạt vào khen hết lời</a>&nbsp;&nbsp;<font color="#6f6f6f">Kênh 14</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMifWh0dHBzOi8vZXZhLnZuL3Nhby1uZ29haS9tZS1iYXUtc29uLXllLWppbi1rZS1jaHV5ZW4tdGFuZy1jYW4tdGhlbS1hbi1naWF0LW1pbmgtbmhhdC1sYS1sb2F0LWFuaC1sdWMtbnVhLWRlbS1jMzM4YTUyNDQxMy5odG1s0gEA?oc=5" target="_blank">Son Ye Jin - Mẹ bầu Son Ye Jin kể chuyện tăng cân, thèm ăn, giật mình nhất là loạt ảnh lúc nửa đêm</a>&nbsp;&nbsp;<font color="#6f6f6f">Eva.vn</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vc2Fvc3Rhci52bi9naWFpLXRyaS9tZS1iYXUtc29uLXllLWppbi1sZW4tdGllbmcteGluLWxvaS12aS1kYW5nLWhpbmgtbHVjLWdpdWEtZGVtLTIwMjIwNzEyMDg1NTM5NDMyMi5odG1s0gEA?oc=5" target="_blank">Mẹ bầu Son Ye Jin lên tiếng xin lỗi vì đăng hình lúc giữa đêm, chuyện gì đây?</a>&nbsp;&nbsp;<font color="#6f6f6f">Saostar.vn</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8va2VuaDE0LnZuL2Zhbi1iYXQtZ2FwLWh5dW4tYmluLXZhLXNvbi15ZS1qaW4tZGktc2FtLWRvLXRyYW5nLXRyaS1waG9uZy1jaG8tY29uLTIwMjIwNzExMTIwMDQzMjM1LmNobtIBAA?oc=5" target="_blank">Fan bắt gặp Hyun Bin và Son Ye Jin đi sắm đồ trang trí phòng cho con</a>&nbsp;&nbsp;<font color="#6f6f6f">Kênh 14</font>
-                    </li>
-                    <li>
-                        <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lWMTZiSUJSSGlpU0NkNjNuc1NDZ0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
-                        </strong>
-                    </li>
-                </ol>
-            </description>
-            <source url="https://afamily.vn">aFamily</source>
-        </item>
-        <item>
-            <title>"Cô gái mồ côi Cần Thơ”, nữ DJ gốc Việt mang vẻ đẹp gây sốt tại Hollywood - Tin tức 24h</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMifmh0dHBzOi8vd3d3LjI0aC5jb20udm4vbGFtLWRlcC9jby1nYWktbW8tY29pLWNhbi10aG8tbnUtZGotZ29jLXZpZXQtbm9pLWRhbmgtaG9sbHl3b29kLWtoZW8tbWFjLXRvbi1kYW5nLWRlcC1jMTQ1YTEzNzY3MzMuaHRtbNIBAA?oc=5</link>
-            <guid isPermaLink="false">CAIiEDlCNvAMWiHYn60MyjM2alEqMwgEKioIACIQc4Qgb7CL3wuEUBNLR7m12SoUCAoiEHOEIG-wi98LhFATS0e5tdkw2YTJBg</guid>
-            <pubDate>Tue, 12 Jul 2022 06:31:34 GMT</pubDate>
-            <description>
-                <a href="https://news.google.com/__i/rss/rd/articles/CBMifmh0dHBzOi8vd3d3LjI0aC5jb20udm4vbGFtLWRlcC9jby1nYWktbW8tY29pLWNhbi10aG8tbnUtZGotZ29jLXZpZXQtbm9pLWRhbmgtaG9sbHl3b29kLWtoZW8tbWFjLXRvbi1kYW5nLWRlcC1jMTQ1YTEzNzY3MzMuaHRtbNIBAA?oc=5" target="_blank">"Cô gái mồ côi Cần Thơ”, nữ DJ gốc Việt mang vẻ đẹp gây sốt tại Hollywood</a>&nbsp;&nbsp;<font color="#6f6f6f">Tin tức 24h</font>
+                <a href="https://news.google.com/__i/rss/rd/articles/CBMiggFodHRwczovL3d3dy50aW1lc25vd25ld3MuY29tL2hlYWx0aC9yZXNlYXJjaGVycy1maW5kLWEtbmV3LWRlZmVuY2UtbWVjaGFuaXNtLXRoYXQtY3VyYnMtaW5mZWN0aW9uLWNhdXNpbmctY2FuZGlkYS1hcnRpY2xlLTkyOTEyOTU40gEA?oc=5" target="_blank">Researchers find a new defence mechanism that curbs infection-causing candida</a>&nbsp;&nbsp;<font color="#6f6f6f">Times Now</font>
                 <strong>
-                    <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pRaS16S0JSRU54YXY4d01qdWhpZ0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
+                    <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lobk1ySUJSRjlMVldxeFpBc0d5Z0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
                 </strong>
             </description>
-            <source url="https://www.24h.com.vn">Tin tức 24h</source>
+            <source url="https://www.timesnownews.com">Times Now</source>
         </item>
         <item>
-            <title>Kim Duyên được dự đoán vào top 5 Hoa hậu Siêu quốc gia 2022 - Zing News</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vemluZ25ld3Mudm4va2ltLWR1eWVuLWR1b2MtZHUtZG9hbi12YW8tdG9wLTUtaG9hLWhhdS1zaWV1LXF1b2MtZ2lhLTIwMjItcG9zdDEzMzQ3MDEuaHRtbNIBAA?oc=5</link>
-            <guid isPermaLink="false">1474051131</guid>
-            <pubDate>Mon, 11 Jul 2022 10:03:25 GMT</pubDate>
+            <title>Young people face higher health risks from alcohol than older adults: Lancet study - EastMojo</title>
+            <link>https://news.google.com/__i/rss/rd/articles/CBMifWh0dHBzOi8vd3d3LmVhc3Rtb2pvLmNvbS9oZWFsdGgvMjAyMi8wNy8xNi95b3VuZy1wZW9wbGUtZmFjZS1oaWdoZXItaGVhbHRoLXJpc2tzLWZyb20tYWxjb2hvbC10aGFuLW9sZGVyLWFkdWx0cy1sYW5jZXQtc3R1ZHkv0gF9aHR0cHM6Ly93d3cuZWFzdG1vam8uY29tL2hlYWx0aC8yMDIyLzA3LzE2L3lvdW5nLXBlb3BsZS1mYWNlLWhpZ2hlci1oZWFsdGgtcmlza3MtZnJvbS1hbGNvaG9sLXRoYW4tb2xkZXItYWR1bHRzLWxhbmNldC1zdHVkeS8?oc=5</link>
+            <guid isPermaLink="false">1502262194</guid>
+            <pubDate>Sat, 16 Jul 2022 02:30:00 GMT</pubDate>
             <description>
                 <ol>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vemluZ25ld3Mudm4va2ltLWR1eWVuLWR1b2MtZHUtZG9hbi12YW8tdG9wLTUtaG9hLWhhdS1zaWV1LXF1b2MtZ2lhLTIwMjItcG9zdDEzMzQ3MDEuaHRtbNIBAA?oc=5" target="_blank">Kim Duyên được dự đoán vào top 5 Hoa hậu Siêu quốc gia 2022</a>&nbsp;&nbsp;<font color="#6f6f6f">Zing News</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMifWh0dHBzOi8vd3d3LmVhc3Rtb2pvLmNvbS9oZWFsdGgvMjAyMi8wNy8xNi95b3VuZy1wZW9wbGUtZmFjZS1oaWdoZXItaGVhbHRoLXJpc2tzLWZyb20tYWxjb2hvbC10aGFuLW9sZGVyLWFkdWx0cy1sYW5jZXQtc3R1ZHkv0gF9aHR0cHM6Ly93d3cuZWFzdG1vam8uY29tL2hlYWx0aC8yMDIyLzA3LzE2L3lvdW5nLXBlb3BsZS1mYWNlLWhpZ2hlci1oZWFsdGgtcmlza3MtZnJvbS1hbGNvaG9sLXRoYW4tb2xkZXItYWR1bHRzLWxhbmNldC1zdHVkeS8?oc=5" target="_blank">Young people face higher health risks from alcohol than older adults: Lancet study</a>&nbsp;&nbsp;<font color="#6f6f6f">EastMojo</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMimQFodHRwczovL2tlbmgxNC52bi9raW0tZHV5ZW4tY29uZy1iby1xdW9jLXBodWMtZGktdGhpLWhvYS1oYXUta2ktY29uZy12YS10aW5oLXhhby10aGF0LWRheS1uaHVuZy1kYW4tdGluaC12YW4tZS1uZ2FpLXZpLWNoaS10aWV0LW5heS0yMDIyMDcxMTE2NDg1ODYyMi5jaG7SAQA?oc=5" target="_blank">Kim Duyên công bố trang phục đi thi Hoa hậu, kì công và tinh xảo thật đấy nhưng dân tình vẫn e ngại vì chi tiết này</a>&nbsp;&nbsp;<font color="#6f6f6f">Kênh 14</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9leHBsYWluZWQvZXhwbGFpbmVkLWhvdy1tdWNoLWFsY29ob2wtaXMtdW5zYWZlLWJhc2VkLW9uLWFnZS04MDI5OTEyL9IBAA?oc=5" target="_blank">Explained: How much alcohol is unsafe, based on age</a>&nbsp;&nbsp;<font color="#6f6f6f">The Indian Express</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMid2h0dHBzOi8vbGFvZG9uZy52bi92YW4taG9hLWdpYWktdHJpL25oaXAtc2hvd2Jpei1raW0tZHV5ZW4tZHVvYy1kdS1kb2FuLWxvdC10b3AtNS1sdW9uZy1iaWNoLWh1dS1kaW5oLWNoaW5oLTEwNjcwOTUubGRv0gEA?oc=5" target="_blank">Nhịp Showbiz: Kim Duyên được dự đoán lọt top 5, Lương Bích Hữu đính chính</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Lao Động</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMijQFodHRwczovL3d3dy5uZXdzLW1lZGljYWwubmV0L25ld3MvMjAyMjA3MTUvQWxjb2hvbC1jb25zdW1wdGlvbi1kb2VzLW5vdC1wcm92aWRlLWFueS1oZWFsdGgtYmVuZWZpdHMtcHJlc2VudHMtbWFueS1yaXNrcy1mb3IteW91bmctcGVvcGxlLmFzcHjSAQA?oc=5" target="_blank">Alcohol consumption does not provide any health benefits, presents many risks for young people</a>&nbsp;&nbsp;<font color="#6f6f6f">News-Medical.Net</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vMnNhby52bi92aWV0LW5hbS0zLWxhbi10aGFuZy1xdW9jLXBodWMta2ltLWR1eWVuLWxpZXUtY28tdGhlLW4tMzEyOTI4Lmh0bWzSAQA?oc=5" target="_blank">Việt Nam 3 lần thắng quốc phục, Kim Duyên liệu có thể?</a>&nbsp;&nbsp;<font color="#6f6f6f">2sao.vn</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiggFodHRwczovL3d3dy5jbmJjdHYxOC5jb20vaGVhbHRoY2FyZS9pbmRpYS1ndWlkZWxpbmVzLWFsY29ob2wtY29uc3VtcHRpb24tbGV2ZWxzLXJlY29tbWVuZGF0aW9uLXN0dWR5LWFnZS1sb2NhdGlvbi1zZXgtMTQxNDM1MzIuaHRt0gEA?oc=5" target="_blank">Study Suggest Alcohol Consumption Levels Must Be Based On Age And Location But India Has No Such Guidelines</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBCTV18</font>
                     </li>
                     <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8va2VuaDE0LnZuL2Nhbi1jYW5oLXRyYW5nLXBodWMtZGFuLXRvYy1uYW5nLTMwa2ctY3VhLWtpbS1kdXllbi10YWktbWlzcy1zdXByYW5hdGlvbmFsLTIwMjItMjAyMjA3MTExNjU1NTMwNy5jaG7SAQA?oc=5" target="_blank">Cận cảnh trang phục dân tộc nặng 30kg của Kim Duyên tại Miss Supranational 2022</a>&nbsp;&nbsp;<font color="#6f6f6f">Kênh 14</font>
+                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiemh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9saWZlc3R5bGUvaGVhbHRoL2FsY29ob2wtY29uc3VtcHRpb24tYWdlLXlvdW5nLXBlb3BsZS1oZWFsdGgtcmlza3MtbGFuY2V0LXN0dWR5LTgwMzEzODMv0gEA?oc=5" target="_blank">Here's how much alcohol a person can drink, according to their age</a>&nbsp;&nbsp;<font color="#6f6f6f">The Indian Express</font>
                     </li>
                     <li>
                         <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k3LVBDLUJSR0xneXhTUlJWS21DZ0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
+                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l5NTZyTUJSRVVtZWJxUTVPSTNDZ0FQAQ?oc=5" target="_blank">View Full coverage on Google News</a>
                         </strong>
                     </li>
                 </ol>
             </description>
-            <source url="https://zingnews.vn">Zing News</source>
-        </item>
-        <item>
-            <title>Trấn Thành bất ngờ báo tin quan trọng, cư dân mạng đồng loạt ngóng chờ - TechZ</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3LnRlY2h6LnZuLzE5Ny03MjItMS10cmFuLXRoYW5oLWJhdC1uZ28tYmFvLXRpbi1xdWFuLXRyb25nLWN1LWRhbi1tYW5nLWRvbmctbG9hdC1uZ29uZy1jaG8teWx0NTY3MzMzLmh0bWzSAQA?oc=5</link>
-            <guid isPermaLink="false">CAIiEKetyTOEYzzOCl-JmDfrvtgqMwgEKioIACIQbiD37qTfbp_5fLARBsrkNyoUCAoiEG4g9-6k326f-XywEQbK5DcwipnhBw</guid>
-            <pubDate>Tue, 12 Jul 2022 04:17:08 GMT</pubDate>
-            <description>
-                <a href="https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3LnRlY2h6LnZuLzE5Ny03MjItMS10cmFuLXRoYW5oLWJhdC1uZ28tYmFvLXRpbi1xdWFuLXRyb25nLWN1LWRhbi1tYW5nLWRvbmctbG9hdC1uZ29uZy1jaG8teWx0NTY3MzMzLmh0bWzSAQA?oc=5" target="_blank">Trấn Thành bất ngờ báo tin quan trọng, cư dân mạng đồng loạt ngóng chờ</a>&nbsp;&nbsp;<font color="#6f6f6f">TechZ</font>
-            </description>
-            <source url="https://www.techz.vn">TechZ</source>
-        </item>
-        <item>
-            <title>Chuyên gia Indonesia: 'Đừng cố đổ lỗi cho U19 Việt Nam, Thái Lan' - Zing News</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vemluZ25ld3Mudm4vY2h1eWVuLWdpYS1pbmRvbmVzaWEtZHVuZy1jby1kby1sb2ktY2hvLXUxOS12aWV0LW5hbS10aGFpLWxhbi1wb3N0MTMzNTA4OS5odG1s0gEA?oc=5</link>
-            <guid isPermaLink="false">1497575925</guid>
-            <pubDate>Tue, 12 Jul 2022 10:45:46 GMT</pubDate>
-            <description>
-                <ol>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vemluZ25ld3Mudm4vY2h1eWVuLWdpYS1pbmRvbmVzaWEtZHVuZy1jby1kby1sb2ktY2hvLXUxOS12aWV0LW5hbS10aGFpLWxhbi1wb3N0MTMzNTA4OS5odG1s0gEA?oc=5" target="_blank">Chuyên gia Indonesia: 'Đừng cố đổ lỗi cho U19 Việt Nam, Thái Lan'</a>&nbsp;&nbsp;<font color="#6f6f6f">Zing News</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vdm5leHByZXNzLm5ldC9jaHV5ZW4tZ2lhLWluZG9uZXNpYS12aWV0LW5hbS10aGFpLWxhbi1jaGFuZy1sYW0tZ2ktc2FpLTQ0ODY1NjkuaHRtbNIBAA?oc=5" target="_blank">Chuyên gia Indonesia: 'Việt Nam, Thái Lan chẳng làm gì sai'</a>&nbsp;&nbsp;<font color="#6f6f6f">VnExpress </font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vZGFudHJpLmNvbS52bi90aGUtdGhhby9idWMteHVjLXRvdC1kby1jZHYtaW5kb25lc2lhLWNoYW4teGUtYnVzLWN1YS11MTktdmlldC1uYW0tMjAyMjA3MTIwMTM1NTU4ODcuaHRt0gFyaHR0cHM6Ly9hbXAuZGFudHJpLmNvbS52bi90aGUtdGhhby9idWMteHVjLXRvdC1kby1jZHYtaW5kb25lc2lhLWNoYW4teGUtYnVzLWN1YS11MTktdmlldC1uYW0tMjAyMjA3MTIwMTM1NTU4ODcuaHRt?oc=5" target="_blank">Bức xúc tột độ, CĐV Indonesia chặn xe bus của U19 Việt Nam</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Dân Trí</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiggFodHRwczovL2tlbmgxNC52bi9nYXQtbnVvYy1tYXQtaW5kby1ub2kta2hvbmctY28tZ2ktcGhhaS1idW9uLXZpLW11Yy10aWV1LWxhLXdvcmxkLWN1cC1raG9uZy1waGFpLWRvbmctbmFtLWEtMjAyMjA3MTIwMTQ1NDI4NDkuY2hu0gEA?oc=5" target="_blank">Gạt nước mắt, Indo nói không có gì phải buồn vì mục tiêu là World Cup, không phải Đông Nam Á</a>&nbsp;&nbsp;<font color="#6f6f6f">Kênh 14</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vZGFudmlldC52bi9uaHVuZy1kYXUtYW4tZGFjLWJpZXQtby12b25nLWJhbmctZ2lhaS11MTktZG9uZy1uYW0tYS0yMDIyLTIwMjIwNzExMjE1NDI0MTM4Lmh0bdIBAA?oc=5" target="_blank">Những dấu ấn đặc biệt ở vòng bảng giải U19 Đông Nam Á 2022</a>&nbsp;&nbsp;<font color="#6f6f6f">Dân Việt</font>
-                    </li>
-                    <li>
-                        <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oxNDR6S0JSRWlGSkxUYXpXLUd5Z0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
-                        </strong>
-                    </li>
-                </ol>
-            </description>
-            <source url="https://zingnews.vn">Zing News</source>
-        </item>
-        <item>
-            <title>Link xem trực tiếp MU vs Liverpool (20h00 ngày 12/7) giao hữu quốc tế tại Thái Lan - Báo Thế giới và Việt Nam</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vYmFvcXVvY3RlLnZuL2xpbmsteGVtLXRydWMtdGllcC1tdS12cy1saXZlcnBvb2wtMjBoMDAtbmdheS0xMjctZ2lhby1odXUtcXVvYy10ZS10YWktdGhhaS1sYW4tMTkwNTI4Lmh0bWzSAQA?oc=5</link>
-            <guid isPermaLink="false">1497284256</guid>
-            <pubDate>Tue, 12 Jul 2022 11:12:31 GMT</pubDate>
-            <description>
-                <ol>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vYmFvcXVvY3RlLnZuL2xpbmsteGVtLXRydWMtdGllcC1tdS12cy1saXZlcnBvb2wtMjBoMDAtbmdheS0xMjctZ2lhby1odXUtcXVvYy10ZS10YWktdGhhaS1sYW4tMTkwNTI4Lmh0bWzSAQA?oc=5" target="_blank">Link xem trực tiếp MU vs Liverpool (20h00 ngày 12/7) giao hữu quốc tế tại Thái Lan</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Thế giới và Việt Nam</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiU2h0dHBzOi8vemluZ25ld3Mudm4vbWFuLXVuaXRlZC12cy1saXZlcnBvb2wtYnJ1bm8tbWFydGlhbC1kYS1jaGluaC1wb3N0MTMzNTEwOC5odG1s0gEA?oc=5" target="_blank">Man United vs Liverpool: Bruno, Martial đá chính</a>&nbsp;&nbsp;<font color="#6f6f6f">Zing News</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiVWh0dHBzOi8vdGhldGhhbzI0Ny52bi80MTUtdHJ1Yy10aWVwLW11LXZzLWxpdmVycG9vbC0yMGgwMC1uZ2F5LTEyLTctMjAyMi1kMjYwNTI4Lmh0bWzSAVRodHRwczovL3RoZXRoYW8yNDcudm4vNDE1LXRydWMtdGllcC1tdS12cy1saXZlcnBvb2wtMjBoMDAtbmdheS0xMi03LTIwMjItZDI2MDUyOC5hbXA?oc=5" target="_blank">Trực tiếp MU 1-0 Liverpool: SANCHO MỞ TỈ SỐ</a>&nbsp;&nbsp;<font color="#6f6f6f">Thể Thao 247</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiVWh0dHBzOi8vdmlldG5hbW5ldC52bi90cnVjLXRpZXAtYm9uZy1kYS1tdS12cy1saXZlcnBvb2wtZ2lhby1odXUtYm9uZy1kYS0yMDM5MjI3Lmh0bWzSAQA?oc=5" target="_blank">Trực tiếp bóng đá MU vs Liverpool - Giao hữu bóng đá</a>&nbsp;&nbsp;<font color="#6f6f6f">VietNamNet</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vemluZ25ld3Mudm4vbWFuLXVuaXRlZC0zLTAtbGl2ZXJwb29sLXNhbmNoby1mcmVkLW1hcnRpYWwtbGFwLWNvbmctcG9zdDEzMzUxMDguaHRtbNIBAA?oc=5" target="_blank">Man United 3-0 Liverpool: Sancho, Fred, Martial lập công</a>&nbsp;&nbsp;<font color="#6f6f6f">Zing News</font>
-                    </li>
-                    <li>
-                        <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lnX2ZySkJSSDc0cVF5UjRhUkNTZ0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
-                        </strong>
-                    </li>
-                </ol>
-            </description>
-            <source url="https://baoquocte.vn">Báo Thế giới và Việt Nam</source>
-        </item>
-        <item>
-            <title>Báo Trung Quốc trầm trồ thán phục siêu phẩm của Quang Hải ở Pháp - Báo Dân Trí</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vZGFudHJpLmNvbS52bi90aGUtdGhhby9iYW8tdHJ1bmctcXVvYy10cmFtLXRyby10aGFuLXBodWMtc2lldS1waGFtLWN1YS1xdWFuZy1oYWktby1waGFwLTIwMjIwNzEyMjAwNzI0ODM4Lmh0bdIBeWh0dHBzOi8vYW1wLmRhbnRyaS5jb20udm4vdGhlLXRoYW8vYmFvLXRydW5nLXF1b2MtdHJhbS10cm8tdGhhbi1waHVjLXNpZXUtcGhhbS1jdWEtcXVhbmctaGFpLW8tcGhhcC0yMDIyMDcxMjIwMDcyNDgzOC5odG0?oc=5</link>
-            <guid isPermaLink="false">1492549106</guid>
-            <pubDate>Tue, 12 Jul 2022 13:07:35 GMT</pubDate>
-            <description>
-                <ol>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vZGFudHJpLmNvbS52bi90aGUtdGhhby9iYW8tdHJ1bmctcXVvYy10cmFtLXRyby10aGFuLXBodWMtc2lldS1waGFtLWN1YS1xdWFuZy1oYWktby1waGFwLTIwMjIwNzEyMjAwNzI0ODM4Lmh0bdIBeWh0dHBzOi8vYW1wLmRhbnRyaS5jb20udm4vdGhlLXRoYW8vYmFvLXRydW5nLXF1b2MtdHJhbS10cm8tdGhhbi1waHVjLXNpZXUtcGhhbS1jdWEtcXVhbmctaGFpLW8tcGhhcC0yMDIyMDcxMjIwMDcyNDgzOC5odG0?oc=5" target="_blank">Báo Trung Quốc trầm trồ thán phục siêu phẩm của Quang Hải ở Pháp</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Dân Trí</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vemluZ25ld3Mudm4vcXVhbmctaGFpLWdhcC10YW4tYmluaC1saWd1ZS0xLXZhby10b2ktMTI3LXBvc3QxMzM0OTA2Lmh0bWzSAQA?oc=5" target="_blank">Quang Hải gặp tân binh Ligue 1 vào tối 12/7</a>&nbsp;&nbsp;<font color="#6f6f6f">Zing News</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiU2h0dHBzOi8vdmlldG5hbW5ldC52bi9wYXUtZmMtZGF1LXRvdWxvdXNlLXF1YW5nLWhhaS10cm8tdGhhbmgtdGFtLWRpZW0tMjAzOTExMC5odG1s0gEA?oc=5" target="_blank">Pau FC đấu Toulouse: Quang Hải trở thành tâm điểm</a>&nbsp;&nbsp;<font color="#6f6f6f">VietNamNet</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vZGFudHJpLmNvbS52bi90aGUtdGhhby92ZW4tbWFuLWJpLW1hdC12dS1xdWFuZy1oYWktY2h1eWVuLXRvaS1wYXUtZmMtMjAyMjA3MTEyMDU3MTUzMzcuaHRt0gFmaHR0cHM6Ly9hbXAuZGFudHJpLmNvbS52bi90aGUtdGhhby92ZW4tbWFuLWJpLW1hdC12dS1xdWFuZy1oYWktY2h1eWVuLXRvaS1wYXUtZmMtMjAyMjA3MTEyMDU3MTUzMzcuaHRt?oc=5" target="_blank">Vén màn bí mật vụ Quang Hải chuyển tới Pau FC</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Dân Trí</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vdGhhbmhuaWVuLnZuL2hheS1jaG8teGVtLXF1YW5nLWhhaS1kYS10aGUtbmFvLWtoaS1kb2ktZGF1LXZvaS10aHVvYy10aHUtaGFuZy1uYW5nLXRvdWxvdXNlLXBvc3QxNDc3MzI4Lmh0bWzSAQA?oc=5" target="_blank">Hãy chờ xem Quang Hải đá thế nào khi đối đầu với thuốc thử hạng nặng Toulouse</a>&nbsp;&nbsp;<font color="#6f6f6f">Báo Thanh Niên</font>
-                    </li>
-                    <li>
-                        <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p5LTluSEJSSDVoUjZZbE95NGR5Z0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
-                        </strong>
-                    </li>
-                </ol>
-            </description>
-            <source url="https://dantri.com.vn">Báo Dân Trí</source>
-        </item>
-        <item>
-            <title>U19 Việt Nam sẵn sàng hạ gục U19 Malaysia tại bán kết U19 Đông Nam Á - Vietnam Plus</title>
-            <link>https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LnZpZXRuYW1wbHVzLnZuL3UxOS12aWV0LW5hbS1zYW4tc2FuZy1oYS1ndWMtdTE5LW1hbGF5c2lhLXRhaS1iYW4ta2V0LXUxOS1kb25nLW5hbS1hLzgwNTMxMi52bnDSAWpodHRwczovL3d3dy52aWV0bmFtcGx1cy52bi91MTktdmlldC1uYW0tc2FuLXNhbmctaGEtZ3VjLXUxOS1tYWxheXNpYS10YWktYmFuLWtldC11MTktZG9uZy1uYW0tYS84MDUzMTIuYW1w?oc=5</link>
-            <guid isPermaLink="false">1488751894</guid>
-            <pubDate>Tue, 12 Jul 2022 08:29:16 GMT</pubDate>
-            <description>
-                <ol>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LnZpZXRuYW1wbHVzLnZuL3UxOS12aWV0LW5hbS1zYW4tc2FuZy1oYS1ndWMtdTE5LW1hbGF5c2lhLXRhaS1iYW4ta2V0LXUxOS1kb25nLW5hbS1hLzgwNTMxMi52bnDSAWpodHRwczovL3d3dy52aWV0bmFtcGx1cy52bi91MTktdmlldC1uYW0tc2FuLXNhbmctaGEtZ3VjLXUxOS1tYWxheXNpYS10YWktYmFuLWtldC11MTktZG9uZy1uYW0tYS84MDUzMTIuYW1w?oc=5" target="_blank">U19 Việt Nam sẵn sàng hạ gục U19 Malaysia tại bán kết U19 Đông Nam Á</a>&nbsp;&nbsp;<font color="#6f6f6f">Vietnam Plus</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiVWh0dHBzOi8vdm5leHByZXNzLm5ldC9obHYtbWFsYXlzaWEtY2h1bmctdG9pLXNlLWtob25nLWRlLXZpZXQtbmFtLWFwLWRhby00NDg2NzI0Lmh0bWzSAQA?oc=5" target="_blank">HLV Malaysia: 'Chúng tôi sẽ không để Việt Nam áp đảo'</a>&nbsp;&nbsp;<font color="#6f6f6f">VnExpress </font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vemluZ25ld3Mudm4vcGhhbi11bmctY3VhLWhsdi11MTktbWFsYXlzaWEtdHJ1b2MtdHJhbi1iYW4ta2V0LWdhcC12aWV0LW5hbS1wb3N0MTMzNDg4Mi5odG1s0gEA?oc=5" target="_blank">Phản ứng của HLV U19 Malaysia trước trận bán kết gặp Việt Nam</a>&nbsp;&nbsp;<font color="#6f6f6f">Zing News</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WG4xZHRWTjFISEXSAQA?oc=5" target="_blank">BÁN KẾT U19 ĐÔNG NAM Á | Trực tiếp U19 Việt Nam - U19 Malaysia (15h30 ngày 13/7). NHẬN ĐỊNH BÓNG ĐÁ</a>&nbsp;&nbsp;<font color="#6f6f6f">Thể Thao Văn Hóa</font>
-                    </li>
-                    <li>
-                        <a href="https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vdm5leHByZXNzLm5ldC9tYWxheXNpYS1kdW5nLXZpZXQtbmFtLW8tYmFuLWtldC11MTktZG9uZy1uYW0tYS00NDg2NDIxLmh0bWzSAQA?oc=5" target="_blank">Malaysia đụng Việt Nam ở bán kết U19 Đông Nam Á</a>&nbsp;&nbsp;<font color="#6f6f6f">VnExpress </font>
-                    </li>
-                    <li>
-                        <strong>
-                            <a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lXbXZMRkJSRXdBZVBiS2Y0TE95Z0FQAQ?oc=5" target="_blank">Xem Thông tin toàn cảnh trên Google Tin tức</a>
-                        </strong>
-                    </li>
-                </ol>
-            </description>
-            <source url="https://www.vietnamplus.vn">Vietnam Plus</source>
+            <source url="https://www.eastmojo.com">EastMojo</source>
         </item>
     </channel>
 </rss>

@@ -15,7 +15,8 @@
           "options": {
             "outputPath": "dist/bravo-interview-langding-page",
             "allowedCommonJsDependencies": [
-              "lodash"
+              "xml2js",
+              "sweetalert2"
             ],
             "index": "src/index.html",
             "main": "src/main.ts",
