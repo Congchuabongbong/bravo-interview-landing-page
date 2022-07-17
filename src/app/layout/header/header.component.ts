@@ -6,7 +6,7 @@ import routesConfig from '../../config/routes';
     styleUrls: ['./header.component.css'],
 })
 export class HeaderComponent implements OnInit {
-    public routes = { ...routesConfig };
+    public routes = { ...routesConfig }; //router config to set path for page
     constructor(private elementRef: ElementRef) {}
 
     ngOnInit(): void {}

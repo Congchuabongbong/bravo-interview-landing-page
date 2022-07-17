@@ -18,6 +18,7 @@ import { ContactComponent } from './pages/contact/contact.component';
 import { ArticleComponent } from './pages/article/article.component';
 import { ButtonComponent } from './components/button/button.component';
 import { ParseXmlToObjPipe } from './pipe/parse-xml-to-obj.pipe';
+import { ErrorComponent } from './pages/error/error.component';
 
 @NgModule({
     declarations: [
@@ -34,6 +35,7 @@ import { ParseXmlToObjPipe } from './pipe/parse-xml-to-obj.pipe';
         ArticleComponent,
         ButtonComponent,
         ParseXmlToObjPipe,
+        ErrorComponent,
     ],
     imports: [BrowserModule, AppRoutingModule, ReactiveFormsModule, InfiniteScrollModule],
     providers: [ParseXmlToObjPipe],

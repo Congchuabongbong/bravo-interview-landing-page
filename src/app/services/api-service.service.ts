@@ -8,7 +8,8 @@ export enum MediaTypes {
 })
 export class ApiServiceService {
     constructor() {}
-
+    //**API METHODS start here*/
+    //Get method
     public async getData(url: string, mediaType: MediaTypes = MediaTypes.JSON): Promise<any> {
         try {
             const response: any = await fetch(url, {

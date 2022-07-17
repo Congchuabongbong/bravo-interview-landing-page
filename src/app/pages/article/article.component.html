@@ -3,12 +3,14 @@
         <div
             class="content-container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-[60px] md:gap-y-[40px]">
             <div *ngFor="let article of chuckArticle">
-                <a href="{{article.link}}" class="block mb-[10px]" target="_blank">
+
+                <a href="{{article.link}}" class="block mb-[10px] rounded-[12px] overflow-hidden" target="_blank">
                     <img src="assets/img/news.jpeg" alt="image post"
-                        class="post-image w-full h-[310px] rounded-[12px] object-cover" />
+                        class="post-image w-full h-[310px] rounded-[12px] object-cover lg:transition-all lg:duration-200 lg:hover:scale-[1.1]">
                 </a>
                 <span before=""
-                    class="inline-block py-[5px] px-[10px] relative rounded-[10px] text-xs text-red-500 mb-[10px] before:content-[attr(before)] before:absolute before:top-0 before:left-0 before:w-full before:h-full before:rounded-[10px] before:bg-current before:opacity-[0.15]">News
+                    class="inline-block py-[5px] px-[10px] relative rounded-[10px] text-xs text-red-500 mb-[10px] before:content-[attr(before)] before:absolute before:top-0 before:left-0 before:w-full before:h-full before:rounded-[10px] before:bg-current before:opacity-[0.15]">Latest
+                    news
                 </span>
                 <h1 class="overflow-hidden mb-5">
                     <a href="{{article.link}}"

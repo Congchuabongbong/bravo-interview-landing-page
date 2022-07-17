@@ -9,8 +9,12 @@ export class ParseXmlToObjPipe implements PipeTransform {
         let dataObj!: any | null;
         if (value) {
             this.parser.parseString(value, (err, result) => {
-                let dataString = JSON.stringify(result);
-                dataObj = JSON.parse(dataString);
+                if (result) {
+                    let dataString = JSON.stringify(result);
+                    dataObj = JSON.parse(dataString);
+                } else {
+                    console.log(err);
+                }
             });
         }
         return dataObj;

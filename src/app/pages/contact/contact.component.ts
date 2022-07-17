@@ -1,5 +1,7 @@
+//**import from libraries*/
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, Validators, AbstractControl } from '@angular/forms';
+//**import from sources*/
 import { SweetalertService, TYPE } from 'src/app/services/sweetalert.service';
 
 @Component({
@@ -8,22 +10,21 @@ import { SweetalertService, TYPE } from 'src/app/services/sweetalert.service';
     styleUrls: ['./contact.component.css'],
 })
 export class ContactComponent implements OnInit {
-    //**TODO Properties declared here:
+    //** Properties declared start here:
     protected submitted = false;
-    //**TODO Constructor here!
+    //** Constructor start here!
     constructor(private formBuilder: FormBuilder, private swal: SweetalertService) {}
-    //**TODO Generate contact form group here
+    //** Generate contact form group using form builder here:
     protected contactForm = this.formBuilder.group({
         name: ['', Validators.required],
         email: ['', [Validators.required, Validators.email]],
         subject: ['', Validators.required],
         desc: ['', [Validators.required, Validators.maxLength(250)]],
     });
-    //**TODO Getter
+    //** Getter
     public get name() {
         return this.contactForm.get('name');
     }
-
     public get email() {
         return this.contactForm.get('email');
     }
@@ -33,27 +34,24 @@ export class ContactComponent implements OnInit {
     public get desc() {
         return this.contactForm.get('desc');
     }
-
     public get contactF(): { [key: string]: AbstractControl } {
         return this.contactForm.controls;
     }
 
-    //**TODO Lifecycle hooks here
+    //** Lifecycle hooks here
     ngOnInit(): void {}
 
-    //**TODO Event Binding here:
+    //** Event Binding here:
     public onSubmit() {
         this.submitted = true;
-        //**If contactForm invalid prevent submit!
+        //If contactForm invalid prevent submit!
         if (this.contactForm.invalid) {
             return;
         }
-        //**DO something when form success here!... */
-        //** call service sweet alert toast here!
-        this.swal.toast(TYPE.SUCCESS, false, 'Submit success!', 2000);
-        //** reset form when submit success!
+        //DO something when form success here!...
         console.log(this.contactForm.value);
-
+        this.swal.toast(TYPE.SUCCESS, false, 'Submit success!', 2000); // alert success when form valid  here!
+        //Reset form when submit success!
         this.submitted = false;
         this.contactForm.reset();
     }

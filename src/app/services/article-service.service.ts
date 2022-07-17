@@ -11,12 +11,11 @@ type Source = {
     providedIn: 'root',
 })
 export class ArticleServiceService {
-    public articleList: Article[] = [];
     constructor() {}
-
+    //**Format Article Object*/
     public formatArticleFromData(items: any[]): any {
-        let articleList: Article[] = items.map((item) => {
-            let article: Article = {
+        const articleList: Article[] = items.map((item) => {
+            const article: Article = {
                 link: item.LINK[0],
                 title: item.TITLE[0],
                 pubDate: item.PUBDATE[0],

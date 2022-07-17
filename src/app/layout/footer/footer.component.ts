@@ -6,7 +6,7 @@ import routesConfig from '../../config/routes';
     styleUrls: ['./footer.component.css'],
 })
 export class FooterComponent implements OnInit {
-    public routes = { ...routesConfig };
+    public routes = { ...routesConfig }; //router config to set path for page
     constructor() {}
 
     ngOnInit(): void {}
