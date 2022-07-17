@@ -56,6 +56,6 @@ export class ArticleComponent implements OnInit {
             this.chuckArticle.push(...this.articleList.splice(this.startSplice, this.endSplice));
             this.isLoading = false; //turn off loading when api completed
             clearTimeout(timer);
-        }, 2000);
+        }, 1500);
     }
 }
