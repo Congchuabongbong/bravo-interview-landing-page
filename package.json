@@ -20,6 +20,7 @@
     "@angular/router": "^14.0.0",
     "@sweetalert2/ngx-sweetalert2": "^11.0.0",
     "@types/xml2js": "^0.4.11",
+    "ngx-infinite-scroll": "^14.0.0",
     "rxjs": "~7.5.0",
     "stream": "^0.0.2",
     "sweetalert2": "^11.4.23",

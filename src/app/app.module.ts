@@ -1,6 +1,9 @@
+//** import libraries
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { ReactiveFormsModule } from '@angular/forms';
+import { InfiniteScrollModule } from 'ngx-infinite-scroll';
+//** import source*/
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './layout/header/header.component';
@@ -14,7 +17,6 @@ import { IndexComponent } from './pages/home/index/index.component';
 import { ContactComponent } from './pages/contact/contact.component';
 import { ArticleComponent } from './pages/article/article.component';
 import { ButtonComponent } from './components/button/button.component';
-
 import { ParseXmlToObjPipe } from './pipe/parse-xml-to-obj.pipe';
 
 @NgModule({
@@ -33,7 +35,7 @@ import { ParseXmlToObjPipe } from './pipe/parse-xml-to-obj.pipe';
         ButtonComponent,
         ParseXmlToObjPipe,
     ],
-    imports: [BrowserModule, AppRoutingModule, ReactiveFormsModule],
+    imports: [BrowserModule, AppRoutingModule, ReactiveFormsModule, InfiniteScrollModule],
     providers: [ParseXmlToObjPipe],
     bootstrap: [AppComponent],
 })

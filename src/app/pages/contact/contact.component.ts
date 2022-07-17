@@ -52,6 +52,8 @@ export class ContactComponent implements OnInit {
         //** call service sweet alert toast here!
         this.swal.toast(TYPE.SUCCESS, false, 'Submit success!', 2000);
         //** reset form when submit success!
+        console.log(this.contactForm.value);
+
         this.submitted = false;
         this.contactForm.reset();
     }

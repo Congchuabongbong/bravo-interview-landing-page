@@ -11,6 +11,7 @@ type Source = {
     providedIn: 'root',
 })
 export class ArticleServiceService {
+    public articleList: Article[] = [];
     constructor() {}
 
     public formatArticleFromData(items: any[]): any {
