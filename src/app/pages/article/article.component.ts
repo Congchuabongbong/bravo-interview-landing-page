@@ -47,12 +47,12 @@ export class ArticleComponent implements OnInit {
         }
         // fake during time call api when user scrolled! Default 1s
         const timer = setTimeout(() => {
-            //check paginate if last page
+            //check paginate if it's last page
             if (this.paginate > this.articleList.length) {
                 this.chuckArticle.push(...this.articleList.splice(this.startSplice, this.articleList.length));
                 return;
             }
-            //fake paginate! when user scrolled will push item into chuckArticle
+            //fake paginate! when user scrolled will push items of next page into chuckArticle
             this.chuckArticle.push(...this.articleList.splice(this.startSplice, this.endSplice));
             this.isLoading = false; //turn off loading when api completed
             clearTimeout(timer);
