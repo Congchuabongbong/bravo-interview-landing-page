@@ -1,5 +1,5 @@
-<section class="mb-[40px] md:mb-[60px]" infinite-scroll (scrolled)="onScrollDown($event)" [infiniteScrollDistance]="1"
-    [infiniteScrollThrottle]="0" [hidden]="chuckArticle === null">
+<section class="mb-[40px] md:mb-[60px]" infinite-scroll (scrolled)="onScrollDown($event)" [infiniteScrollDistance]="0"
+    [infiniteScrollThrottle]="500" [hidden]="chuckArticle === null">
     <div class="container px-4 mx-auto">
         <div
             class="content-container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-[60px] md:gap-y-[40px]">
