@@ -1,13 +1,13 @@
 <section>
     <!-- container -->
-    <div class="container mx-auto px-4">
-        <div class="content-container flex justify-center items-center lg:items-stretch w-full">
+    <div class="container px-4 mx-auto">
+        <div class="flex items-center justify-center w-full content-container lg:items-stretch">
             <div
                 class="block rounded-lg lg:rounded-none shadow-lg bg-[#e8edf0] w-full md:w-fit lg:w-[50%] p-[24px] md:p-[36px]">
                 <form [formGroup]="contactForm" (ngSubmit)="onSubmit()">
                     <h2 class="text-[32px] font-[500] mb-[24px]">Contact Us</h2>
                     <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 sm:gap-6">
-                        <div class="form-group  mb-6">
+                        <div class="mb-6 form-group">
                             <label for="name" class="uppercase mb-2 text-[12px] font-semibold">Full Name</label>
                             <input type="text" class="form-control
                         block
@@ -27,11 +27,11 @@
                                 placeholder="Name..." formControlName="name"
                                 [ngClass]="{ 'is-invalid': submitted && contactF['name'].errors }">
                             <div *ngIf="submitted && contactF['name'].errors" class="invalid-feedback">
-                                <small *ngIf="contactF['name'].errors['required']"
-                                    class="block mt-1 text-xs text-red-500">Name is required</small>
+                                <span *ngIf="contactF['name'].errors['required']"
+                                    class="block mt-1 text-xs text-red-500">Name is required</span>
                             </div>
                         </div>
-                        <div class="form-group mb-6">
+                        <div class="mb-6 form-group">
                             <label for="email" class="uppercase mb-2 text-[12px] font-semibold">Email Address</label>
                             <input type="email" class="form-control
                         block
@@ -58,7 +58,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="form-group mb-6">
+                    <div class="mb-6 form-group">
                         <label for="subject" class="uppercase mb-2 text-[12px] font-semibold">Subject</label>
                         <input type="text" class="form-control block
                         w-full
@@ -81,7 +81,7 @@
                                 class="block mt-1 text-xs text-red-500">Subject is required</span>
                         </div>
                     </div>
-                    <div class="form-group mb-6">
+                    <div class="mb-6 form-group">
                         <label for="message" class="uppercase mb-2 text-[12px] font-semibold">Message</label>
                         <textarea class="
                             form-control
@@ -129,9 +129,9 @@
 
                 </form>
             </div>
-            <div class="grow hidden lg:block">
+            <div class="hidden grow lg:block">
                 <img src="https://images.pexels.com/photos/1416530/pexels-photo-1416530.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-                    alt="" class="w-full h-full object-cover">
+                    alt="" class="object-cover w-full h-full">
             </div>
         </div>
     </div>

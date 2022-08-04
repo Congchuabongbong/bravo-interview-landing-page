@@ -16,9 +16,9 @@ import { DownloadComponent } from './pages/home/components/download/download.com
 import { IndexComponent } from './pages/home/index/index.component';
 import { ContactComponent } from './pages/contact/contact.component';
 import { ArticleComponent } from './pages/article/article.component';
-import { ButtonComponent } from './components/button/button.component';
 import { ParseXmlToObjPipe } from './pipe/parse-xml-to-obj.pipe';
 import { ErrorComponent } from './pages/error/error.component';
+import { ThemeToggleComponent } from './components/theme-toggle/theme-toggle.component';
 
 @NgModule({
     declarations: [
@@ -33,9 +33,9 @@ import { ErrorComponent } from './pages/error/error.component';
         BannerComponent,
         ContactComponent,
         ArticleComponent,
-        ButtonComponent,
         ParseXmlToObjPipe,
         ErrorComponent,
+        ThemeToggleComponent,
     ],
     imports: [BrowserModule, AppRoutingModule, ReactiveFormsModule, InfiniteScrollModule],
     providers: [ParseXmlToObjPipe],

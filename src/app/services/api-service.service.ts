@@ -7,7 +7,13 @@ export enum MediaTypes {
     providedIn: 'root',
 })
 export class ApiServiceService {
+    private controller = new AbortController();
+    private signal = this.controller.signal;
     constructor() {}
+
+    public abortFetch(): void {
+        this.controller.abort();
+    }
     //**API METHODS start here*/
     //Get method
     public async getData(url: string, mediaType: MediaTypes = MediaTypes.JSON): Promise<any> {
@@ -18,6 +24,7 @@ export class ApiServiceService {
                     'Content-Type': mediaType,
                     'Access-Control-Allow-Origin': '*',
                 },
+                signal: this.signal,
             });
             let data: any;
             if (mediaType === 'application/xml') {

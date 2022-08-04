@@ -1,5 +1,5 @@
 //** import from libraries */
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, OnDestroy } from '@angular/core';
 //** import from sources */
 import { ParseXmlToObjPipe } from 'src/app/pipe/parse-xml-to-obj.pipe';
 import { ApiServiceService, MediaTypes } from 'src/app/services/api-service.service';
@@ -9,7 +9,7 @@ import { ArticleServiceService, Article } from 'src/app/services/article-service
     templateUrl: './article.component.html',
     styleUrls: ['./article.component.css'],
 })
-export class ArticleComponent implements OnInit {
+export class ArticleComponent implements OnInit, OnDestroy {
     //**Property declared component start here:
     public articleList!: Article[];
     public chuckArticle!: Article[];
@@ -28,6 +28,11 @@ export class ArticleComponent implements OnInit {
         //Get Article when component initiate here!
         this.getArticle();
     }
+    ngOnDestroy(): void {
+        //abort Fetch api when component destroyed
+        this.apiService.abortFetch();
+    }
+
     //** field function start here:
     public async getArticle(): Promise<any> {
         let dataXML: any = await this.apiService.getData('assets/data.xml', MediaTypes.XML); //call api using api service

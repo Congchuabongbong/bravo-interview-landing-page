@@ -1,0 +1,8 @@
+.dark-mode-input:checked + div {
+    background-color: #6a5af9;
+}
+
+.dark-mode-input:checked + div .snipper {
+    background-color: #ffff;
+    transform: translateX(60px);
+}
