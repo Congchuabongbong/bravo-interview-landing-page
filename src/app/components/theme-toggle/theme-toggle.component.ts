@@ -1,4 +1,4 @@
-import { Component, OnInit, Renderer2, ElementRef } from '@angular/core';
+import { Component, OnInit, Renderer2, ElementRef, ViewChild } from '@angular/core';
 import { LocalStorageService } from '../../services/local-storage.service';
 @Component({
     selector: 'app-theme-toggle',
@@ -6,19 +6,18 @@ import { LocalStorageService } from '../../services/local-storage.service';
     styleUrls: ['./theme-toggle.component.css'],
 })
 export class ThemeToggleComponent implements OnInit {
-    constructor(
-        private renderer: Renderer2,
-        private localStorageService: LocalStorageService,
-        private elementRef: ElementRef,
-    ) {}
+    @ViewChild('inputToggle', { static: false, read: ElementRef }) inputToggleRef!: ElementRef;
     private currentTheme!: any;
+    constructor(private renderer: Renderer2, private localStorageService: LocalStorageService) {}
     ngOnInit(): void {
         this.currentTheme = this.localStorageService.getItem('theme');
+    }
+    ngAfterViewInit(): void {
         if (this.currentTheme) {
             this.renderer.addClass(document.documentElement, this.currentTheme);
             if (this.currentTheme === 'dark') {
                 console.log('dark');
-                this.elementRef.nativeElement.querySelector('.toggle-switch input[type="checkbox"]').checked = true;
+                this.inputToggleRef.nativeElement.checked = true;
             }
         }
     }

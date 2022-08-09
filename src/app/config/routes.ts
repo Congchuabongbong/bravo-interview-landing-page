@@ -1,5 +1,5 @@
 const routesConfig = {
-    home: '',
+    home: 'home',
     contact: 'contact',
     article: 'article',
 };

@@ -9,7 +9,7 @@
                     class="inline-block w-fit"><img src="../assets/img/logo.png" alt="website logo" /></a>
             </div>
             <!-- ===link=== -->
-            <ul id="menu" class="invisible md:visible c-menu" (click)=(toggleMenuMobile())>
+            <ul id="menu" class="invisible md:visible c-menu" (click)=(toggleMenuMobile()) #menu>
                 <li class="m-12 md:m-0"><a routerLink="{{routes.home}}" routerLinkActive="active"
                         ariaCurrentWhenActive="page" class="c-link">Home</a>
                 </li>
