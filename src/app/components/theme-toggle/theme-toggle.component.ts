@@ -16,7 +16,6 @@ export class ThemeToggleComponent implements OnInit {
         if (this.currentTheme) {
             this.renderer.addClass(document.documentElement, this.currentTheme);
             if (this.currentTheme === 'dark') {
-                console.log('dark');
                 this.inputToggleRef.nativeElement.checked = true;
             }
         }
